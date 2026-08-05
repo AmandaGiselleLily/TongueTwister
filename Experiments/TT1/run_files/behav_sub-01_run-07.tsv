@@ -1,65 +1,37 @@
-trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time	rest_dur
-1	0	pot pot pot pot pot pot pot pot pot 	4.0	1	4.0	4.5	2.0
-2	0	ser ser ser ser ser ser ser ser ser 	10.0	1	4.0	4.5	2.0
-3	0	fee fee fee fee fee fee fee fee fee 	16.0	1	4.0	4.5	2.0
-4	0	naw naw naw naw naw naw naw naw naw 	22.0	1	4.0	4.5	2.0
-5	0	per per per per per per per per per 	28.0	1	4.0	4.5	2.0
-6	0	day day day day day day day day day 	34.0	1	4.0	4.5	2.0
-7	0	ter ter ter ter ter ter ter ter ter 	40.0	1	4.0	4.5	2.0
-8	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	46.0	1	4.0	4.5	2.0
-9	0	day day day day day day day day day 	52.0	1	4.0	4.5	2.0
-10	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	58.0	1	4.0	4.5	2.0
-11	0	naw naw naw naw naw naw naw naw naw 	64.0	1	4.0	4.5	2.0
-12	0	fee fee fee fee fee fee fee fee fee 	70.0	1	4.0	4.5	2.0
-13	0	pot pot pot pot pot pot pot pot pot 	76.0	1	4.0	4.5	2.0
-14	0	ter ter ter ter ter ter ter ter ter 	82.0	1	4.0	4.5	2.0
-15	0	thought thought thought thought thought thought thought thought thought 	88.0	1	4.0	4.5	2.0
-16	0	ser ser ser ser ser ser ser ser ser 	94.0	1	4.0	4.5	2.0
-17	0	thought thought thought thought thought thought thought thought thought 	100.0	1	4.0	4.5	2.0
-18	0	naw naw naw naw naw naw naw naw naw 	106.0	1	4.0	4.5	2.0
-19	0	ser ser ser ser ser ser ser ser ser 	112.0	1	4.0	4.5	2.0
-20	0	fee fee fee fee fee fee fee fee fee 	118.0	1	4.0	4.5	2.0
-21	0	per per per per per per per per per 	124.0	1	4.0	4.5	2.0
-22	0	pot pot pot pot pot pot pot pot pot 	130.0	1	4.0	4.5	2.0
-23	0	mih mih mih mih mih mih mih mih mih 	136.0	1	4.0	4.5	2.0
-24	0	ter ter ter ter ter ter ter ter ter 	142.0	1	4.0	4.5	2.0
-25	0	naw naw naw naw naw naw naw naw naw 	148.0	1	4.0	4.5	2.0
-26	0	ter ter ter ter ter ter ter ter ter 	154.0	1	4.0	4.5	2.0
-27	0	per per per per per per per per per 	160.0	1	4.0	4.5	2.0
-28	0	thought thought thought thought thought thought thought thought thought 	166.0	1	4.0	4.5	2.0
-29	0	pot pot pot pot pot pot pot pot pot 	172.0	1	4.0	4.5	2.0
-30	0	fee fee fee fee fee fee fee fee fee 	178.0	1	4.0	4.5	2.0
-31	0	pie pie pie pie pie pie pie pie pie 	184.0	1	4.0	4.5	2.0
-32	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	190.0	1	4.0	4.5	2.0
-33	0	fee fee fee fee fee fee fee fee fee 	196.0	1	4.0	4.5	2.0
-34	0	pie pie pie pie pie pie pie pie pie 	202.0	1	4.0	4.5	2.0
-35	0	thought thought thought thought thought thought thought thought thought 	208.0	1	4.0	4.5	2.0
-36	0	ter ter ter ter ter ter ter ter ter 	214.0	1	4.0	4.5	2.0
-37	0	day day day day day day day day day 	220.0	1	4.0	4.5	2.0
-38	0	mih mih mih mih mih mih mih mih mih 	226.0	1	4.0	4.5	2.0
-39	0	per per per per per per per per per 	232.0	1	4.0	4.5	2.0
-40	0	ser ser ser ser ser ser ser ser ser 	238.0	1	4.0	4.5	2.0
-41	0	pot pot pot pot pot pot pot pot pot 	244.0	1	4.0	4.5	2.0
-42	0	naw naw naw naw naw naw naw naw naw 	250.0	1	4.0	4.5	2.0
-43	0	day day day day day day day day day 	256.0	1	4.0	4.5	2.0
-44	0	per per per per per per per per per 	262.0	1	4.0	4.5	2.0
-45	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	268.0	1	4.0	4.5	2.0
-46	0	mih mih mih mih mih mih mih mih mih 	274.0	1	4.0	4.5	2.0
-47	0	thought thought thought thought thought thought thought thought thought 	280.0	1	4.0	4.5	2.0
-48	0	ter ter ter ter ter ter ter ter ter 	286.0	1	4.0	4.5	2.0
-49	0	ter ter ter ter ter ter ter ter ter 	292.0	1	4.0	4.5	2.0
-50	0	naw naw naw naw naw naw naw naw naw 	298.0	1	4.0	4.5	2.0
-51	0	thought thought thought thought thought thought thought thought thought 	304.0	1	4.0	4.5	2.0
-52	0	per per per per per per per per per 	310.0	1	4.0	4.5	2.0
-53	0	pot pot pot pot pot pot pot pot pot 	316.0	1	4.0	4.5	2.0
-54	0	mih mih mih mih mih mih mih mih mih 	322.0	1	4.0	4.5	2.0
-55	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	328.0	1	4.0	4.5	2.0
-56	0	pie pie pie pie pie pie pie pie pie 	334.0	1	4.0	4.5	2.0
-57	0	pot pot pot pot pot pot pot pot pot 	340.0	1	4.0	4.5	2.0
-58	0	mih mih mih mih mih mih mih mih mih 	346.0	1	4.0	4.5	2.0
-59	0	day day day day day day day day day 	352.0	1	4.0	4.5	2.0
-60	0	per per per per per per per per per 	358.0	1	4.0	4.5	2.0
-61	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	364.0	1	4.0	4.5	2.0
-62	0	fee fee fee fee fee fee fee fee fee 	370.0	1	4.0	4.5	2.0
-63	0	naw naw naw naw naw naw naw naw naw 	376.0	1	4.0	4.5	2.0
-64	0	thought thought thought thought thought thought thought thought thought 	382.0	1	4.0	4.5	2.0
+trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
+1	random	ter three peck throne fee pot the per caw picked thurs pie thieves pi out per ti pro through thought thir	4.0	4.0	4.0	4.5
+2	word	pi ter pie per picked peck out less ser leh ther neh ver day pro per caw fee pot through thurs	13.0	4.0	4.0	4.5
+3	simple	through through through through through through through through through	22.0	4.0	4.0	4.5
+4	simple	day day day day day day day day day	31.0	4.0	4.0	4.5
+5	word	pro per caw fee pot through thurs less ser leh ther neh ver day pi ter pie per picked peck out	40.0	4.0	4.0	4.5
+6	word	pro per caw fee pot through thurs pi ter pie per picked peck out less ser leh ther neh ver day	49.0	4.0	4.0	4.5
+7	word	less ser leh ther neh ver day pro per caw fee pot through thurs pi ter pie per picked peck out	58.0	4.0	4.0	4.5
+8	random	thir ver less the throne out thought ti picked per ser pie ter day three peck pi leh thieves neh ther	67.0	4.0	4.0	4.5
+9	random	thieves ti per per caw through pro pi fee pie thought picked thir out three peck ter thurs pot throne the	76.0	4.0	4.0	4.5
+10	simple	peck peck peck peck peck peck peck peck peck	85.0	4.0	4.0	4.5
+11	random	ther day fee leh caw less the ti thieves through pot thought per neh throne thurs three ser ver pro thir	94.0	4.0	4.0	4.5
+12	random	ser three ti thurs ther the through throne pro less pot thieves caw thought leh per neh day thir ver fee	103.0	4.0	4.0	4.5
+13	word	the thir ti three thieves thought throne pro per caw fee pot through thurs pi ter pie per picked peck out	112.0	4.0	4.0	4.5
+14	simple	pro pro pro pro pro pro pro pro pro	121.0	4.0	4.0	4.5
+15	word	pi ter pie per picked peck out the thir ti three thieves thought throne pro per caw fee pot through thurs	130.0	4.0	4.0	4.5
+16	word	pi ter pie per picked peck out pro per caw fee pot through thurs less ser leh ther neh ver day	139.0	4.0	4.0	4.5
+17	word	pi ter pie per picked peck out pro per caw fee pot through thurs the thir ti three thieves thought throne	148.0	4.0	4.0	4.5
+18	word	pi ter pie per picked peck out the thir ti three thieves thought throne less ser leh ther neh ver day	157.0	4.0	4.0	4.5
+19	word	pro per caw fee pot through thurs the thir ti three thieves thought throne less ser leh ther neh ver day	166.0	4.0	4.0	4.5
+20	word	pi ter pie per picked peck out less ser leh ther neh ver day the thir ti three thieves thought throne	175.0	4.0	4.0	4.5
+21	word	the thir ti three thieves thought throne pro per caw fee pot through thurs less ser leh ther neh ver day	184.0	4.0	4.0	4.5
+22	simple	thought thought thought thought thought thought thought thought thought	193.0	4.0	4.0	4.5
+23	simple	ti ti ti ti ti ti ti ti ti	202.0	4.0	4.0	4.5
+24	word	pro per caw fee pot through thurs less ser leh ther neh ver day the thir ti three thieves thought throne	211.0	4.0	4.0	4.5
+25	random	ver fee per ther thurs through per caw day picked neh out pie leh peck ser pro pot less pi ter	220.0	4.0	4.0	4.5
+26	random	ver ser ti less picked pie the pi thought ther per thir thieves peck out neh throne day leh ter three	229.0	4.0	4.0	4.5
+27	word	less ser leh ther neh ver day pi ter pie per picked peck out pro per caw fee pot through thurs	238.0	4.0	4.0	4.5
+28	simple	leh leh leh leh leh leh leh leh leh	247.0	4.0	4.0	4.5
+29	simple	caw caw caw caw caw caw caw caw caw	256.0	4.0	4.0	4.5
+30	random	less pot pi out per day caw peck neh pie per through thurs ther ser pro ver ter picked fee leh	265.0	4.0	4.0	4.5
+31	random	thurs through peck throne three per thieves ter pot fee pi pie the per ti picked thought pro caw out thir	274.0	4.0	4.0	4.5
+32	random	ti three thought ter thir pie less ver ser neh throne picked thieves peck per leh out the ther day pi	283.0	4.0	4.0	4.5
+33	simple	pie pie pie pie pie pie pie pie pie	292.0	4.0	4.0	4.5
+34	word	pro per caw fee pot through thurs pi ter pie per picked peck out the thir ti three thieves thought throne	301.0	4.0	4.0	4.5
+35	simple	neh neh neh neh neh neh neh neh neh	310.0	4.0	4.0	4.5
+36	word	the thir ti three thieves thought throne less ser leh ther neh ver day pro per caw fee pot through thurs	319.0	4.0	4.0	4.5

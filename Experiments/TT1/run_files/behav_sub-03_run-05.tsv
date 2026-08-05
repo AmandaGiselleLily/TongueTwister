@@ -1,65 +1,37 @@
-trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time	rest_dur
-1	0	thir thir thir thir thir thir thir thir thir 	4.0	1	4.0	4.5	2.0
-2	0	juh juh juh juh juh juh juh juh juh 	10.0	1	4.0	4.5	2.0
-3	0	naw naw naw naw naw naw naw naw naw 	16.0	1	4.0	4.5	2.0
-4	0	airy airy airy airy airy airy airy airy airy 	22.0	1	4.0	4.5	2.0
-5	0	ti ti ti ti ti ti ti ti ti 	28.0	1	4.0	4.5	2.0
-6	0	three three three three three three three three three 	34.0	1	4.0	4.5	2.0
-7	0	pot pot pot pot pot pot pot pot pot 	40.0	1	4.0	4.5	2.0
-8	0	throne throne throne throne throne throne throne throne throne 	46.0	1	4.0	4.5	2.0
-9	0	naw naw naw naw naw naw naw naw naw 	52.0	1	4.0	4.5	2.0
-10	0	pot pot pot pot pot pot pot pot pot 	58.0	1	4.0	4.5	2.0
-11	0	ti ti ti ti ti ti ti ti ti 	64.0	1	4.0	4.5	2.0
-12	0	juh juh juh juh juh juh juh juh juh 	70.0	1	4.0	4.5	2.0
-13	0	thir thir thir thir thir thir thir thir thir 	76.0	1	4.0	4.5	2.0
-14	0	airy airy airy airy airy airy airy airy airy 	82.0	1	4.0	4.5	2.0
-15	0	through through through through through through through through through 	88.0	1	4.0	4.5	2.0
-16	0	throne throne throne throne throne throne throne throne throne 	94.0	1	4.0	4.5	2.0
-17	0	three three three three three three three three three 	100.0	1	4.0	4.5	2.0
-18	0	naw naw naw naw naw naw naw naw naw 	106.0	1	4.0	4.5	2.0
-19	0	through through through through through through through through through 	112.0	1	4.0	4.5	2.0
-20	0	pot pot pot pot pot pot pot pot pot 	118.0	1	4.0	4.5	2.0
-21	0	throne throne throne throne throne throne throne throne throne 	124.0	1	4.0	4.5	2.0
-22	0	airy airy airy airy airy airy airy airy airy 	130.0	1	4.0	4.5	2.0
-23	0	thir thir thir thir thir thir thir thir thir 	136.0	1	4.0	4.5	2.0
-24	0	caw caw caw caw caw caw caw caw caw 	142.0	1	4.0	4.5	2.0
-25	0	through through through through through through through through through 	148.0	1	4.0	4.5	2.0
-26	0	pot pot pot pot pot pot pot pot pot 	154.0	1	4.0	4.5	2.0
-27	0	neh neh neh neh neh neh neh neh neh 	160.0	1	4.0	4.5	2.0
-28	0	naw naw naw naw naw naw naw naw naw 	166.0	1	4.0	4.5	2.0
-29	0	three three three three three three three three three 	172.0	1	4.0	4.5	2.0
-30	0	ti ti ti ti ti ti ti ti ti 	178.0	1	4.0	4.5	2.0
-31	0	airy airy airy airy airy airy airy airy airy 	184.0	1	4.0	4.5	2.0
-32	0	thir thir thir thir thir thir thir thir thir 	190.0	1	4.0	4.5	2.0
-33	0	naw naw naw naw naw naw naw naw naw 	196.0	1	4.0	4.5	2.0
-34	0	throne throne throne throne throne throne throne throne throne 	202.0	1	4.0	4.5	2.0
-35	0	ti ti ti ti ti ti ti ti ti 	208.0	1	4.0	4.5	2.0
-36	0	neh neh neh neh neh neh neh neh neh 	214.0	1	4.0	4.5	2.0
-37	0	thir thir thir thir thir thir thir thir thir 	220.0	1	4.0	4.5	2.0
-38	0	three three three three three three three three three 	226.0	1	4.0	4.5	2.0
-39	0	airy airy airy airy airy airy airy airy airy 	232.0	1	4.0	4.5	2.0
-40	0	juh juh juh juh juh juh juh juh juh 	238.0	1	4.0	4.5	2.0
-41	0	three three three three three three three three three 	244.0	1	4.0	4.5	2.0
-42	0	ti ti ti ti ti ti ti ti ti 	250.0	1	4.0	4.5	2.0
-43	0	throne throne throne throne throne throne throne throne throne 	256.0	1	4.0	4.5	2.0
-44	0	naw naw naw naw naw naw naw naw naw 	262.0	1	4.0	4.5	2.0
-45	0	thir thir thir thir thir thir thir thir thir 	268.0	1	4.0	4.5	2.0
-46	0	neh neh neh neh neh neh neh neh neh 	274.0	1	4.0	4.5	2.0
-47	0	caw caw caw caw caw caw caw caw caw 	280.0	1	4.0	4.5	2.0
-48	0	airy airy airy airy airy airy airy airy airy 	286.0	1	4.0	4.5	2.0
-49	0	through through through through through through through through through 	292.0	1	4.0	4.5	2.0
-50	0	pot pot pot pot pot pot pot pot pot 	298.0	1	4.0	4.5	2.0
-51	0	juh juh juh juh juh juh juh juh juh 	304.0	1	4.0	4.5	2.0
-52	0	neh neh neh neh neh neh neh neh neh 	310.0	1	4.0	4.5	2.0
-53	0	three three three three three three three three three 	316.0	1	4.0	4.5	2.0
-54	0	airy airy airy airy airy airy airy airy airy 	322.0	1	4.0	4.5	2.0
-55	0	throne throne throne throne throne throne throne throne throne 	328.0	1	4.0	4.5	2.0
-56	0	ti ti ti ti ti ti ti ti ti 	334.0	1	4.0	4.5	2.0
-57	0	three three three three three three three three three 	340.0	1	4.0	4.5	2.0
-58	0	neh neh neh neh neh neh neh neh neh 	346.0	1	4.0	4.5	2.0
-59	0	pot pot pot pot pot pot pot pot pot 	352.0	1	4.0	4.5	2.0
-60	0	through through through through through through through through through 	358.0	1	4.0	4.5	2.0
-61	0	throne throne throne throne throne throne throne throne throne 	364.0	1	4.0	4.5	2.0
-62	0	naw naw naw naw naw naw naw naw naw 	370.0	1	4.0	4.5	2.0
-63	0	juh juh juh juh juh juh juh juh juh 	376.0	1	4.0	4.5	2.0
-64	0	ti ti ti ti ti ti ti ti ti 	382.0	1	4.0	4.5	2.0
+trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
+1	word	pi ter pie per picked peck out pro per caw fee pot through thurs imah jin airy mih naw juh jur	4.0	4.0	4.0	4.5
+2	random	leh jur pro imah pot jin thurs airy per ther day through naw mih less ver fee neh caw ser juh	13.0	4.0	4.0	4.5
+3	simple	airy airy airy airy airy airy airy airy airy	22.0	4.0	4.0	4.5
+4	simple	fee fee fee fee fee fee fee fee fee	31.0	4.0	4.0	4.5
+5	simple	through through through through through through through through through	40.0	4.0	4.0	4.5
+6	random	day pro ther pot peck thurs per ser through pie caw out picked ter leh fee per ver pi neh less	49.0	4.0	4.0	4.5
+7	word	pi ter pie per picked peck out less ser leh ther neh ver day pro per caw fee pot through thurs	58.0	4.0	4.0	4.5
+8	word	less ser leh ther neh ver day pi ter pie per picked peck out pro per caw fee pot through thurs	67.0	4.0	4.0	4.5
+9	random	ther per imah airy peck pi ter juh mih out jur picked pie naw less leh jin ver ser neh day	76.0	4.0	4.0	4.5
+10	simple	mih mih mih mih mih mih mih mih mih	85.0	4.0	4.0	4.5
+11	simple	ter ter ter ter ter ter ter ter ter	94.0	4.0	4.0	4.5
+12	word	imah jin airy mih naw juh jur pro per caw fee pot through thurs less ser leh ther neh ver day	103.0	4.0	4.0	4.5
+13	random	per pro ser through ther pot airy less juh jin naw neh imah jur day mih leh ver thurs fee caw	112.0	4.0	4.0	4.5
+14	simple	imah imah imah imah imah imah imah imah imah	121.0	4.0	4.0	4.5
+15	simple	ver ver ver ver ver ver ver ver ver	130.0	4.0	4.0	4.5
+16	random	less pi imah jin neh leh airy day juh ther ter picked per mih pie peck jur ver naw out ser	139.0	4.0	4.0	4.5
+17	simple	peck peck peck peck peck peck peck peck peck	148.0	4.0	4.0	4.5
+18	random	pie pot picked per naw per pro caw thurs imah out jin jur fee mih ter airy juh peck through pi	157.0	4.0	4.0	4.5
+19	random	juh pot naw per pi imah jin ter caw per through out fee pro pie thurs jur picked airy peck mih	166.0	4.0	4.0	4.5
+20	word	pro per caw fee pot through thurs imah jin airy mih naw juh jur less ser leh ther neh ver day	175.0	4.0	4.0	4.5
+21	simple	ther ther ther ther ther ther ther ther ther	184.0	4.0	4.0	4.5
+22	simple	caw caw caw caw caw caw caw caw caw	193.0	4.0	4.0	4.5
+23	random	leh jin jur per ther ter airy picked pi less neh imah pie day juh ser naw mih peck ver out	202.0	4.0	4.0	4.5
+24	simple	jur jur jur jur jur jur jur jur jur	211.0	4.0	4.0	4.5
+25	simple	juh juh juh juh juh juh juh juh juh	220.0	4.0	4.0	4.5
+26	word	less ser leh ther neh ver day imah jin airy mih naw juh jur pi ter pie per picked peck out	229.0	4.0	4.0	4.5
+27	simple	jin jin jin jin jin jin jin jin jin	238.0	4.0	4.0	4.5
+28	random	pot through thurs airy pro jin naw caw neh ser jur imah ther day ver mih fee per less leh juh	247.0	4.0	4.0	4.5
+29	simple	pi pi pi pi pi pi pi pi pi	256.0	4.0	4.0	4.5
+30	random	peck imah juh mih pot naw caw pro ter airy pi through picked pie thurs jin per per out jur fee	265.0	4.0	4.0	4.5
+31	random	out peck pi thurs pro mih fee naw through picked imah caw juh per ter pot airy jin jur per pie	274.0	4.0	4.0	4.5
+32	random	naw ser pro ther day thurs imah juh jur neh pot per caw jin airy less mih fee through ver leh	283.0	4.0	4.0	4.5
+33	random	picked ther pi juh less airy mih jin out imah per peck pie ter day ver neh leh jur ser naw	292.0	4.0	4.0	4.5
+34	simple	less less less less less less less less less	301.0	4.0	4.0	4.5
+35	word	pi ter pie per picked peck out less ser leh ther neh ver day imah jin airy mih naw juh jur	310.0	4.0	4.0	4.5
+36	simple	naw naw naw naw naw naw naw naw naw	319.0	4.0	4.0	4.5

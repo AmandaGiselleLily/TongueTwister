@@ -22,4 +22,4 @@ def main(subj_id):
     return
 
 if __name__ == "__main__":
-    main(1)
+    main(2)

@@ -1,65 +1,38 @@
-trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time	rest_dur
-1	0	fee fee fee fee fee fee fee fee fee 	4.0	1	4.0	4.5	2.0
-2	0	per per per per per per per per per 	10.0	1	4.0	4.5	2.0
-3	0	per per per per per per per per per 	16.0	1	4.0	4.5	2.0
-4	0	throne throne throne throne throne throne throne throne throne 	22.0	1	4.0	4.5	2.0
-5	0	day day day day day day day day day 	28.0	1	4.0	4.5	2.0
-6	0	ter ter ter ter ter ter ter ter ter 	34.0	1	4.0	4.5	2.0
-7	0	leh leh leh leh leh leh leh leh leh 	40.0	1	4.0	4.5	2.0
-8	0	peck peck peck peck peck peck peck peck peck 	46.0	1	4.0	4.5	2.0
-9	0	throne throne throne throne throne throne throne throne throne 	52.0	1	4.0	4.5	2.0
-10	0	pi pi pi pi pi pi pi pi pi 	58.0	1	4.0	4.5	2.0
-11	0	day day day day day day day day day 	64.0	1	4.0	4.5	2.0
-12	0	ter ter ter ter ter ter ter ter ter 	70.0	1	4.0	4.5	2.0
-13	0	per per per per per per per per per 	76.0	1	4.0	4.5	2.0
-14	0	peck peck peck peck peck peck peck peck peck 	82.0	1	4.0	4.5	2.0
-15	0	through through through through through through through through through 	88.0	1	4.0	4.5	2.0
-16	0	per per per per per per per per per 	94.0	1	4.0	4.5	2.0
-17	0	through through through through through through through through through 	100.0	1	4.0	4.5	2.0
-18	0	per per per per per per per per per 	106.0	1	4.0	4.5	2.0
-19	0	fee fee fee fee fee fee fee fee fee 	112.0	1	4.0	4.5	2.0
-20	0	per per per per per per per per per 	118.0	1	4.0	4.5	2.0
-21	0	pi pi pi pi pi pi pi pi pi 	124.0	1	4.0	4.5	2.0
-22	0	peck peck peck peck peck peck peck peck peck 	130.0	1	4.0	4.5	2.0
-23	0	throne throne throne throne throne throne throne throne throne 	136.0	1	4.0	4.5	2.0
-24	0	day day day day day day day day day 	142.0	1	4.0	4.5	2.0
-25	0	fee fee fee fee fee fee fee fee fee 	148.0	1	4.0	4.5	2.0
-26	0	leh leh leh leh leh leh leh leh leh 	154.0	1	4.0	4.5	2.0
-27	0	peck peck peck peck peck peck peck peck peck 	160.0	1	4.0	4.5	2.0
-28	0	through through through through through through through through through 	166.0	1	4.0	4.5	2.0
-29	0	per per per per per per per per per 	172.0	1	4.0	4.5	2.0
-30	0	day day day day day day day day day 	178.0	1	4.0	4.5	2.0
-31	0	ter ter ter ter ter ter ter ter ter 	184.0	1	4.0	4.5	2.0
-32	0	pi pi pi pi pi pi pi pi pi 	190.0	1	4.0	4.5	2.0
-33	0	through through through through through through through through through 	196.0	1	4.0	4.5	2.0
-34	0	leh leh leh leh leh leh leh leh leh 	202.0	1	4.0	4.5	2.0
-35	0	fee fee fee fee fee fee fee fee fee 	208.0	1	4.0	4.5	2.0
-36	0	per per per per per per per per per 	214.0	1	4.0	4.5	2.0
-37	0	pi pi pi pi pi pi pi pi pi 	220.0	1	4.0	4.5	2.0
-38	0	peck peck peck peck peck peck peck peck peck 	226.0	1	4.0	4.5	2.0
-39	0	day day day day day day day day day 	232.0	1	4.0	4.5	2.0
-40	0	throne throne throne throne throne throne throne throne throne 	238.0	1	4.0	4.5	2.0
-41	0	fee fee fee fee fee fee fee fee fee 	244.0	1	4.0	4.5	2.0
-42	0	per per per per per per per per per 	250.0	1	4.0	4.5	2.0
-43	0	through through through through through through through through through 	256.0	1	4.0	4.5	2.0
-44	0	day day day day day day day day day 	262.0	1	4.0	4.5	2.0
-45	0	leh leh leh leh leh leh leh leh leh 	268.0	1	4.0	4.5	2.0
-46	0	per per per per per per per per per 	274.0	1	4.0	4.5	2.0
-47	0	throne throne throne throne throne throne throne throne throne 	280.0	1	4.0	4.5	2.0
-48	0	peck peck peck peck peck peck peck peck peck 	286.0	1	4.0	4.5	2.0
-49	0	pi pi pi pi pi pi pi pi pi 	292.0	1	4.0	4.5	2.0
-50	0	per per per per per per per per per 	298.0	1	4.0	4.5	2.0
-51	0	peck peck peck peck peck peck peck peck peck 	304.0	1	4.0	4.5	2.0
-52	0	ter ter ter ter ter ter ter ter ter 	310.0	1	4.0	4.5	2.0
-53	0	fee fee fee fee fee fee fee fee fee 	316.0	1	4.0	4.5	2.0
-54	0	per per per per per per per per per 	322.0	1	4.0	4.5	2.0
-55	0	through through through through through through through through through 	328.0	1	4.0	4.5	2.0
-56	0	leh leh leh leh leh leh leh leh leh 	334.0	1	4.0	4.5	2.0
-57	0	through through through through through through through through through 	340.0	1	4.0	4.5	2.0
-58	0	pi pi pi pi pi pi pi pi pi 	346.0	1	4.0	4.5	2.0
-59	0	ter ter ter ter ter ter ter ter ter 	352.0	1	4.0	4.5	2.0
-60	0	per per per per per per per per per 	358.0	1	4.0	4.5	2.0
-61	0	per per per per per per per per per 	364.0	1	4.0	4.5	2.0
-62	0	fee fee fee fee fee fee fee fee fee 	370.0	1	4.0	4.5	2.0
-63	0	day day day day day day day day day 	376.0	1	4.0	4.5	2.0
-64	0	throne throne throne throne throne throne throne throne throne 	382.0	1	4.0	4.5	2.0
+trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
+1	random	out ter a less much picked ther would leh chuck if per ser thrilled neh ver pie how pi peck day	4.0	4.0	4.0	4.5
+2	simple	out out out out out out out out out	13.0	4.0	4.0	4.5
+3	simple	neh neh neh neh neh neh neh neh neh	22.0	4.0	4.0	4.5
+4	simple	thir thir thir thir thir thir thir thir thir	31.0	4.0	4.0	4.5
+5	word	the thir ti three thieves thought throne less ser leh ther neh ver day how much would a chuck if thrilled	40.0	4.0	4.0	4.5
+6	simple	how how how how how how how how how	49.0	4.0	4.0	4.5
+7	random	pi a much ver pie per leh out less ther neh would day if chuck thrilled peck picked ter how ser	58.0	4.0	4.0	4.5
+8	simple	ti ti ti ti ti ti ti ti ti	67.0	4.0	4.0	4.5
+9	simple	thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled	76.0	4.0	4.0	4.5
+10	simple	picked picked picked picked picked picked picked picked picked	85.0	4.0	4.0	4.5
+11	word	less ser leh ther neh ver day the thir ti three thieves thought throne how much would a chuck if thrilled	94.0	4.0	4.0	4.5
+12	simple	thought thought thought thought thought thought thought thought thought	103.0	4.0	4.0	4.5
+13	word	pi ter pie per picked peck out the thir ti three thieves thought throne how much would a chuck if thrilled	112.0	4.0	4.0	4.5
+14	simple	would would would would would would would would would	121.0	4.0	4.0	4.5
+15	simple	ser ser ser ser ser ser ser ser ser	130.0	4.0	4.0	4.5
+16	simple	peck peck peck peck peck peck peck peck peck	139.0	4.0	4.0	4.5
+17	simple	per per per per per per per per per	148.0	4.0	4.0	4.5
+18	simple	chuck chuck chuck chuck chuck chuck chuck chuck chuck	157.0	4.0	4.0	4.5
+19	random	the peck ti throne picked thought three out pi per pie day ther leh ser neh ter less thieves thir ver	166.0	4.0	4.0	4.5
+20	word	the thir ti three thieves thought throne pi ter pie per picked peck out less ser leh ther neh ver day	175.0	4.0	4.0	4.5
+21	word	pi ter pie per picked peck out the thir ti three thieves thought throne less ser leh ther neh ver day	184.0	4.0	4.0	4.5
+22	simple	ther ther ther ther ther ther ther ther ther	193.0	4.0	4.0	4.5
+23	simple	the the the the the the the the the	202.0	4.0	4.0	4.5
+24	word	the thir ti three thieves thought throne how much would a chuck if thrilled less ser leh ther neh ver day	211.0	4.0	4.0	4.5
+25	random	chuck neh thrilled day thought a leh ver how throne ti would less thir ther thieves ser the three much if	220.0	4.0	4.0	4.5
+26	word	how much would a chuck if thrilled less ser leh ther neh ver day the thir ti three thieves thought throne	229.0	4.0	4.0	4.5
+27	simple	three three three three three three three three three	238.0	4.0	4.0	4.5
+28	word	how much would a chuck if thrilled the thir ti three thieves thought throne less ser leh ther neh ver day	247.0	4.0	4.0	4.5
+29	simple	pi pi pi pi pi pi pi pi pi	256.0	4.0	4.0	4.5
+30	word	the thir ti three thieves thought throne pi ter pie per picked peck out how much would a chuck if thrilled	265.0	4.0	4.0	4.5
+31	word	the thir ti three thieves thought throne less ser leh ther neh ver day pi ter pie per picked peck out	274.0	4.0	4.0	4.5
+32	random	a ti picked how per three would the ter peck much thought if chuck out thrilled thieves throne thir pi pie	283.0	4.0	4.0	4.5
+33	random	thought how ther ver a thieves three thrilled leh chuck day ser neh if thir throne ti much less the would	292.0	4.0	4.0	4.5
+34	random	how ver neh if ti three ther much leh thought thir chuck thrilled a the thieves less would day ser throne	301.0	4.0	4.0	4.5
+35	word	pi ter pie per picked peck out how much would a chuck if thrilled less ser leh ther neh ver day	310.0	4.0	4.0	4.5
+36	random	if would ver ther thought ser less three chuck throne the thrilled neh how ti thieves a thir much leh day	319.0	4.0	4.0	4.5
+37	random	the ser throne out leh ver peck ther picked thought neh ti pie thieves ter pi thir less three day per	328.0	4.0	4.0	4.5

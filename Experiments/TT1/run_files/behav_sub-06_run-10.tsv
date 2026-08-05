@@ -1,65 +1,38 @@
-trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time	rest_dur
-1	0	imah imah imah imah imah imah imah imah imah 	4.0	1	4.0	4.5	2.0
-2	0	mih mih mih mih mih mih mih mih mih 	10.0	1	4.0	4.5	2.0
-3	0	out out out out out out out out out 	16.0	1	4.0	4.5	2.0
-4	0	ther ther ther ther ther ther ther ther ther 	22.0	1	4.0	4.5	2.0
-5	0	pot pot pot pot pot pot pot pot pot 	28.0	1	4.0	4.5	2.0
-6	0	jur jur jur jur jur jur jur jur jur 	34.0	1	4.0	4.5	2.0
-7	0	through through through through through through through through through 	40.0	1	4.0	4.5	2.0
-8	0	leh leh leh leh leh leh leh leh leh 	46.0	1	4.0	4.5	2.0
-9	0	mih mih mih mih mih mih mih mih mih 	52.0	1	4.0	4.5	2.0
-10	0	jur jur jur jur jur jur jur jur jur 	58.0	1	4.0	4.5	2.0
-11	0	through through through through through through through through through 	64.0	1	4.0	4.5	2.0
-12	0	imah imah imah imah imah imah imah imah imah 	70.0	1	4.0	4.5	2.0
-13	0	out out out out out out out out out 	76.0	1	4.0	4.5	2.0
-14	0	ther ther ther ther ther ther ther ther ther 	82.0	1	4.0	4.5	2.0
-15	0	pot pot pot pot pot pot pot pot pot 	88.0	1	4.0	4.5	2.0
-16	0	leh leh leh leh leh leh leh leh leh 	94.0	1	4.0	4.5	2.0
-17	0	jur jur jur jur jur jur jur jur jur 	100.0	1	4.0	4.5	2.0
-18	0	imah imah imah imah imah imah imah imah imah 	106.0	1	4.0	4.5	2.0
-19	0	leh leh leh leh leh leh leh leh leh 	112.0	1	4.0	4.5	2.0
-20	0	out out out out out out out out out 	118.0	1	4.0	4.5	2.0
-21	0	mih mih mih mih mih mih mih mih mih 	124.0	1	4.0	4.5	2.0
-22	0	through through through through through through through through through 	130.0	1	4.0	4.5	2.0
-23	0	pot pot pot pot pot pot pot pot pot 	136.0	1	4.0	4.5	2.0
-24	0	ther ther ther ther ther ther ther ther ther 	142.0	1	4.0	4.5	2.0
-25	0	leh leh leh leh leh leh leh leh leh 	148.0	1	4.0	4.5	2.0
-26	0	jur jur jur jur jur jur jur jur jur 	154.0	1	4.0	4.5	2.0
-27	0	through through through through through through through through through 	160.0	1	4.0	4.5	2.0
-28	0	mih mih mih mih mih mih mih mih mih 	166.0	1	4.0	4.5	2.0
-29	0	pot pot pot pot pot pot pot pot pot 	172.0	1	4.0	4.5	2.0
-30	0	ther ther ther ther ther ther ther ther ther 	178.0	1	4.0	4.5	2.0
-31	0	imah imah imah imah imah imah imah imah imah 	184.0	1	4.0	4.5	2.0
-32	0	out out out out out out out out out 	190.0	1	4.0	4.5	2.0
-33	0	through through through through through through through through through 	196.0	1	4.0	4.5	2.0
-34	0	mih mih mih mih mih mih mih mih mih 	202.0	1	4.0	4.5	2.0
-35	0	ther ther ther ther ther ther ther ther ther 	208.0	1	4.0	4.5	2.0
-36	0	out out out out out out out out out 	214.0	1	4.0	4.5	2.0
-37	0	jur jur jur jur jur jur jur jur jur 	220.0	1	4.0	4.5	2.0
-38	0	leh leh leh leh leh leh leh leh leh 	226.0	1	4.0	4.5	2.0
-39	0	pot pot pot pot pot pot pot pot pot 	232.0	1	4.0	4.5	2.0
-40	0	imah imah imah imah imah imah imah imah imah 	238.0	1	4.0	4.5	2.0
-41	0	through through through through through through through through through 	244.0	1	4.0	4.5	2.0
-42	0	imah imah imah imah imah imah imah imah imah 	250.0	1	4.0	4.5	2.0
-43	0	leh leh leh leh leh leh leh leh leh 	256.0	1	4.0	4.5	2.0
-44	0	ther ther ther ther ther ther ther ther ther 	262.0	1	4.0	4.5	2.0
-45	0	out out out out out out out out out 	268.0	1	4.0	4.5	2.0
-46	0	mih mih mih mih mih mih mih mih mih 	274.0	1	4.0	4.5	2.0
-47	0	jur jur jur jur jur jur jur jur jur 	280.0	1	4.0	4.5	2.0
-48	0	pot pot pot pot pot pot pot pot pot 	286.0	1	4.0	4.5	2.0
-49	0	pot pot pot pot pot pot pot pot pot 	292.0	1	4.0	4.5	2.0
-50	0	through through through through through through through through through 	298.0	1	4.0	4.5	2.0
-51	0	imah imah imah imah imah imah imah imah imah 	304.0	1	4.0	4.5	2.0
-52	0	leh leh leh leh leh leh leh leh leh 	310.0	1	4.0	4.5	2.0
-53	0	out out out out out out out out out 	316.0	1	4.0	4.5	2.0
-54	0	mih mih mih mih mih mih mih mih mih 	322.0	1	4.0	4.5	2.0
-55	0	jur jur jur jur jur jur jur jur jur 	328.0	1	4.0	4.5	2.0
-56	0	ther ther ther ther ther ther ther ther ther 	334.0	1	4.0	4.5	2.0
-57	0	leh leh leh leh leh leh leh leh leh 	340.0	1	4.0	4.5	2.0
-58	0	jur jur jur jur jur jur jur jur jur 	346.0	1	4.0	4.5	2.0
-59	0	pot pot pot pot pot pot pot pot pot 	352.0	1	4.0	4.5	2.0
-60	0	through through through through through through through through through 	358.0	1	4.0	4.5	2.0
-61	0	imah imah imah imah imah imah imah imah imah 	364.0	1	4.0	4.5	2.0
-62	0	out out out out out out out out out 	370.0	1	4.0	4.5	2.0
-63	0	mih mih mih mih mih mih mih mih mih 	376.0	1	4.0	4.5	2.0
-64	0	ther ther ther ther ther ther ther ther ther 	382.0	1	4.0	4.5	2.0
+trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
+1	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	4.0	4.0	4.0	4.5
+2	word	pro per caw fee pot through thurs less ser leh ther neh ver day the thir ti three thieves thought throne	13.0	4.0	4.0	4.5
+3	word	pro per caw fee pot through thurs how much would a chuck if thrilled less ser leh ther neh ver day	22.0	4.0	4.0	4.5
+4	simple	ver ver ver ver ver ver ver ver ver	31.0	4.0	4.0	4.5
+5	random	leh neh through chuck caw would thurs ver ther ser pot if thrilled a less pro how fee day much per	40.0	4.0	4.0	4.5
+6	random	how fee thurs caw pro throne ti thought the if thrilled would thir much thieves chuck per a through three pot	49.0	4.0	4.0	4.5
+7	word	pro per caw fee pot through thurs the thir ti three thieves thought throne how much would a chuck if thrilled	58.0	4.0	4.0	4.5
+8	random	if thieves less ther would how thought leh thir ti thrilled neh throne much ver day a chuck the ser three	67.0	4.0	4.0	4.5
+9	simple	day day day day day day day day day	76.0	4.0	4.0	4.5
+10	word	less ser leh ther neh ver day pro per caw fee pot through thurs the thir ti three thieves thought throne	85.0	4.0	4.0	4.5
+11	simple	if if if if if if if if if	94.0	4.0	4.0	4.5
+12	random	ther would a per much less if how pot chuck day ser pro thurs thrilled through caw ver neh fee leh	103.0	4.0	4.0	4.5
+13	simple	much much much much much much much much much	112.0	4.0	4.0	4.5
+14	simple	thurs thurs thurs thurs thurs thurs thurs thurs thurs	121.0	4.0	4.0	4.5
+15	word	the thir ti three thieves thought throne less ser leh ther neh ver day how much would a chuck if thrilled	130.0	4.0	4.0	4.5
+16	simple	ti ti ti ti ti ti ti ti ti	139.0	4.0	4.0	4.5
+17	word	less ser leh ther neh ver day the thir ti three thieves thought throne pro per caw fee pot through thurs	148.0	4.0	4.0	4.5
+18	simple	fee fee fee fee fee fee fee fee fee	157.0	4.0	4.0	4.5
+19	simple	pot pot pot pot pot pot pot pot pot	166.0	4.0	4.0	4.5
+20	word	pro per caw fee pot through thurs the thir ti three thieves thought throne less ser leh ther neh ver day	175.0	4.0	4.0	4.5
+21	simple	thought thought thought thought thought thought thought thought thought	184.0	4.0	4.0	4.5
+22	random	thir pro pot ti thurs leh thought fee per through throne thieves caw three less ver ser ther day neh the	193.0	4.0	4.0	4.5
+23	word	the thir ti three thieves thought throne pro per caw fee pot through thurs how much would a chuck if thrilled	202.0	4.0	4.0	4.5
+24	word	how much would a chuck if thrilled less ser leh ther neh ver day pro per caw fee pot through thurs	211.0	4.0	4.0	4.5
+25	word	how much would a chuck if thrilled pro per caw fee pot through thurs less ser leh ther neh ver day	220.0	4.0	4.0	4.5
+26	random	less caw ver the ti thir per neh thurs thought throne pot day through ser thieves fee leh pro ther three	229.0	4.0	4.0	4.5
+27	random	how much caw chuck three thurs thought ti thieves would the a if pro fee thir pot through per throne thrilled	238.0	4.0	4.0	4.5
+28	simple	pro pro pro pro pro pro pro pro pro	247.0	4.0	4.0	4.5
+29	simple	ser ser ser ser ser ser ser ser ser	256.0	4.0	4.0	4.5
+30	simple	three three three three three three three three three	265.0	4.0	4.0	4.5
+31	word	the thir ti three thieves thought throne how much would a chuck if thrilled less ser leh ther neh ver day	274.0	4.0	4.0	4.5
+32	word	the thir ti three thieves thought throne less ser leh ther neh ver day pro per caw fee pot through thurs	283.0	4.0	4.0	4.5
+33	random	thieves leh ther chuck ti would how neh three thrilled less a day much ser thir the throne thought if ver	292.0	4.0	4.0	4.5
+34	random	pot fee day caw neh thought ver throne ti three thurs leh per pro the through ther thieves less ser thir	301.0	4.0	4.0	4.5
+35	word	less ser leh ther neh ver day pro per caw fee pot through thurs how much would a chuck if thrilled	310.0	4.0	4.0	4.5
+36	word	less ser leh ther neh ver day the thir ti three thieves thought throne how much would a chuck if thrilled	319.0	4.0	4.0	4.5
+37	word	less ser leh ther neh ver day how much would a chuck if thrilled pro per caw fee pot through thurs	328.0	4.0	4.0	4.5

@@ -1,65 +1,38 @@
-trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time	rest_dur
-1	0	peck peck peck peck peck peck peck peck peck 	4.0	1	4.0	4.5	2.0
-2	0	ter ter ter ter ter ter ter ter ter 	10.0	1	4.0	4.5	2.0
-3	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	16.0	1	4.0	4.5	2.0
-4	0	three three three three three three three three three 	22.0	1	4.0	4.5	2.0
-5	0	leh leh leh leh leh leh leh leh leh 	28.0	1	4.0	4.5	2.0
-6	0	day day day day day day day day day 	34.0	1	4.0	4.5	2.0
-7	0	through through through through through through through through through 	40.0	1	4.0	4.5	2.0
-8	0	thought thought thought thought thought thought thought thought thought 	46.0	1	4.0	4.5	2.0
-9	0	ter ter ter ter ter ter ter ter ter 	52.0	1	4.0	4.5	2.0
-10	0	through through through through through through through through through 	58.0	1	4.0	4.5	2.0
-11	0	day day day day day day day day day 	64.0	1	4.0	4.5	2.0
-12	0	leh leh leh leh leh leh leh leh leh 	70.0	1	4.0	4.5	2.0
-13	0	thought thought thought thought thought thought thought thought thought 	76.0	1	4.0	4.5	2.0
-14	0	jin jin jin jin jin jin jin jin jin 	82.0	1	4.0	4.5	2.0
-15	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	88.0	1	4.0	4.5	2.0
-16	0	peck peck peck peck peck peck peck peck peck 	94.0	1	4.0	4.5	2.0
-17	0	day day day day day day day day day 	100.0	1	4.0	4.5	2.0
-18	0	jin jin jin jin jin jin jin jin jin 	106.0	1	4.0	4.5	2.0
-19	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	112.0	1	4.0	4.5	2.0
-20	0	peck peck peck peck peck peck peck peck peck 	118.0	1	4.0	4.5	2.0
-21	0	through through through through through through through through through 	124.0	1	4.0	4.5	2.0
-22	0	leh leh leh leh leh leh leh leh leh 	130.0	1	4.0	4.5	2.0
-23	0	three three three three three three three three three 	136.0	1	4.0	4.5	2.0
-24	0	thought thought thought thought thought thought thought thought thought 	142.0	1	4.0	4.5	2.0
-25	0	through through through through through through through through through 	148.0	1	4.0	4.5	2.0
-26	0	leh leh leh leh leh leh leh leh leh 	154.0	1	4.0	4.5	2.0
-27	0	ter ter ter ter ter ter ter ter ter 	160.0	1	4.0	4.5	2.0
-28	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	166.0	1	4.0	4.5	2.0
-29	0	three three three three three three three three three 	172.0	1	4.0	4.5	2.0
-30	0	peck peck peck peck peck peck peck peck peck 	178.0	1	4.0	4.5	2.0
-31	0	jin jin jin jin jin jin jin jin jin 	184.0	1	4.0	4.5	2.0
-32	0	day day day day day day day day day 	190.0	1	4.0	4.5	2.0
-33	0	jin jin jin jin jin jin jin jin jin 	196.0	1	4.0	4.5	2.0
-34	0	peck peck peck peck peck peck peck peck peck 	202.0	1	4.0	4.5	2.0
-35	0	ter ter ter ter ter ter ter ter ter 	208.0	1	4.0	4.5	2.0
-36	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	214.0	1	4.0	4.5	2.0
-37	0	through through through through through through through through through 	220.0	1	4.0	4.5	2.0
-38	0	day day day day day day day day day 	226.0	1	4.0	4.5	2.0
-39	0	leh leh leh leh leh leh leh leh leh 	232.0	1	4.0	4.5	2.0
-40	0	thought thought thought thought thought thought thought thought thought 	238.0	1	4.0	4.5	2.0
-41	0	day day day day day day day day day 	244.0	1	4.0	4.5	2.0
-42	0	three three three three three three three three three 	250.0	1	4.0	4.5	2.0
-43	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	256.0	1	4.0	4.5	2.0
-44	0	jin jin jin jin jin jin jin jin jin 	262.0	1	4.0	4.5	2.0
-45	0	leh leh leh leh leh leh leh leh leh 	268.0	1	4.0	4.5	2.0
-46	0	through through through through through through through through through 	274.0	1	4.0	4.5	2.0
-47	0	ter ter ter ter ter ter ter ter ter 	280.0	1	4.0	4.5	2.0
-48	0	thought thought thought thought thought thought thought thought thought 	286.0	1	4.0	4.5	2.0
-49	0	three three three three three three three three three 	292.0	1	4.0	4.5	2.0
-50	0	peck peck peck peck peck peck peck peck peck 	298.0	1	4.0	4.5	2.0
-51	0	jin jin jin jin jin jin jin jin jin 	304.0	1	4.0	4.5	2.0
-52	0	ter ter ter ter ter ter ter ter ter 	310.0	1	4.0	4.5	2.0
-53	0	leh leh leh leh leh leh leh leh leh 	316.0	1	4.0	4.5	2.0
-54	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	322.0	1	4.0	4.5	2.0
-55	0	through through through through through through through through through 	328.0	1	4.0	4.5	2.0
-56	0	thought thought thought thought thought thought thought thought thought 	334.0	1	4.0	4.5	2.0
-57	0	three three three three three three three three three 	340.0	1	4.0	4.5	2.0
-58	0	through through through through through through through through through 	346.0	1	4.0	4.5	2.0
-59	0	thought thought thought thought thought thought thought thought thought 	352.0	1	4.0	4.5	2.0
-60	0	ter ter ter ter ter ter ter ter ter 	358.0	1	4.0	4.5	2.0
-61	0	jin jin jin jin jin jin jin jin jin 	364.0	1	4.0	4.5	2.0
-62	0	peck peck peck peck peck peck peck peck peck 	370.0	1	4.0	4.5	2.0
-63	0	leh leh leh leh leh leh leh leh leh 	376.0	1	4.0	4.5	2.0
-64	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	382.0	1	4.0	4.5	2.0
+trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
+1	random	ther thought ter picked thieves thir ver out leh peck ti throne the pie per ser pi less three neh day	4.0	4.0	4.0	4.5
+2	simple	ser ser ser ser ser ser ser ser ser	13.0	4.0	4.0	4.5
+3	simple	thought thought thought thought thought thought thought thought thought	22.0	4.0	4.0	4.5
+4	simple	ver ver ver ver ver ver ver ver ver	31.0	4.0	4.0	4.5
+5	word	pi ter pie per picked peck out pro per caw fee pot through thurs less ser leh ther neh ver day	40.0	4.0	4.0	4.5
+6	word	less ser leh ther neh ver day the thir ti three thieves thought throne pro per caw fee pot through thurs	49.0	4.0	4.0	4.5
+7	word	the thir ti three thieves thought throne pro per caw fee pot through thurs less ser leh ther neh ver day	58.0	4.0	4.0	4.5
+8	simple	pot pot pot pot pot pot pot pot pot	67.0	4.0	4.0	4.5
+9	word	the thir ti three thieves thought throne less ser leh ther neh ver day pro per caw fee pot through thurs	76.0	4.0	4.0	4.5
+10	random	three ti thir ter picked fee caw thought throne pro out per peck per the thurs pot through pie pi thieves	85.0	4.0	4.0	4.5
+11	simple	neh neh neh neh neh neh neh neh neh	94.0	4.0	4.0	4.5
+12	simple	caw caw caw caw caw caw caw caw caw	103.0	4.0	4.0	4.5
+13	simple	three three three three three three three three three	112.0	4.0	4.0	4.5
+14	word	pro per caw fee pot through thurs less ser leh ther neh ver day pi ter pie per picked peck out	121.0	4.0	4.0	4.5
+15	simple	ter ter ter ter ter ter ter ter ter	130.0	4.0	4.0	4.5
+16	word	pro per caw fee pot through thurs the thir ti three thieves thought throne pi ter pie per picked peck out	139.0	4.0	4.0	4.5
+17	random	three neh day per thought leh ti ver ther through thir caw throne pro thurs fee pot the ser thieves less	148.0	4.0	4.0	4.5
+18	simple	less less less less less less less less less	157.0	4.0	4.0	4.5
+19	simple	fee fee fee fee fee fee fee fee fee	166.0	4.0	4.0	4.5
+20	random	per fee day ver thurs caw pro out pi pie picked pot ser less leh neh peck through per ter ther	175.0	4.0	4.0	4.5
+21	random	pi the caw picked out ter pot three ti pie per throne thought peck pro thieves fee through thir thurs per	184.0	4.0	4.0	4.5
+22	simple	thir thir thir thir thir thir thir thir thir	193.0	4.0	4.0	4.5
+23	random	pot day three per throne ti thurs ser caw through neh less thought ver fee ther thir leh thieves pro the	202.0	4.0	4.0	4.5
+24	simple	ther ther ther ther ther ther ther ther ther	211.0	4.0	4.0	4.5
+25	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	220.0	4.0	4.0	4.5
+26	random	ter per through fee thieves thir caw pot pro picked pie out thought throne the thurs ti three pi peck per	229.0	4.0	4.0	4.5
+27	random	pot the thought fee neh throne thir thieves leh pro less ver three through ser caw ti ther thurs day per	238.0	4.0	4.0	4.5
+28	word	the thir ti three thieves thought throne pi ter pie per picked peck out pro per caw fee pot through thurs	247.0	4.0	4.0	4.5
+29	simple	pie pie pie pie pie pie pie pie pie	256.0	4.0	4.0	4.5
+30	word	the thir ti three thieves thought throne less ser leh ther neh ver day pi ter pie per picked peck out	265.0	4.0	4.0	4.5
+31	random	thought out thurs caw per peck thieves three ter ti thir pot throne picked fee the per through pi pie pro	274.0	4.0	4.0	4.5
+32	word	pi ter pie per picked peck out the thir ti three thieves thought throne less ser leh ther neh ver day	283.0	4.0	4.0	4.5
+33	word	the thir ti three thieves thought throne pi ter pie per picked peck out less ser leh ther neh ver day	292.0	4.0	4.0	4.5
+34	word	pi ter pie per picked peck out less ser leh ther neh ver day pro per caw fee pot through thurs	301.0	4.0	4.0	4.5
+35	simple	pi pi pi pi pi pi pi pi pi	310.0	4.0	4.0	4.5
+36	simple	the the the the the the the the the	319.0	4.0	4.0	4.5
+37	word	pro per caw fee pot through thurs less ser leh ther neh ver day the thir ti three thieves thought throne	328.0	4.0	4.0	4.5

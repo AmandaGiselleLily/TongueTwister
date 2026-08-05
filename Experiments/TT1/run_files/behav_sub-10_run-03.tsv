@@ -1,65 +1,38 @@
-trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time	rest_dur
-1	0	pro pro pro pro pro pro pro pro pro 	4.0	1	4.0	4.5	2.0
-2	0	less less less less less less less less less 	10.0	1	4.0	4.5	2.0
-3	0	ver ver ver ver ver ver ver ver ver 	16.0	1	4.0	4.5	2.0
-4	0	thieves thieves thieves thieves thieves thieves thieves thieves thieves 	22.0	1	4.0	4.5	2.0
-5	0	pie pie pie pie pie pie pie pie pie 	28.0	1	4.0	4.5	2.0
-6	0	thir thir thir thir thir thir thir thir thir 	34.0	1	4.0	4.5	2.0
-7	0	pi pi pi pi pi pi pi pi pi 	40.0	1	4.0	4.5	2.0
-8	0	per per per per per per per per per 	46.0	1	4.0	4.5	2.0
-9	0	less less less less less less less less less 	52.0	1	4.0	4.5	2.0
-10	0	pie pie pie pie pie pie pie pie pie 	58.0	1	4.0	4.5	2.0
-11	0	ver ver ver ver ver ver ver ver ver 	64.0	1	4.0	4.5	2.0
-12	0	day day day day day day day day day 	70.0	1	4.0	4.5	2.0
-13	0	thieves thieves thieves thieves thieves thieves thieves thieves thieves 	76.0	1	4.0	4.5	2.0
-14	0	per per per per per per per per per 	82.0	1	4.0	4.5	2.0
-15	0	per per per per per per per per per 	88.0	1	4.0	4.5	2.0
-16	0	pi pi pi pi pi pi pi pi pi 	94.0	1	4.0	4.5	2.0
-17	0	pie pie pie pie pie pie pie pie pie 	100.0	1	4.0	4.5	2.0
-18	0	pi pi pi pi pi pi pi pi pi 	106.0	1	4.0	4.5	2.0
-19	0	thieves thieves thieves thieves thieves thieves thieves thieves thieves 	112.0	1	4.0	4.5	2.0
-20	0	per per per per per per per per per 	118.0	1	4.0	4.5	2.0
-21	0	pro pro pro pro pro pro pro pro pro 	124.0	1	4.0	4.5	2.0
-22	0	jur jur jur jur jur jur jur jur jur 	130.0	1	4.0	4.5	2.0
-23	0	ver ver ver ver ver ver ver ver ver 	136.0	1	4.0	4.5	2.0
-24	0	less less less less less less less less less 	142.0	1	4.0	4.5	2.0
-25	0	pi pi pi pi pi pi pi pi pi 	148.0	1	4.0	4.5	2.0
-26	0	less less less less less less less less less 	154.0	1	4.0	4.5	2.0
-27	0	pro pro pro pro pro pro pro pro pro 	160.0	1	4.0	4.5	2.0
-28	0	day day day day day day day day day 	166.0	1	4.0	4.5	2.0
-29	0	ver ver ver ver ver ver ver ver ver 	172.0	1	4.0	4.5	2.0
-30	0	pie pie pie pie pie pie pie pie pie 	178.0	1	4.0	4.5	2.0
-31	0	thieves thieves thieves thieves thieves thieves thieves thieves thieves 	184.0	1	4.0	4.5	2.0
-32	0	per per per per per per per per per 	190.0	1	4.0	4.5	2.0
-33	0	pi pi pi pi pi pi pi pi pi 	196.0	1	4.0	4.5	2.0
-34	0	thir thir thir thir thir thir thir thir thir 	202.0	1	4.0	4.5	2.0
-35	0	ver ver ver ver ver ver ver ver ver 	208.0	1	4.0	4.5	2.0
-36	0	day day day day day day day day day 	214.0	1	4.0	4.5	2.0
-37	0	pro pro pro pro pro pro pro pro pro 	220.0	1	4.0	4.5	2.0
-38	0	per per per per per per per per per 	226.0	1	4.0	4.5	2.0
-39	0	less less less less less less less less less 	232.0	1	4.0	4.5	2.0
-40	0	pie pie pie pie pie pie pie pie pie 	238.0	1	4.0	4.5	2.0
-41	0	ver ver ver ver ver ver ver ver ver 	244.0	1	4.0	4.5	2.0
-42	0	pro pro pro pro pro pro pro pro pro 	250.0	1	4.0	4.5	2.0
-43	0	day day day day day day day day day 	256.0	1	4.0	4.5	2.0
-44	0	jur jur jur jur jur jur jur jur jur 	262.0	1	4.0	4.5	2.0
-45	0	thir thir thir thir thir thir thir thir thir 	268.0	1	4.0	4.5	2.0
-46	0	thieves thieves thieves thieves thieves thieves thieves thieves thieves 	274.0	1	4.0	4.5	2.0
-47	0	pie pie pie pie pie pie pie pie pie 	280.0	1	4.0	4.5	2.0
-48	0	per per per per per per per per per 	286.0	1	4.0	4.5	2.0
-49	0	ver ver ver ver ver ver ver ver ver 	292.0	1	4.0	4.5	2.0
-50	0	pie pie pie pie pie pie pie pie pie 	298.0	1	4.0	4.5	2.0
-51	0	thieves thieves thieves thieves thieves thieves thieves thieves thieves 	304.0	1	4.0	4.5	2.0
-52	0	per per per per per per per per per 	310.0	1	4.0	4.5	2.0
-53	0	per per per per per per per per per 	316.0	1	4.0	4.5	2.0
-54	0	pro pro pro pro pro pro pro pro pro 	322.0	1	4.0	4.5	2.0
-55	0	less less less less less less less less less 	328.0	1	4.0	4.5	2.0
-56	0	pi pi pi pi pi pi pi pi pi 	334.0	1	4.0	4.5	2.0
-57	0	day day day day day day day day day 	340.0	1	4.0	4.5	2.0
-58	0	pi pi pi pi pi pi pi pi pi 	346.0	1	4.0	4.5	2.0
-59	0	per per per per per per per per per 	352.0	1	4.0	4.5	2.0
-60	0	jur jur jur jur jur jur jur jur jur 	358.0	1	4.0	4.5	2.0
-61	0	pro pro pro pro pro pro pro pro pro 	364.0	1	4.0	4.5	2.0
-62	0	less less less less less less less less less 	370.0	1	4.0	4.5	2.0
-63	0	thir thir thir thir thir thir thir thir thir 	376.0	1	4.0	4.5	2.0
-64	0	thieves thieves thieves thieves thieves thieves thieves thieves thieves 	382.0	1	4.0	4.5	2.0
+trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
+1	word	imah jin airy mih naw juh jur how much would a chuck if thrilled less ser leh ther neh ver day	4.0	4.0	4.0	4.5
+2	random	how picked mih much per juh ter would chuck pi jin if a jur naw peck out airy thrilled imah pie	13.0	4.0	4.0	4.5
+3	random	peck leh less neh pi pie day out if would ther per ser thrilled ter picked how ver much a chuck	22.0	4.0	4.0	4.5
+4	random	pi ter airy ver day pie less ther leh ser juh imah picked out mih jur neh jin peck naw per	31.0	4.0	4.0	4.5
+5	word	pi ter pie per picked peck out imah jin airy mih naw juh jur how much would a chuck if thrilled	40.0	4.0	4.0	4.5
+6	random	chuck peck juh thrilled how pi per imah airy picked jin mih if out naw much a pie would ter jur	49.0	4.0	4.0	4.5
+7	simple	peck peck peck peck peck peck peck peck peck	58.0	4.0	4.0	4.5
+8	word	less ser leh ther neh ver day pi ter pie per picked peck out imah jin airy mih naw juh jur	67.0	4.0	4.0	4.5
+9	random	per ser pie day jin leh pi imah picked mih peck less neh ter out juh ver naw jur airy ther	76.0	4.0	4.0	4.5
+10	random	jur ver neh juh naw jin out pi less imah peck day mih airy leh pie ther per ser picked ter	85.0	4.0	4.0	4.5
+11	simple	naw naw naw naw naw naw naw naw naw	94.0	4.0	4.0	4.5
+12	word	imah jin airy mih naw juh jur less ser leh ther neh ver day how much would a chuck if thrilled	103.0	4.0	4.0	4.5
+13	word	pi ter pie per picked peck out how much would a chuck if thrilled imah jin airy mih naw juh jur	112.0	4.0	4.0	4.5
+14	word	less ser leh ther neh ver day how much would a chuck if thrilled pi ter pie per picked peck out	121.0	4.0	4.0	4.5
+15	simple	if if if if if if if if if	130.0	4.0	4.0	4.5
+16	random	pi if out ver day ter peck ther would how pie neh chuck picked thrilled a leh ser per less much	139.0	4.0	4.0	4.5
+17	random	chuck naw a jin juh much imah less leh airy ver neh if ser day thrilled ther would jur mih how	148.0	4.0	4.0	4.5
+18	simple	day day day day day day day day day	157.0	4.0	4.0	4.5
+19	simple	jin jin jin jin jin jin jin jin jin	166.0	4.0	4.0	4.5
+20	word	pi ter pie per picked peck out how much would a chuck if thrilled less ser leh ther neh ver day	175.0	4.0	4.0	4.5
+21	random	out imah airy pi chuck peck juh jin naw jur per a would picked how if much mih pie ter thrilled	184.0	4.0	4.0	4.5
+22	word	imah jin airy mih naw juh jur less ser leh ther neh ver day pi ter pie per picked peck out	193.0	4.0	4.0	4.5
+23	word	less ser leh ther neh ver day how much would a chuck if thrilled imah jin airy mih naw juh jur	202.0	4.0	4.0	4.5
+24	simple	airy airy airy airy airy airy airy airy airy	211.0	4.0	4.0	4.5
+25	simple	chuck chuck chuck chuck chuck chuck chuck chuck chuck	220.0	4.0	4.0	4.5
+26	word	less ser leh ther neh ver day pi ter pie per picked peck out how much would a chuck if thrilled	229.0	4.0	4.0	4.5
+27	random	a jin how ter airy chuck pi naw if juh peck much pie imah per out mih thrilled would picked jur	238.0	4.0	4.0	4.5
+28	simple	ver ver ver ver ver ver ver ver ver	247.0	4.0	4.0	4.5
+29	simple	ther ther ther ther ther ther ther ther ther	256.0	4.0	4.0	4.5
+30	random	how pi per a thrilled less chuck would picked ter neh ther out ver ser if peck leh day pie much	265.0	4.0	4.0	4.5
+31	simple	juh juh juh juh juh juh juh juh juh	274.0	4.0	4.0	4.5
+32	random	jin if a day mih much how imah would airy thrilled jur chuck ser neh less naw ther juh leh ver	283.0	4.0	4.0	4.5
+33	simple	picked picked picked picked picked picked picked picked picked	292.0	4.0	4.0	4.5
+34	simple	pie pie pie pie pie pie pie pie pie	301.0	4.0	4.0	4.5
+35	word	how much would a chuck if thrilled imah jin airy mih naw juh jur pi ter pie per picked peck out	310.0	4.0	4.0	4.5
+36	simple	a a a a a a a a a	319.0	4.0	4.0	4.5
+37	simple	less less less less less less less less less	328.0	4.0	4.0	4.5

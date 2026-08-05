@@ -1,0 +1,38 @@
+trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
+1	simple	pi pi pi pi pi pi pi pi pi	4.0	4.0	4.0	4.5
+2	random	less ver ter juh naw day ser jin picked airy jur ther pie peck per leh imah neh out pi mih	13.0	4.0	4.0	4.5
+3	random	per ver out peck airy ther jin less ter naw pie mih picked jur neh pi imah juh day leh ser	22.0	4.0	4.0	4.5
+4	random	thrilled ser day how per if neh ther ver would much peck out chuck picked pie less leh pi ter a	31.0	4.0	4.0	4.5
+5	simple	ser ser ser ser ser ser ser ser ser	40.0	4.0	4.0	4.5
+6	simple	juh juh juh juh juh juh juh juh juh	49.0	4.0	4.0	4.5
+7	random	thrilled ser per how chuck peck day leh ver a ter pi neh out would picked less much pie ther if	58.0	4.0	4.0	4.5
+8	simple	ver ver ver ver ver ver ver ver ver	67.0	4.0	4.0	4.5
+9	random	pie ther leh airy picked naw ser imah ver ter day jur peck juh pi per jin mih less out neh	76.0	4.0	4.0	4.5
+10	word	imah jin airy mih naw juh jur pi ter pie per picked peck out how much would a chuck if thrilled	85.0	4.0	4.0	4.5
+11	simple	would would would would would would would would would	94.0	4.0	4.0	4.5
+12	simple	naw naw naw naw naw naw naw naw naw	103.0	4.0	4.0	4.5
+13	simple	mih mih mih mih mih mih mih mih mih	112.0	4.0	4.0	4.5
+14	word	pi ter pie per picked peck out imah jin airy mih naw juh jur how much would a chuck if thrilled	121.0	4.0	4.0	4.5
+15	random	much day leh how ther ver less ser would picked peck a pi neh ter out chuck thrilled if per pie	130.0	4.0	4.0	4.5
+16	simple	per per per per per per per per per	139.0	4.0	4.0	4.5
+17	simple	pie pie pie pie pie pie pie pie pie	148.0	4.0	4.0	4.5
+18	random	how mih airy chuck much day ver leh jur juh if a naw imah jin would ser neh less ther thrilled	157.0	4.0	4.0	4.5
+19	random	chuck jin jur picked peck juh pi ter a out would naw how airy thrilled imah pie mih per much if	166.0	4.0	4.0	4.5
+20	simple	airy airy airy airy airy airy airy airy airy	175.0	4.0	4.0	4.5
+21	word	pi ter pie per picked peck out less ser leh ther neh ver day how much would a chuck if thrilled	184.0	4.0	4.0	4.5
+22	random	day airy naw how chuck imah ther neh a mih jur thrilled ser if much ver jin less juh leh would	193.0	4.0	4.0	4.5
+23	random	picked peck ser a how per day pie out would ther ter chuck less thrilled leh ver pi much neh if	202.0	4.0	4.0	4.5
+24	simple	chuck chuck chuck chuck chuck chuck chuck chuck chuck	211.0	4.0	4.0	4.5
+25	simple	picked picked picked picked picked picked picked picked picked	220.0	4.0	4.0	4.5
+26	simple	out out out out out out out out out	229.0	4.0	4.0	4.5
+27	random	naw jur much pie picked juh airy mih jin thrilled per pi if would ter a how peck chuck imah out	238.0	4.0	4.0	4.5
+28	simple	how how how how how how how how how	247.0	4.0	4.0	4.5
+29	word	less ser leh ther neh ver day pi ter pie per picked peck out how much would a chuck if thrilled	256.0	4.0	4.0	4.5
+30	word	how much would a chuck if thrilled imah jin airy mih naw juh jur pi ter pie per picked peck out	265.0	4.0	4.0	4.5
+31	word	pi ter pie per picked peck out how much would a chuck if thrilled less ser leh ther neh ver day	274.0	4.0	4.0	4.5
+32	random	airy out pi would how peck naw juh much mih if chuck imah a jur ter picked thrilled jin pie per	283.0	4.0	4.0	4.5
+33	word	how much would a chuck if thrilled pi ter pie per picked peck out imah jin airy mih naw juh jur	292.0	4.0	4.0	4.5
+34	word	how much would a chuck if thrilled imah jin airy mih naw juh jur less ser leh ther neh ver day	301.0	4.0	4.0	4.5
+35	word	imah jin airy mih naw juh jur how much would a chuck if thrilled less ser leh ther neh ver day	310.0	4.0	4.0	4.5
+36	random	much out pie if jin per how jur thrilled picked pi imah ter airy would peck juh mih a naw chuck	319.0	4.0	4.0	4.5
+37	word	how much would a chuck if thrilled pi ter pie per picked peck out less ser leh ther neh ver day	328.0	4.0	4.0	4.5

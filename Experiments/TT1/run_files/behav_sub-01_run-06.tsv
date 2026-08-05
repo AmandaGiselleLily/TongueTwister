@@ -1,65 +1,38 @@
-trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time	rest_dur
-1	0	ter ter ter ter ter ter ter ter ter 	4.0	1	4.0	4.5	2.0
-2	0	ser ser ser ser ser ser ser ser ser 	10.0	1	4.0	4.5	2.0
-3	0	day day day day day day day day day 	16.0	1	4.0	4.5	2.0
-4	0	mih mih mih mih mih mih mih mih mih 	22.0	1	4.0	4.5	2.0
-5	0	per per per per per per per per per 	28.0	1	4.0	4.5	2.0
-6	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	34.0	1	4.0	4.5	2.0
-7	0	pot pot pot pot pot pot pot pot pot 	40.0	1	4.0	4.5	2.0
-8	0	naw naw naw naw naw naw naw naw naw 	46.0	1	4.0	4.5	2.0
-9	0	naw naw naw naw naw naw naw naw naw 	52.0	1	4.0	4.5	2.0
-10	0	pot pot pot pot pot pot pot pot pot 	58.0	1	4.0	4.5	2.0
-11	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	64.0	1	4.0	4.5	2.0
-12	0	ter ter ter ter ter ter ter ter ter 	70.0	1	4.0	4.5	2.0
-13	0	per per per per per per per per per 	76.0	1	4.0	4.5	2.0
-14	0	mih mih mih mih mih mih mih mih mih 	82.0	1	4.0	4.5	2.0
-15	0	pie pie pie pie pie pie pie pie pie 	88.0	1	4.0	4.5	2.0
-16	0	day day day day day day day day day 	94.0	1	4.0	4.5	2.0
-17	0	mih mih mih mih mih mih mih mih mih 	100.0	1	4.0	4.5	2.0
-18	0	thought thought thought thought thought thought thought thought thought 	106.0	1	4.0	4.5	2.0
-19	0	naw naw naw naw naw naw naw naw naw 	112.0	1	4.0	4.5	2.0
-20	0	pie pie pie pie pie pie pie pie pie 	118.0	1	4.0	4.5	2.0
-21	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	124.0	1	4.0	4.5	2.0
-22	0	ter ter ter ter ter ter ter ter ter 	130.0	1	4.0	4.5	2.0
-23	0	ser ser ser ser ser ser ser ser ser 	136.0	1	4.0	4.5	2.0
-24	0	per per per per per per per per per 	142.0	1	4.0	4.5	2.0
-25	0	mih mih mih mih mih mih mih mih mih 	148.0	1	4.0	4.5	2.0
-26	0	day day day day day day day day day 	154.0	1	4.0	4.5	2.0
-27	0	ter ter ter ter ter ter ter ter ter 	160.0	1	4.0	4.5	2.0
-28	0	pie pie pie pie pie pie pie pie pie 	166.0	1	4.0	4.5	2.0
-29	0	naw naw naw naw naw naw naw naw naw 	172.0	1	4.0	4.5	2.0
-30	0	ser ser ser ser ser ser ser ser ser 	178.0	1	4.0	4.5	2.0
-31	0	per per per per per per per per per 	184.0	1	4.0	4.5	2.0
-32	0	thought thought thought thought thought thought thought thought thought 	190.0	1	4.0	4.5	2.0
-33	0	mih mih mih mih mih mih mih mih mih 	196.0	1	4.0	4.5	2.0
-34	0	ser ser ser ser ser ser ser ser ser 	202.0	1	4.0	4.5	2.0
-35	0	fee fee fee fee fee fee fee fee fee 	208.0	1	4.0	4.5	2.0
-36	0	day day day day day day day day day 	214.0	1	4.0	4.5	2.0
-37	0	naw naw naw naw naw naw naw naw naw 	220.0	1	4.0	4.5	2.0
-38	0	thought thought thought thought thought thought thought thought thought 	226.0	1	4.0	4.5	2.0
-39	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	232.0	1	4.0	4.5	2.0
-40	0	pie pie pie pie pie pie pie pie pie 	238.0	1	4.0	4.5	2.0
-41	0	fee fee fee fee fee fee fee fee fee 	244.0	1	4.0	4.5	2.0
-42	0	thought thought thought thought thought thought thought thought thought 	250.0	1	4.0	4.5	2.0
-43	0	mih mih mih mih mih mih mih mih mih 	256.0	1	4.0	4.5	2.0
-44	0	ser ser ser ser ser ser ser ser ser 	262.0	1	4.0	4.5	2.0
-45	0	per per per per per per per per per 	268.0	1	4.0	4.5	2.0
-46	0	pot pot pot pot pot pot pot pot pot 	274.0	1	4.0	4.5	2.0
-47	0	pie pie pie pie pie pie pie pie pie 	280.0	1	4.0	4.5	2.0
-48	0	day day day day day day day day day 	286.0	1	4.0	4.5	2.0
-49	0	fee fee fee fee fee fee fee fee fee 	292.0	1	4.0	4.5	2.0
-50	0	naw naw naw naw naw naw naw naw naw 	298.0	1	4.0	4.5	2.0
-51	0	pot pot pot pot pot pot pot pot pot 	304.0	1	4.0	4.5	2.0
-52	0	ter ter ter ter ter ter ter ter ter 	310.0	1	4.0	4.5	2.0
-53	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	316.0	1	4.0	4.5	2.0
-54	0	ser ser ser ser ser ser ser ser ser 	322.0	1	4.0	4.5	2.0
-55	0	pie pie pie pie pie pie pie pie pie 	328.0	1	4.0	4.5	2.0
-56	0	thought thought thought thought thought thought thought thought thought 	334.0	1	4.0	4.5	2.0
-57	0	per per per per per per per per per 	340.0	1	4.0	4.5	2.0
-58	0	fee fee fee fee fee fee fee fee fee 	346.0	1	4.0	4.5	2.0
-59	0	mih mih mih mih mih mih mih mih mih 	352.0	1	4.0	4.5	2.0
-60	0	pie pie pie pie pie pie pie pie pie 	358.0	1	4.0	4.5	2.0
-61	0	ter ter ter ter ter ter ter ter ter 	364.0	1	4.0	4.5	2.0
-62	0	ser ser ser ser ser ser ser ser ser 	370.0	1	4.0	4.5	2.0
-63	0	thought thought thought thought thought thought thought thought thought 	376.0	1	4.0	4.5	2.0
-64	0	thurs thurs thurs thurs thurs thurs thurs thurs thurs 	382.0	1	4.0	4.5	2.0
+trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
+1	word	the thir ti three thieves thought throne pi ter pie per picked peck out less ser leh ther neh ver day	4.0	4.0	4.0	4.5
+2	random	thurs thir pi fee through throne three thieves ter caw pie out picked thought per pot per ti the pro peck	13.0	4.0	4.0	4.5
+3	simple	fee fee fee fee fee fee fee fee fee	22.0	4.0	4.0	4.5
+4	word	less ser leh ther neh ver day the thir ti three thieves thought throne pro per caw fee pot through thurs	31.0	4.0	4.0	4.5
+5	random	caw leh per day the three through throne thought ver neh thieves pro pot fee ser ti thir ther thurs less	40.0	4.0	4.0	4.5
+6	word	less ser leh ther neh ver day pi ter pie per picked peck out the thir ti three thieves thought throne	49.0	4.0	4.0	4.5
+7	simple	pi pi pi pi pi pi pi pi pi	58.0	4.0	4.0	4.5
+8	word	pro per caw fee pot through thurs the thir ti three thieves thought throne pi ter pie per picked peck out	67.0	4.0	4.0	4.5
+9	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	76.0	4.0	4.0	4.5
+10	random	picked the pi out ver three day thieves ser throne thought ti ter leh per peck ther thir neh pie less	85.0	4.0	4.0	4.5
+11	random	ver ser pi caw per per pro neh leh through day picked ter less peck thurs pie fee out pot ther	94.0	4.0	4.0	4.5
+12	simple	pot pot pot pot pot pot pot pot pot	103.0	4.0	4.0	4.5
+13	word	the thir ti three thieves thought throne pi ter pie per picked peck out pro per caw fee pot through thurs	112.0	4.0	4.0	4.5
+14	simple	three three three three three three three three three	121.0	4.0	4.0	4.5
+15	random	less pot peck out pi neh pro per ser thurs ter through ver pie leh fee ther caw per picked day	130.0	4.0	4.0	4.5
+16	simple	picked picked picked picked picked picked picked picked picked	139.0	4.0	4.0	4.5
+17	simple	per per per per per per per per per	148.0	4.0	4.0	4.5
+18	simple	thurs thurs thurs thurs thurs thurs thurs thurs thurs	157.0	4.0	4.0	4.5
+19	random	out thought caw the throne fee thurs thieves pie peck thir per through three pro ter ti pi per pot picked	166.0	4.0	4.0	4.5
+20	word	the thir ti three thieves thought throne less ser leh ther neh ver day pi ter pie per picked peck out	175.0	4.0	4.0	4.5
+21	random	ther pot leh pro three the thir fee ser neh thieves day per thought less through thurs ti caw throne ver	184.0	4.0	4.0	4.5
+22	random	three ver day out pi thought ti neh per ter the leh peck thieves ser throne thir picked less ther pie	193.0	4.0	4.0	4.5
+23	simple	ver ver ver ver ver ver ver ver ver	202.0	4.0	4.0	4.5
+24	random	less through throne ther thieves three thir ser pro pot day thought fee caw ver neh ti the per leh thurs	211.0	4.0	4.0	4.5
+25	simple	thir thir thir thir thir thir thir thir thir	220.0	4.0	4.0	4.5
+26	random	less caw pot fee pi day out ther pro through per neh ter thurs ver ser picked leh per pie peck	229.0	4.0	4.0	4.5
+27	word	less ser leh ther neh ver day the thir ti three thieves thought throne pi ter pie per picked peck out	238.0	4.0	4.0	4.5
+28	random	ter leh thir day thought pie ther less ser three per peck thieves picked ti ver out neh pi the throne	247.0	4.0	4.0	4.5
+29	word	less ser leh ther neh ver day pro per caw fee pot through thurs the thir ti three thieves thought throne	256.0	4.0	4.0	4.5
+30	random	ver caw less pro pie neh ter leh ther day out pot per per pi fee thurs peck picked ser through	265.0	4.0	4.0	4.5
+31	simple	out out out out out out out out out	274.0	4.0	4.0	4.5
+32	simple	ter ter ter ter ter ter ter ter ter	283.0	4.0	4.0	4.5
+33	random	per thurs neh caw ver less ther three the throne ser day thought pot leh pro thieves thir ti through fee	292.0	4.0	4.0	4.5
+34	simple	ser ser ser ser ser ser ser ser ser	301.0	4.0	4.0	4.5
+35	simple	the the the the the the the the the	310.0	4.0	4.0	4.5
+36	simple	throne throne throne throne throne throne throne throne throne	319.0	4.0	4.0	4.5
+37	simple	ther ther ther ther ther ther ther ther ther	328.0	4.0	4.0	4.5

@@ -1,65 +1,38 @@
-trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time	rest_dur
-1	0	ver ver ver ver ver ver ver ver ver 	4.0	1	4.0	4.5	2.0
-2	0	pot pot pot pot pot pot pot pot pot 	10.0	1	4.0	4.5	2.0
-3	0	ter ter ter ter ter ter ter ter ter 	16.0	1	4.0	4.5	2.0
-4	0	pi pi pi pi pi pi pi pi pi 	22.0	1	4.0	4.5	2.0
-5	0	ser ser ser ser ser ser ser ser ser 	28.0	1	4.0	4.5	2.0
-6	0	neh neh neh neh neh neh neh neh neh 	34.0	1	4.0	4.5	2.0
-7	0	juh juh juh juh juh juh juh juh juh 	40.0	1	4.0	4.5	2.0
-8	0	throne throne throne throne throne throne throne throne throne 	46.0	1	4.0	4.5	2.0
-9	0	ver ver ver ver ver ver ver ver ver 	52.0	1	4.0	4.5	2.0
-10	0	leh leh leh leh leh leh leh leh leh 	58.0	1	4.0	4.5	2.0
-11	0	pot pot pot pot pot pot pot pot pot 	64.0	1	4.0	4.5	2.0
-12	0	out out out out out out out out out 	70.0	1	4.0	4.5	2.0
-13	0	ter ter ter ter ter ter ter ter ter 	76.0	1	4.0	4.5	2.0
-14	0	pi pi pi pi pi pi pi pi pi 	82.0	1	4.0	4.5	2.0
-15	0	ser ser ser ser ser ser ser ser ser 	88.0	1	4.0	4.5	2.0
-16	0	throne throne throne throne throne throne throne throne throne 	94.0	1	4.0	4.5	2.0
-17	0	pi pi pi pi pi pi pi pi pi 	100.0	1	4.0	4.5	2.0
-18	0	ter ter ter ter ter ter ter ter ter 	106.0	1	4.0	4.5	2.0
-19	0	juh juh juh juh juh juh juh juh juh 	112.0	1	4.0	4.5	2.0
-20	0	ser ser ser ser ser ser ser ser ser 	118.0	1	4.0	4.5	2.0
-21	0	ver ver ver ver ver ver ver ver ver 	124.0	1	4.0	4.5	2.0
-22	0	out out out out out out out out out 	130.0	1	4.0	4.5	2.0
-23	0	leh leh leh leh leh leh leh leh leh 	136.0	1	4.0	4.5	2.0
-24	0	pot pot pot pot pot pot pot pot pot 	142.0	1	4.0	4.5	2.0
-25	0	juh juh juh juh juh juh juh juh juh 	148.0	1	4.0	4.5	2.0
-26	0	neh neh neh neh neh neh neh neh neh 	154.0	1	4.0	4.5	2.0
-27	0	ver ver ver ver ver ver ver ver ver 	160.0	1	4.0	4.5	2.0
-28	0	throne throne throne throne throne throne throne throne throne 	166.0	1	4.0	4.5	2.0
-29	0	ter ter ter ter ter ter ter ter ter 	172.0	1	4.0	4.5	2.0
-30	0	leh leh leh leh leh leh leh leh leh 	178.0	1	4.0	4.5	2.0
-31	0	pot pot pot pot pot pot pot pot pot 	184.0	1	4.0	4.5	2.0
-32	0	ser ser ser ser ser ser ser ser ser 	190.0	1	4.0	4.5	2.0
-33	0	ser ser ser ser ser ser ser ser ser 	196.0	1	4.0	4.5	2.0
-34	0	juh juh juh juh juh juh juh juh juh 	202.0	1	4.0	4.5	2.0
-35	0	leh leh leh leh leh leh leh leh leh 	208.0	1	4.0	4.5	2.0
-36	0	ter ter ter ter ter ter ter ter ter 	214.0	1	4.0	4.5	2.0
-37	0	pi pi pi pi pi pi pi pi pi 	220.0	1	4.0	4.5	2.0
-38	0	pot pot pot pot pot pot pot pot pot 	226.0	1	4.0	4.5	2.0
-39	0	ver ver ver ver ver ver ver ver ver 	232.0	1	4.0	4.5	2.0
-40	0	throne throne throne throne throne throne throne throne throne 	238.0	1	4.0	4.5	2.0
-41	0	ser ser ser ser ser ser ser ser ser 	244.0	1	4.0	4.5	2.0
-42	0	out out out out out out out out out 	250.0	1	4.0	4.5	2.0
-43	0	juh juh juh juh juh juh juh juh juh 	256.0	1	4.0	4.5	2.0
-44	0	ver ver ver ver ver ver ver ver ver 	262.0	1	4.0	4.5	2.0
-45	0	pi pi pi pi pi pi pi pi pi 	268.0	1	4.0	4.5	2.0
-46	0	leh leh leh leh leh leh leh leh leh 	274.0	1	4.0	4.5	2.0
-47	0	neh neh neh neh neh neh neh neh neh 	280.0	1	4.0	4.5	2.0
-48	0	pot pot pot pot pot pot pot pot pot 	286.0	1	4.0	4.5	2.0
-49	0	ser ser ser ser ser ser ser ser ser 	292.0	1	4.0	4.5	2.0
-50	0	ter ter ter ter ter ter ter ter ter 	298.0	1	4.0	4.5	2.0
-51	0	juh juh juh juh juh juh juh juh juh 	304.0	1	4.0	4.5	2.0
-52	0	throne throne throne throne throne throne throne throne throne 	310.0	1	4.0	4.5	2.0
-53	0	out out out out out out out out out 	316.0	1	4.0	4.5	2.0
-54	0	pi pi pi pi pi pi pi pi pi 	322.0	1	4.0	4.5	2.0
-55	0	leh leh leh leh leh leh leh leh leh 	328.0	1	4.0	4.5	2.0
-56	0	neh neh neh neh neh neh neh neh neh 	334.0	1	4.0	4.5	2.0
-57	0	pi pi pi pi pi pi pi pi pi 	340.0	1	4.0	4.5	2.0
-58	0	ser ser ser ser ser ser ser ser ser 	346.0	1	4.0	4.5	2.0
-59	0	pot pot pot pot pot pot pot pot pot 	352.0	1	4.0	4.5	2.0
-60	0	juh juh juh juh juh juh juh juh juh 	358.0	1	4.0	4.5	2.0
-61	0	throne throne throne throne throne throne throne throne throne 	364.0	1	4.0	4.5	2.0
-62	0	leh leh leh leh leh leh leh leh leh 	370.0	1	4.0	4.5	2.0
-63	0	ver ver ver ver ver ver ver ver ver 	376.0	1	4.0	4.5	2.0
-64	0	neh neh neh neh neh neh neh neh neh 	382.0	1	4.0	4.5	2.0
+trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
+1	simple	peck peck peck peck peck peck peck peck peck	4.0	4.0	4.0	4.5
+2	word	pi ter pie per picked peck out less ser leh ther neh ver day imah jin airy mih naw juh jur	13.0	4.0	4.0	4.5
+3	simple	ti ti ti ti ti ti ti ti ti	22.0	4.0	4.0	4.5
+4	word	the thir ti three thieves thought throne imah jin airy mih naw juh jur less ser leh ther neh ver day	31.0	4.0	4.0	4.5
+5	random	per out airy mih pie picked peck throne thieves naw jin imah the ter three jur juh ti pi thought thir	40.0	4.0	4.0	4.5
+6	random	mih leh imah naw juh day airy ti thir jur jin ver neh three ther ser less thought thieves throne the	49.0	4.0	4.0	4.5
+7	word	pi ter pie per picked peck out less ser leh ther neh ver day the thir ti three thieves thought throne	58.0	4.0	4.0	4.5
+8	random	ti out ser peck per pie leh ver day three neh pi thought thir ter the less picked thieves throne ther	67.0	4.0	4.0	4.5
+9	word	pi ter pie per picked peck out imah jin airy mih naw juh jur less ser leh ther neh ver day	76.0	4.0	4.0	4.5
+10	simple	jur jur jur jur jur jur jur jur jur	85.0	4.0	4.0	4.5
+11	word	imah jin airy mih naw juh jur less ser leh ther neh ver day the thir ti three thieves thought throne	94.0	4.0	4.0	4.5
+12	word	the thir ti three thieves thought throne pi ter pie per picked peck out less ser leh ther neh ver day	103.0	4.0	4.0	4.5
+13	word	the thir ti three thieves thought throne less ser leh ther neh ver day pi ter pie per picked peck out	112.0	4.0	4.0	4.5
+14	random	the ti airy pi thought ter juh jur per picked peck jin pie thir throne thieves naw mih three out imah	121.0	4.0	4.0	4.5
+15	word	imah jin airy mih naw juh jur the thir ti three thieves thought throne less ser leh ther neh ver day	130.0	4.0	4.0	4.5
+16	word	less ser leh ther neh ver day pi ter pie per picked peck out the thir ti three thieves thought throne	139.0	4.0	4.0	4.5
+17	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	148.0	4.0	4.0	4.5
+18	random	mih pi thought throne imah juh peck thieves pie jur picked three out jin thir ter ti naw per the airy	157.0	4.0	4.0	4.5
+19	random	ver three ther less mih thieves jur imah day the jin ti leh juh ser airy naw thought throne thir neh	166.0	4.0	4.0	4.5
+20	random	ther less jin naw imah juh leh ter pie ser jur airy neh pi ver per mih out peck picked day	175.0	4.0	4.0	4.5
+21	simple	pie pie pie pie pie pie pie pie pie	184.0	4.0	4.0	4.5
+22	simple	ter ter ter ter ter ter ter ter ter	193.0	4.0	4.0	4.5
+23	word	less ser leh ther neh ver day pi ter pie per picked peck out imah jin airy mih naw juh jur	202.0	4.0	4.0	4.5
+24	random	ver ther imah airy jin peck out per jur picked leh day mih neh naw ser ter less pie pi juh	211.0	4.0	4.0	4.5
+25	simple	ser ser ser ser ser ser ser ser ser	220.0	4.0	4.0	4.5
+26	simple	the the the the the the the the the	229.0	4.0	4.0	4.5
+27	simple	picked picked picked picked picked picked picked picked picked	238.0	4.0	4.0	4.5
+28	simple	thought thought thought thought thought thought thought thought thought	247.0	4.0	4.0	4.5
+29	random	ter per peck less ser throne ver neh out leh day the pie ti picked three pi thought thieves ther thir	256.0	4.0	4.0	4.5
+30	random	per peck ser three picked the pi thir day thieves ver ti throne less ther leh thought ter pie out neh	265.0	4.0	4.0	4.5
+31	simple	pi pi pi pi pi pi pi pi pi	274.0	4.0	4.0	4.5
+32	simple	juh juh juh juh juh juh juh juh juh	283.0	4.0	4.0	4.5
+33	simple	leh leh leh leh leh leh leh leh leh	292.0	4.0	4.0	4.5
+34	simple	neh neh neh neh neh neh neh neh neh	301.0	4.0	4.0	4.5
+35	random	the day airy leh mih jur thir ther ver naw thieves less throne ser juh thought three ti imah neh jin	310.0	4.0	4.0	4.5
+36	simple	naw naw naw naw naw naw naw naw naw	319.0	4.0	4.0	4.5
+37	simple	three three three three three three three three three	328.0	4.0	4.0	4.5
