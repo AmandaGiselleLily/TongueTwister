@@ -51,7 +51,7 @@ class Experiment:
         inputDlg.addField('Enter Subject id (str):',initial = self.subj_id)      
         inputDlg.addField('Enter Run Number (int):',initial = self.run_number+1)      
         inputDlg.addField('Run File name (str):',initial = self.const.default_run_filename.format(f'{int(self.subj_id):02d}', f'{int(self.run_number) + 1:02d}'))      
-        #inputDlg.addField('Run in MRI?', initial = True) 
+        inputDlg.addField('Run in MRI?', initial = True) 
         inputDlg.addField('Record data?', initial = True)
 
         inputDlg.show()
@@ -60,8 +60,8 @@ class Experiment:
             self.subj_id        = str(inputDlg.data[0])
             self.run_number     = int(inputDlg.data[1])
             self.run_filename   = str(inputDlg.data[2])
-            #self.wait_ttl       = bool(inputDlg.data[3])
-            self.record_data    = bool(inputDlg.data[3])
+            self.wait_ttl       = bool(inputDlg.data[3])
+            self.record_data    = bool(inputDlg.data[4])
         else:
             sys.exit()
         
