@@ -1,38 +1,41 @@
 trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
-1	simple	airy airy airy airy airy airy airy airy airy	4.0	4.0	4.0	4.5
-2	word	imah jin airy mih naw juh jur less ser leh ther neh ver day the thir ti three thieves thought throne	13.0	4.0	4.0	4.5
-3	word	the thir ti three thieves thought throne how much would a chuck if thrilled imah jin airy mih naw juh jur	22.0	4.0	4.0	4.5
-4	simple	throne throne throne throne throne throne throne throne throne	31.0	4.0	4.0	4.5
-5	simple	if if if if if if if if if	40.0	4.0	4.0	4.5
-6	simple	imah imah imah imah imah imah imah imah imah	49.0	4.0	4.0	4.5
-7	random	ser would ver much if neh ther the leh throne thieves three a thir how day less thrilled chuck ti thought	58.0	4.0	4.0	4.5
-8	random	leh day thought airy throne imah thieves naw jin jur ther mih neh ti ver three less the ser juh thir	67.0	4.0	4.0	4.5
-9	word	how much would a chuck if thrilled imah jin airy mih naw juh jur less ser leh ther neh ver day	76.0	4.0	4.0	4.5
-10	word	imah jin airy mih naw juh jur less ser leh ther neh ver day how much would a chuck if thrilled	85.0	4.0	4.0	4.5
-11	simple	three three three three three three three three three	94.0	4.0	4.0	4.5
-12	random	day ver the throne how ther chuck thrilled thir ti if neh much thought would less thieves leh a three ser	103.0	4.0	4.0	4.5
-13	word	less ser leh ther neh ver day how much would a chuck if thrilled the thir ti three thieves thought throne	112.0	4.0	4.0	4.5
-14	random	throne the thrilled if mih airy how juh imah thought jin jur much thieves thir chuck would three naw ti a	121.0	4.0	4.0	4.5
-15	simple	jin jin jin jin jin jin jin jin jin	130.0	4.0	4.0	4.5
-16	random	neh day ver airy the thir juh thought three mih jur ser thieves ti jin less imah leh throne ther naw	139.0	4.0	4.0	4.5
-17	simple	ther ther ther ther ther ther ther ther ther	148.0	4.0	4.0	4.5
-18	random	would less three ser ther thir thought thieves chuck the ti leh day throne if ver much thrilled a how neh	157.0	4.0	4.0	4.5
-19	simple	jur jur jur jur jur jur jur jur jur	166.0	4.0	4.0	4.5
-20	simple	a a a a a a a a a	175.0	4.0	4.0	4.5
-21	random	day leh ti less ver jur juh neh three imah ser naw thieves mih throne ther the thir jin airy thought	184.0	4.0	4.0	4.5
-22	simple	ver ver ver ver ver ver ver ver ver	193.0	4.0	4.0	4.5
-23	simple	would would would would would would would would would	202.0	4.0	4.0	4.5
-24	word	less ser leh ther neh ver day how much would a chuck if thrilled imah jin airy mih naw juh jur	211.0	4.0	4.0	4.5
-25	word	less ser leh ther neh ver day the thir ti three thieves thought throne imah jin airy mih naw juh jur	220.0	4.0	4.0	4.5
-26	word	how much would a chuck if thrilled imah jin airy mih naw juh jur the thir ti three thieves thought throne	229.0	4.0	4.0	4.5
-27	word	how much would a chuck if thrilled less ser leh ther neh ver day imah jin airy mih naw juh jur	238.0	4.0	4.0	4.5
-28	random	chuck day much how less leh thir three thieves thrilled a ti ver would thought if the ther neh ser throne	247.0	4.0	4.0	4.5
-29	simple	thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled	256.0	4.0	4.0	4.5
-30	simple	thought thought thought thought thought thought thought thought thought	265.0	4.0	4.0	4.5
-31	word	less ser leh ther neh ver day imah jin airy mih naw juh jur how much would a chuck if thrilled	274.0	4.0	4.0	4.5
-32	word	how much would a chuck if thrilled the thir ti three thieves thought throne imah jin airy mih naw juh jur	283.0	4.0	4.0	4.5
-33	random	naw ti would thought juh throne mih much airy if a jur jin three thieves the thir chuck how thrilled imah	292.0	4.0	4.0	4.5
-34	simple	the the the the the the the the the	301.0	4.0	4.0	4.5
-35	simple	mih mih mih mih mih mih mih mih mih	310.0	4.0	4.0	4.5
-36	random	thrilled throne much thir ti would thought chuck jur if naw thieves the airy how imah mih juh a jin three	319.0	4.0	4.0	4.5
-37	random	if thought how chuck thrilled thieves ser throne much neh leh thir day ther ver would less three the a ti	328.0	4.0	4.0	4.5
+1	simple	out out out out out out out out out	4.0	4.0	4.0	4.5
+2	simple	pi pi pi pi pi pi pi pi pi	13.0	4.0	4.0	4.5
+3	simple	how how how how how how how how how	22.0	4.0	4.0	4.5
+4	simple	peck peck peck peck peck peck peck peck peck	31.0	4.0	4.0	4.5
+5	simple	pro pro pro pro pro pro pro pro pro	40.0	4.0	4.0	4.5
+6	simple	jin jin jin jin jin jin jin jin jin	49.0	4.0	4.0	4.5
+7	simple	if if if if if if if if if	58.0	4.0	4.0	4.5
+8	simple	leh leh leh leh leh leh leh leh leh	67.0	4.0	4.0	4.5
+9	simple	pi pi pi pi pi pi pi pi pi	76.0	4.0	4.0	4.5
+10	simple	fee fee fee fee fee fee fee fee fee	85.0	4.0	4.0	4.5
+11	simple	ver ver ver ver ver ver ver ver ver	94.0	4.0	4.0	4.5
+12	simple	airy airy airy airy airy airy airy airy airy	103.0	4.0	4.0	4.5
+13	simple	day day day day day day day day day	112.0	4.0	4.0	4.5
+14	simple	caw caw caw caw caw caw caw caw caw	121.0	4.0	4.0	4.5
+15	simple	imah imah imah imah imah imah imah imah imah	130.0	4.0	4.0	4.5
+16	simple	ver ver ver ver ver ver ver ver ver	139.0	4.0	4.0	4.5
+17	simple	mih mih mih mih mih mih mih mih mih	148.0	4.0	4.0	4.5
+18	simple	day day day day day day day day day	157.0	4.0	4.0	4.5
+19	simple	ti ti ti ti ti ti ti ti ti	166.0	4.0	4.0	4.5
+20	simple	much much much much much much much much much	175.0	4.0	4.0	4.5
+21	simple	pie pie pie pie pie pie pie pie pie	184.0	4.0	4.0	4.5
+22	simple	neh neh neh neh neh neh neh neh neh	193.0	4.0	4.0	4.5
+23	simple	pot pot pot pot pot pot pot pot pot	202.0	4.0	4.0	4.5
+24	simple	per per per per per per per per per	211.0	4.0	4.0	4.5
+25	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	220.0	4.0	4.0	4.5
+26	simple	ser ser ser ser ser ser ser ser ser	229.0	4.0	4.0	4.5
+27	simple	chuck chuck chuck chuck chuck chuck chuck chuck chuck	238.0	4.0	4.0	4.5
+28	simple	pro pro pro pro pro pro pro pro pro	247.0	4.0	4.0	4.5
+29	simple	how how how how how how how how how	256.0	4.0	4.0	4.5
+30	simple	picked picked picked picked picked picked picked picked picked	265.0	4.0	4.0	4.5
+31	simple	thought thought thought thought thought thought thought thought thought	274.0	4.0	4.0	4.5
+32	simple	a a a a a a a a a	283.0	4.0	4.0	4.5
+33	simple	thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled	292.0	4.0	4.0	4.5
+34	simple	thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled	301.0	4.0	4.0	4.5
+35	simple	thought thought thought thought thought thought thought thought thought	310.0	4.0	4.0	4.5
+36	simple	juh juh juh juh juh juh juh juh juh	319.0	4.0	4.0	4.5
+37	simple	if if if if if if if if if	328.0	4.0	4.0	4.5
+38	simple	naw naw naw naw naw naw naw naw naw	337.0	4.0	4.0	4.5
+39	simple	fee fee fee fee fee fee fee fee fee	346.0	4.0	4.0	4.5
+40	simple	much much much much much much much much much	355.0	4.0	4.0	4.5

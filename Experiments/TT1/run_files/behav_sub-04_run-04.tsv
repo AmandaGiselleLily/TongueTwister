@@ -1,38 +1,41 @@
 trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
-1	simple	naw naw naw naw naw naw naw naw naw	4.0	4.0	4.0	4.5
-2	word	imah jin airy mih naw juh jur the thir ti three thieves thought throne less ser leh ther neh ver day	13.0	4.0	4.0	4.5
-3	random	pie ser throne per thieves ter peck ther day less thought ti three thir leh the ver out pi picked neh	22.0	4.0	4.0	4.5
-4	simple	thought thought thought thought thought thought thought thought thought	31.0	4.0	4.0	4.5
-5	word	less ser leh ther neh ver day imah jin airy mih naw juh jur the thir ti three thieves thought throne	40.0	4.0	4.0	4.5
-6	random	ther mih throne less jur thought imah ser airy jin thir ver thieves juh neh three leh naw ti day the	49.0	4.0	4.0	4.5
-7	simple	day day day day day day day day day	58.0	4.0	4.0	4.5
-8	word	the thir ti three thieves thought throne imah jin airy mih naw juh jur pi ter pie per picked peck out	67.0	4.0	4.0	4.5
-9	simple	airy airy airy airy airy airy airy airy airy	76.0	4.0	4.0	4.5
-10	simple	mih mih mih mih mih mih mih mih mih	85.0	4.0	4.0	4.5
-11	simple	ti ti ti ti ti ti ti ti ti	94.0	4.0	4.0	4.5
-12	word	imah jin airy mih naw juh jur pi ter pie per picked peck out the thir ti three thieves thought throne	103.0	4.0	4.0	4.5
-13	word	pi ter pie per picked peck out imah jin airy mih naw juh jur less ser leh ther neh ver day	112.0	4.0	4.0	4.5
-14	random	mih airy imah ti jur thought thieves less ser ver jin throne neh three day thir ther leh naw juh the	121.0	4.0	4.0	4.5
-15	simple	the the the the the the the the the	130.0	4.0	4.0	4.5
-16	word	less ser leh ther neh ver day pi ter pie per picked peck out imah jin airy mih naw juh jur	139.0	4.0	4.0	4.5
-17	word	pi ter pie per picked peck out less ser leh ther neh ver day imah jin airy mih naw juh jur	148.0	4.0	4.0	4.5
-18	simple	out out out out out out out out out	157.0	4.0	4.0	4.5
-19	word	pi ter pie per picked peck out the thir ti three thieves thought throne imah jin airy mih naw juh jur	166.0	4.0	4.0	4.5
-20	simple	peck peck peck peck peck peck peck peck peck	175.0	4.0	4.0	4.5
-21	simple	picked picked picked picked picked picked picked picked picked	184.0	4.0	4.0	4.5
-22	random	picked mih juh thir three throne imah pie per pi peck thought jur ti jin ter the naw out airy thieves	193.0	4.0	4.0	4.5
-23	random	neh picked mih day imah pie out ser peck leh less per pi ter ver naw jin ther jur airy juh	202.0	4.0	4.0	4.5
+1	simple	neh neh neh neh neh neh neh neh neh	4.0	4.0	4.0	4.5
+2	simple	pro pro pro pro pro pro pro pro pro	13.0	4.0	4.0	4.5
+3	simple	pot pot pot pot pot pot pot pot pot	22.0	4.0	4.0	4.5
+4	simple	ver ver ver ver ver ver ver ver ver	31.0	4.0	4.0	4.5
+5	simple	ter ter ter ter ter ter ter ter ter	40.0	4.0	4.0	4.5
+6	simple	peck peck peck peck peck peck peck peck peck	49.0	4.0	4.0	4.5
+7	simple	less less less less less less less less less	58.0	4.0	4.0	4.5
+8	simple	leh leh leh leh leh leh leh leh leh	67.0	4.0	4.0	4.5
+9	simple	naw naw naw naw naw naw naw naw naw	76.0	4.0	4.0	4.5
+10	simple	leh leh leh leh leh leh leh leh leh	85.0	4.0	4.0	4.5
+11	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	94.0	4.0	4.0	4.5
+12	simple	throne throne throne throne throne throne throne throne throne	103.0	4.0	4.0	4.5
+13	simple	pie pie pie pie pie pie pie pie pie	112.0	4.0	4.0	4.5
+14	simple	ther ther ther ther ther ther ther ther ther	121.0	4.0	4.0	4.5
+15	simple	jur jur jur jur jur jur jur jur jur	130.0	4.0	4.0	4.5
+16	simple	a a a a a a a a a	139.0	4.0	4.0	4.5
+17	simple	peck peck peck peck peck peck peck peck peck	148.0	4.0	4.0	4.5
+18	simple	mih mih mih mih mih mih mih mih mih	157.0	4.0	4.0	4.5
+19	simple	naw naw naw naw naw naw naw naw naw	166.0	4.0	4.0	4.5
+20	simple	thought thought thought thought thought thought thought thought thought	175.0	4.0	4.0	4.5
+21	simple	through through through through through through through through through	184.0	4.0	4.0	4.5
+22	simple	out out out out out out out out out	193.0	4.0	4.0	4.5
+23	simple	caw caw caw caw caw caw caw caw caw	202.0	4.0	4.0	4.5
 24	simple	jin jin jin jin jin jin jin jin jin	211.0	4.0	4.0	4.5
-25	word	the thir ti three thieves thought throne imah jin airy mih naw juh jur less ser leh ther neh ver day	220.0	4.0	4.0	4.5
+25	simple	out out out out out out out out out	220.0	4.0	4.0	4.5
 26	simple	ther ther ther ther ther ther ther ther ther	229.0	4.0	4.0	4.5
-27	simple	ver ver ver ver ver ver ver ver ver	238.0	4.0	4.0	4.5
-28	simple	less less less less less less less less less	247.0	4.0	4.0	4.5
+27	simple	jin jin jin jin jin jin jin jin jin	238.0	4.0	4.0	4.5
+28	simple	pot pot pot pot pot pot pot pot pot	247.0	4.0	4.0	4.5
 29	simple	imah imah imah imah imah imah imah imah imah	256.0	4.0	4.0	4.5
-30	random	pie three ti imah naw per mih throne juh peck jin out jur thieves picked thir ter airy the pi thought	265.0	4.0	4.0	4.5
-31	random	naw per thir peck three thieves mih ti jur ter imah out pi jin picked pie the thought throne juh airy	274.0	4.0	4.0	4.5
-32	random	airy throne jur three thought pi ti naw pie imah peck ter out thir the picked mih per jin thieves juh	283.0	4.0	4.0	4.5
-33	word	less ser leh ther neh ver day pi ter pie per picked peck out the thir ti three thieves thought throne	292.0	4.0	4.0	4.5
-34	simple	three three three three three three three three three	301.0	4.0	4.0	4.5
-35	word	less ser leh ther neh ver day the thir ti three thieves thought throne pi ter pie per picked peck out	310.0	4.0	4.0	4.5
-36	simple	thir thir thir thir thir thir thir thir thir	319.0	4.0	4.0	4.5
-37	simple	ter ter ter ter ter ter ter ter ter	328.0	4.0	4.0	4.5
+30	simple	ti ti ti ti ti ti ti ti ti	265.0	4.0	4.0	4.5
+31	simple	day day day day day day day day day	274.0	4.0	4.0	4.5
+32	simple	less less less less less less less less less	283.0	4.0	4.0	4.5
+33	simple	jur jur jur jur jur jur jur jur jur	292.0	4.0	4.0	4.5
+34	simple	ver ver ver ver ver ver ver ver ver	301.0	4.0	4.0	4.5
+35	simple	thir thir thir thir thir thir thir thir thir	310.0	4.0	4.0	4.5
+36	simple	thurs thurs thurs thurs thurs thurs thurs thurs thurs	319.0	4.0	4.0	4.5
+37	simple	fee fee fee fee fee fee fee fee fee	328.0	4.0	4.0	4.5
+38	simple	juh juh juh juh juh juh juh juh juh	337.0	4.0	4.0	4.5
+39	simple	airy airy airy airy airy airy airy airy airy	346.0	4.0	4.0	4.5
+40	simple	pie pie pie pie pie pie pie pie pie	355.0	4.0	4.0	4.5

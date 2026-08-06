@@ -1,38 +1,41 @@
 trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
-1	random	fee thrilled caw throne chuck much thir pro would thought thurs a pot three if per ti thieves how the through	4.0	4.0	4.0	4.5
-2	simple	if if if if if if if if if	13.0	4.0	4.0	4.5
-3	random	through a caw juh pot fee imah naw jur jin pro mih thurs much would airy if thrilled chuck per how	22.0	4.0	4.0	4.5
-4	word	the thir ti three thieves thought throne pro per caw fee pot through thurs how much would a chuck if thrilled	31.0	4.0	4.0	4.5
-5	simple	thir thir thir thir thir thir thir thir thir	40.0	4.0	4.0	4.5
-6	word	the thir ti three thieves thought throne pro per caw fee pot through thurs imah jin airy mih naw juh jur	49.0	4.0	4.0	4.5
-7	simple	much much much much much much much much much	58.0	4.0	4.0	4.5
-8	simple	per per per per per per per per per	67.0	4.0	4.0	4.5
-9	simple	pot pot pot pot pot pot pot pot pot	76.0	4.0	4.0	4.5
-10	word	the thir ti three thieves thought throne how much would a chuck if thrilled imah jin airy mih naw juh jur	85.0	4.0	4.0	4.5
-11	simple	chuck chuck chuck chuck chuck chuck chuck chuck chuck	94.0	4.0	4.0	4.5
-12	simple	thurs thurs thurs thurs thurs thurs thurs thurs thurs	103.0	4.0	4.0	4.5
-13	random	pro much fee pot mih imah naw jin how thurs airy a chuck juh per caw would jur if thrilled through	112.0	4.0	4.0	4.5
-14	word	how much would a chuck if thrilled the thir ti three thieves thought throne pro per caw fee pot through thurs	121.0	4.0	4.0	4.5
-15	random	a much through thir chuck thieves caw thurs pro ti per thrilled three if fee pot throne how would the thought	130.0	4.0	4.0	4.5
-16	random	naw thieves three throne the how a would chuck imah thrilled juh mih jur thir airy ti thought much jin if	139.0	4.0	4.0	4.5
-17	random	pot pro jin per throne juh ti through the thought three thieves mih airy imah thir thurs jur fee naw caw	148.0	4.0	4.0	4.5
-18	word	pro per caw fee pot through thurs how much would a chuck if thrilled the thir ti three thieves thought throne	157.0	4.0	4.0	4.5
-19	simple	jin jin jin jin jin jin jin jin jin	166.0	4.0	4.0	4.5
-20	word	the thir ti three thieves thought throne imah jin airy mih naw juh jur how much would a chuck if thrilled	175.0	4.0	4.0	4.5
-21	simple	how how how how how how how how how	184.0	4.0	4.0	4.5
-22	word	how much would a chuck if thrilled pro per caw fee pot through thurs the thir ti three thieves thought throne	193.0	4.0	4.0	4.5
-23	random	how naw thieves thought thrilled chuck the mih much jin airy three ti imah a juh if throne would thir jur	202.0	4.0	4.0	4.5
-24	word	imah jin airy mih naw juh jur the thir ti three thieves thought throne pro per caw fee pot through thurs	211.0	4.0	4.0	4.5
-25	simple	mih mih mih mih mih mih mih mih mih	220.0	4.0	4.0	4.5
-26	random	a pro thrilled pot would ti throne the per thurs three if thir how thought caw through fee chuck much thieves	229.0	4.0	4.0	4.5
-27	simple	caw caw caw caw caw caw caw caw caw	238.0	4.0	4.0	4.5
-28	word	the thir ti three thieves thought throne imah jin airy mih naw juh jur pro per caw fee pot through thurs	247.0	4.0	4.0	4.5
-29	simple	pro pro pro pro pro pro pro pro pro	256.0	4.0	4.0	4.5
-30	word	pro per caw fee pot through thurs imah jin airy mih naw juh jur how much would a chuck if thrilled	265.0	4.0	4.0	4.5
-31	random	pot would a fee pro airy imah chuck thurs juh naw jur through caw mih jin thrilled much if how per	274.0	4.0	4.0	4.5
-32	word	pro per caw fee pot through thurs how much would a chuck if thrilled imah jin airy mih naw juh jur	283.0	4.0	4.0	4.5
-33	random	jur three the a juh mih thir how airy if would jin ti chuck throne thieves much imah naw thought thrilled	292.0	4.0	4.0	4.5
-34	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	301.0	4.0	4.0	4.5
-35	random	how throne thir airy naw would thieves much thrilled a ti jur chuck imah three juh the if thought jin mih	310.0	4.0	4.0	4.5
-36	random	thought thieves fee throne caw imah three jin thurs mih ti airy pro juh jur per the naw through pot thir	319.0	4.0	4.0	4.5
-37	word	how much would a chuck if thrilled imah jin airy mih naw juh jur pro per caw fee pot through thurs	328.0	4.0	4.0	4.5
+1	simple	caw caw caw caw caw caw caw caw caw	4.0	4.0	4.0	4.5
+2	simple	out out out out out out out out out	13.0	4.0	4.0	4.5
+3	simple	day day day day day day day day day	22.0	4.0	4.0	4.5
+4	simple	how how how how how how how how how	31.0	4.0	4.0	4.5
+5	simple	juh juh juh juh juh juh juh juh juh	40.0	4.0	4.0	4.5
+6	simple	per per per per per per per per per	49.0	4.0	4.0	4.5
+7	simple	ver ver ver ver ver ver ver ver ver	58.0	4.0	4.0	4.5
+8	simple	jur jur jur jur jur jur jur jur jur	67.0	4.0	4.0	4.5
+9	simple	thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled	76.0	4.0	4.0	4.5
+10	simple	pro pro pro pro pro pro pro pro pro	85.0	4.0	4.0	4.5
+11	simple	imah imah imah imah imah imah imah imah imah	94.0	4.0	4.0	4.5
+12	simple	ther ther ther ther ther ther ther ther ther	103.0	4.0	4.0	4.5
+13	simple	thought thought thought thought thought thought thought thought thought	112.0	4.0	4.0	4.5
+14	simple	caw caw caw caw caw caw caw caw caw	121.0	4.0	4.0	4.5
+15	simple	the the the the the the the the the	130.0	4.0	4.0	4.5
+16	simple	jin jin jin jin jin jin jin jin jin	139.0	4.0	4.0	4.5
+17	simple	fee fee fee fee fee fee fee fee fee	148.0	4.0	4.0	4.5
+18	simple	thought thought thought thought thought thought thought thought thought	157.0	4.0	4.0	4.5
+19	simple	would would would would would would would would would	166.0	4.0	4.0	4.5
+20	simple	would would would would would would would would would	175.0	4.0	4.0	4.5
+21	simple	juh juh juh juh juh juh juh juh juh	184.0	4.0	4.0	4.5
+22	simple	naw naw naw naw naw naw naw naw naw	193.0	4.0	4.0	4.5
+23	simple	mih mih mih mih mih mih mih mih mih	202.0	4.0	4.0	4.5
+24	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	211.0	4.0	4.0	4.5
+25	simple	leh leh leh leh leh leh leh leh leh	220.0	4.0	4.0	4.5
+26	simple	a a a a a a a a a	229.0	4.0	4.0	4.5
+27	simple	ser ser ser ser ser ser ser ser ser	238.0	4.0	4.0	4.5
+28	simple	pot pot pot pot pot pot pot pot pot	247.0	4.0	4.0	4.5
+29	simple	day day day day day day day day day	256.0	4.0	4.0	4.5
+30	simple	thir thir thir thir thir thir thir thir thir	265.0	4.0	4.0	4.5
+31	simple	thurs thurs thurs thurs thurs thurs thurs thurs thurs	274.0	4.0	4.0	4.5
+32	simple	throne throne throne throne throne throne throne throne throne	283.0	4.0	4.0	4.5
+33	simple	peck peck peck peck peck peck peck peck peck	292.0	4.0	4.0	4.5
+34	simple	if if if if if if if if if	301.0	4.0	4.0	4.5
+35	simple	a a a a a a a a a	310.0	4.0	4.0	4.5
+36	simple	naw naw naw naw naw naw naw naw naw	319.0	4.0	4.0	4.5
+37	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	328.0	4.0	4.0	4.5
+38	simple	pie pie pie pie pie pie pie pie pie	337.0	4.0	4.0	4.5
+39	simple	thurs thurs thurs thurs thurs thurs thurs thurs thurs	346.0	4.0	4.0	4.5
+40	simple	ver ver ver ver ver ver ver ver ver	355.0	4.0	4.0	4.5

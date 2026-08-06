@@ -1,38 +1,41 @@
 trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
-1	simple	three three three three three three three three three	4.0	4.0	4.0	4.5
-2	simple	per per per per per per per per per	13.0	4.0	4.0	4.5
-3	simple	neh neh neh neh neh neh neh neh neh	22.0	4.0	4.0	4.5
-4	random	would day per thrilled pie ther chuck pi less ver peck picked ter how neh out much leh a ser if	31.0	4.0	4.0	4.5
-5	random	much pi picked chuck less how ser peck if thrilled would ter pie leh out ther day ver neh a per	40.0	4.0	4.0	4.5
-6	word	pi ter pie per picked peck out the thir ti three thieves thought throne less ser leh ther neh ver day	49.0	4.0	4.0	4.5
-7	word	how much would a chuck if thrilled the thir ti three thieves thought throne less ser leh ther neh ver day	58.0	4.0	4.0	4.5
-8	random	per how ti thieves pie would ter thir thrilled picked three chuck throne the pi if much thought out a peck	67.0	4.0	4.0	4.5
-9	simple	a a a a a a a a a	76.0	4.0	4.0	4.5
-10	word	the thir ti three thieves thought throne how much would a chuck if thrilled pi ter pie per picked peck out	85.0	4.0	4.0	4.5
-11	simple	ter ter ter ter ter ter ter ter ter	94.0	4.0	4.0	4.5
-12	random	pi pie if thrilled throne peck out thir picked a ti thought per thieves chuck ter three the would how much	103.0	4.0	4.0	4.5
-13	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	112.0	4.0	4.0	4.5
-14	word	less ser leh ther neh ver day how much would a chuck if thrilled pi ter pie per picked peck out	121.0	4.0	4.0	4.5
-15	random	less neh three ser pi throne ver ti picked per ther out pie the leh thieves thir thought day peck ter	130.0	4.0	4.0	4.5
-16	word	pi ter pie per picked peck out how much would a chuck if thrilled the thir ti three thieves thought throne	139.0	4.0	4.0	4.5
-17	random	thought throne three neh thrilled a how ther chuck much ser thieves the if ti day leh would less ver thir	148.0	4.0	4.0	4.5
-18	random	picked out if ver per ter neh peck day would thrilled chuck pi less leh a ther pie how much ser	157.0	4.0	4.0	4.5
-19	word	less ser leh ther neh ver day pi ter pie per picked peck out how much would a chuck if thrilled	166.0	4.0	4.0	4.5
-20	word	the thir ti three thieves thought throne less ser leh ther neh ver day pi ter pie per picked peck out	175.0	4.0	4.0	4.5
-21	word	how much would a chuck if thrilled the thir ti three thieves thought throne pi ter pie per picked peck out	184.0	4.0	4.0	4.5
-22	simple	much much much much much much much much much	193.0	4.0	4.0	4.5
-23	simple	thought thought thought thought thought thought thought thought thought	202.0	4.0	4.0	4.5
-24	simple	ti ti ti ti ti ti ti ti ti	211.0	4.0	4.0	4.5
-25	simple	ther ther ther ther ther ther ther ther ther	220.0	4.0	4.0	4.5
-26	random	ther peck ter ser chuck leh day ver pie per out how a neh much less thrilled pi if would picked	229.0	4.0	4.0	4.5
-27	random	leh thir how ver ti three throne a day if ser thought much less neh ther thieves chuck the would thrilled	238.0	4.0	4.0	4.5
-28	simple	thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled	247.0	4.0	4.0	4.5
-29	word	how much would a chuck if thrilled less ser leh ther neh ver day pi ter pie per picked peck out	256.0	4.0	4.0	4.5
-30	random	if a ti peck would three pi out ter much thought the pie chuck per throne thrilled thieves picked thir how	265.0	4.0	4.0	4.5
-31	simple	how how how how how how how how how	274.0	4.0	4.0	4.5
-32	simple	ver ver ver ver ver ver ver ver ver	283.0	4.0	4.0	4.5
-33	word	less ser leh ther neh ver day the thir ti three thieves thought throne pi ter pie per picked peck out	292.0	4.0	4.0	4.5
-34	word	less ser leh ther neh ver day the thir ti three thieves thought throne how much would a chuck if thrilled	301.0	4.0	4.0	4.5
-35	random	pie ti pi thieves thir neh less day per ver leh ter ser ther throne thought out picked the three peck	310.0	4.0	4.0	4.5
-36	simple	less less less less less less less less less	319.0	4.0	4.0	4.5
-37	random	three thir the would day less ti thieves if thought a thrilled throne ther ser leh much ver neh how chuck	328.0	4.0	4.0	4.5
+1	simple	day day day day day day day day day	4.0	4.0	4.0	4.5
+2	simple	how how how how how how how how how	13.0	4.0	4.0	4.5
+3	simple	ti ti ti ti ti ti ti ti ti	22.0	4.0	4.0	4.5
+4	simple	ter ter ter ter ter ter ter ter ter	31.0	4.0	4.0	4.5
+5	simple	thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled	40.0	4.0	4.0	4.5
+6	simple	the the the the the the the the the	49.0	4.0	4.0	4.5
+7	simple	thurs thurs thurs thurs thurs thurs thurs thurs thurs	58.0	4.0	4.0	4.5
+8	simple	if if if if if if if if if	67.0	4.0	4.0	4.5
+9	simple	thir thir thir thir thir thir thir thir thir	76.0	4.0	4.0	4.5
+10	simple	less less less less less less less less less	85.0	4.0	4.0	4.5
+11	simple	thurs thurs thurs thurs thurs thurs thurs thurs thurs	94.0	4.0	4.0	4.5
+12	simple	jur jur jur jur jur jur jur jur jur	103.0	4.0	4.0	4.5
+13	simple	per per per per per per per per per	112.0	4.0	4.0	4.5
+14	simple	throne throne throne throne throne throne throne throne throne	121.0	4.0	4.0	4.5
+15	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	130.0	4.0	4.0	4.5
+16	simple	juh juh juh juh juh juh juh juh juh	139.0	4.0	4.0	4.5
+17	simple	ti ti ti ti ti ti ti ti ti	148.0	4.0	4.0	4.5
+18	simple	pi pi pi pi pi pi pi pi pi	157.0	4.0	4.0	4.5
+19	simple	out out out out out out out out out	166.0	4.0	4.0	4.5
+20	simple	how how how how how how how how how	175.0	4.0	4.0	4.5
+21	simple	caw caw caw caw caw caw caw caw caw	184.0	4.0	4.0	4.5
+22	simple	less less less less less less less less less	193.0	4.0	4.0	4.5
+23	simple	pro pro pro pro pro pro pro pro pro	202.0	4.0	4.0	4.5
+24	simple	ser ser ser ser ser ser ser ser ser	211.0	4.0	4.0	4.5
+25	simple	thir thir thir thir thir thir thir thir thir	220.0	4.0	4.0	4.5
+26	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	229.0	4.0	4.0	4.5
+27	simple	peck peck peck peck peck peck peck peck peck	238.0	4.0	4.0	4.5
+28	simple	ver ver ver ver ver ver ver ver ver	247.0	4.0	4.0	4.5
+29	simple	throne throne throne throne throne throne throne throne throne	256.0	4.0	4.0	4.5
+30	simple	airy airy airy airy airy airy airy airy airy	265.0	4.0	4.0	4.5
+31	simple	pot pot pot pot pot pot pot pot pot	274.0	4.0	4.0	4.5
+32	simple	three three three three three three three three three	283.0	4.0	4.0	4.5
+33	simple	jin jin jin jin jin jin jin jin jin	292.0	4.0	4.0	4.5
+34	simple	juh juh juh juh juh juh juh juh juh	301.0	4.0	4.0	4.5
+35	simple	three three three three three three three three three	310.0	4.0	4.0	4.5
+36	simple	jur jur jur jur jur jur jur jur jur	319.0	4.0	4.0	4.5
+37	simple	mih mih mih mih mih mih mih mih mih	328.0	4.0	4.0	4.5
+38	simple	fee fee fee fee fee fee fee fee fee	337.0	4.0	4.0	4.5
+39	simple	peck peck peck peck peck peck peck peck peck	346.0	4.0	4.0	4.5
+40	simple	ter ter ter ter ter ter ter ter ter	355.0	4.0	4.0	4.5

@@ -1,38 +1,41 @@
 trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
-1	word	how much would a chuck if thrilled imah jin airy mih naw juh jur the thir ti three thieves thought throne	4.0	4.0	4.0	4.5
-2	random	how fee pot mih imah thrilled pro through chuck jin airy if juh naw much a per thurs would caw jur	13.0	4.0	4.0	4.5
-3	simple	pro pro pro pro pro pro pro pro pro	22.0	4.0	4.0	4.5
-4	random	imah mih jur how three thir thieves ti if jin airy much thrilled a naw juh would chuck throne thought the	31.0	4.0	4.0	4.5
-5	word	how much would a chuck if thrilled the thir ti three thieves thought throne pro per caw fee pot through thurs	40.0	4.0	4.0	4.5
-6	word	how much would a chuck if thrilled pro per caw fee pot through thurs imah jin airy mih naw juh jur	49.0	4.0	4.0	4.5
-7	simple	imah imah imah imah imah imah imah imah imah	58.0	4.0	4.0	4.5
-8	random	per caw through thurs pot jur if juh thrilled imah naw would chuck pro fee how mih airy much a jin	67.0	4.0	4.0	4.5
-9	word	pro per caw fee pot through thurs how much would a chuck if thrilled the thir ti three thieves thought throne	76.0	4.0	4.0	4.5
-10	simple	pot pot pot pot pot pot pot pot pot	85.0	4.0	4.0	4.5
-11	random	pot fee how chuck thieves much caw pro thought the through would ti thir throne thurs a per if three thrilled	94.0	4.0	4.0	4.5
-12	simple	chuck chuck chuck chuck chuck chuck chuck chuck chuck	103.0	4.0	4.0	4.5
-13	word	pro per caw fee pot through thurs the thir ti three thieves thought throne imah jin airy mih naw juh jur	112.0	4.0	4.0	4.5
-14	word	how much would a chuck if thrilled the thir ti three thieves thought throne imah jin airy mih naw juh jur	121.0	4.0	4.0	4.5
-15	random	thought would per through chuck much caw thieves three if thurs ti thir thrilled fee the pro how throne a pot	130.0	4.0	4.0	4.5
-16	random	imah thurs mih juh fee airy naw the thir pro per three thieves jin ti caw through thought pot jur throne	139.0	4.0	4.0	4.5
-17	random	per through thought naw pro thieves jin juh three throne caw thir ti jur mih thurs imah pot airy fee the	148.0	4.0	4.0	4.5
-18	word	imah jin airy mih naw juh jur the thir ti three thieves thought throne pro per caw fee pot through thurs	157.0	4.0	4.0	4.5
-19	simple	thurs thurs thurs thurs thurs thurs thurs thurs thurs	166.0	4.0	4.0	4.5
-20	word	imah jin airy mih naw juh jur the thir ti three thieves thought throne how much would a chuck if thrilled	175.0	4.0	4.0	4.5
-21	random	per pot throne if much a how thieves ti would chuck thrilled pro through the fee three thought caw thurs thir	184.0	4.0	4.0	4.5
-22	word	imah jin airy mih naw juh jur how much would a chuck if thrilled the thir ti three thieves thought throne	193.0	4.0	4.0	4.5
-23	random	through mih jin pro juh a would if thrilled thurs caw imah much fee jur how chuck naw per pot airy	202.0	4.0	4.0	4.5
-24	simple	three three three three three three three three three	211.0	4.0	4.0	4.5
-25	simple	through through through through through through through through through	220.0	4.0	4.0	4.5
-26	simple	naw naw naw naw naw naw naw naw naw	229.0	4.0	4.0	4.5
-27	word	the thir ti three thieves thought throne imah jin airy mih naw juh jur how much would a chuck if thrilled	238.0	4.0	4.0	4.5
-28	simple	airy airy airy airy airy airy airy airy airy	247.0	4.0	4.0	4.5
-29	random	imah jur pro mih ti three thurs the thir jin thought through airy pot fee thieves throne per caw naw juh	256.0	4.0	4.0	4.5
-30	word	imah jin airy mih naw juh jur how much would a chuck if thrilled pro per caw fee pot through thurs	265.0	4.0	4.0	4.5
-31	random	would per a caw chuck through throne pot how much three thieves thir fee ti pro thurs thought the if thrilled	274.0	4.0	4.0	4.5
-32	simple	jin jin jin jin jin jin jin jin jin	283.0	4.0	4.0	4.5
-33	simple	thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled	292.0	4.0	4.0	4.5
-34	random	the juh airy three how chuck throne if ti a imah jin thir thrilled much naw thought mih would jur thieves	301.0	4.0	4.0	4.5
-35	random	mih jin chuck naw would imah through pro fee thrilled thurs airy juh how a jur if per much caw pot	310.0	4.0	4.0	4.5
-36	word	pro per caw fee pot through thurs imah jin airy mih naw juh jur how much would a chuck if thrilled	319.0	4.0	4.0	4.5
-37	random	three airy jur ti how jin a much would chuck thir imah naw thieves thought the juh thrilled throne if mih	328.0	4.0	4.0	4.5
+1	simple	pro pro pro pro pro pro pro pro pro	4.0	4.0	4.0	4.5
+2	simple	out out out out out out out out out	13.0	4.0	4.0	4.5
+3	simple	pie pie pie pie pie pie pie pie pie	22.0	4.0	4.0	4.5
+4	simple	thir thir thir thir thir thir thir thir thir	31.0	4.0	4.0	4.5
+5	simple	would would would would would would would would would	40.0	4.0	4.0	4.5
+6	simple	mih mih mih mih mih mih mih mih mih	49.0	4.0	4.0	4.5
+7	simple	mih mih mih mih mih mih mih mih mih	58.0	4.0	4.0	4.5
+8	simple	out out out out out out out out out	67.0	4.0	4.0	4.5
+9	simple	airy airy airy airy airy airy airy airy airy	76.0	4.0	4.0	4.5
+10	simple	juh juh juh juh juh juh juh juh juh	85.0	4.0	4.0	4.5
+11	simple	imah imah imah imah imah imah imah imah imah	94.0	4.0	4.0	4.5
+12	simple	ter ter ter ter ter ter ter ter ter	103.0	4.0	4.0	4.5
+13	simple	throne throne throne throne throne throne throne throne throne	112.0	4.0	4.0	4.5
+14	simple	thought thought thought thought thought thought thought thought thought	121.0	4.0	4.0	4.5
+15	simple	the the the the the the the the the	130.0	4.0	4.0	4.5
+16	simple	thurs thurs thurs thurs thurs thurs thurs thurs thurs	139.0	4.0	4.0	4.5
+17	simple	if if if if if if if if if	148.0	4.0	4.0	4.5
+18	simple	a a a a a a a a a	157.0	4.0	4.0	4.5
+19	simple	ther ther ther ther ther ther ther ther ther	166.0	4.0	4.0	4.5
+20	simple	caw caw caw caw caw caw caw caw caw	175.0	4.0	4.0	4.5
+21	simple	pro pro pro pro pro pro pro pro pro	184.0	4.0	4.0	4.5
+22	simple	through through through through through through through through through	193.0	4.0	4.0	4.5
+23	simple	chuck chuck chuck chuck chuck chuck chuck chuck chuck	202.0	4.0	4.0	4.5
+24	simple	ti ti ti ti ti ti ti ti ti	211.0	4.0	4.0	4.5
+25	simple	leh leh leh leh leh leh leh leh leh	220.0	4.0	4.0	4.5
+26	simple	airy airy airy airy airy airy airy airy airy	229.0	4.0	4.0	4.5
+27	simple	thurs thurs thurs thurs thurs thurs thurs thurs thurs	238.0	4.0	4.0	4.5
+28	simple	pi pi pi pi pi pi pi pi pi	247.0	4.0	4.0	4.5
+29	simple	caw caw caw caw caw caw caw caw caw	256.0	4.0	4.0	4.5
+30	simple	per per per per per per per per per	265.0	4.0	4.0	4.5
+31	simple	jin jin jin jin jin jin jin jin jin	274.0	4.0	4.0	4.5
+32	simple	pie pie pie pie pie pie pie pie pie	283.0	4.0	4.0	4.5
+33	simple	throne throne throne throne throne throne throne throne throne	292.0	4.0	4.0	4.5
+34	simple	ti ti ti ti ti ti ti ti ti	301.0	4.0	4.0	4.5
+35	simple	ver ver ver ver ver ver ver ver ver	310.0	4.0	4.0	4.5
+36	simple	neh neh neh neh neh neh neh neh neh	319.0	4.0	4.0	4.5
+37	simple	pi pi pi pi pi pi pi pi pi	328.0	4.0	4.0	4.5
+38	simple	per per per per per per per per per	337.0	4.0	4.0	4.5
+39	simple	jur jur jur jur jur jur jur jur jur	346.0	4.0	4.0	4.5
+40	simple	three three three three three three three three three	355.0	4.0	4.0	4.5

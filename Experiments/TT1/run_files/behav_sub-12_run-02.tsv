@@ -1,38 +1,41 @@
 trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
-1	random	ter three much if throne peck thrilled chuck picked thieves thir per how pi thought would a the pie out ti	4.0	4.0	4.0	4.5
-2	simple	ter ter ter ter ter ter ter ter ter	13.0	4.0	4.0	4.5
-3	simple	pie pie pie pie pie pie pie pie pie	22.0	4.0	4.0	4.5
-4	simple	the the the the the the the the the	31.0	4.0	4.0	4.5
-5	simple	throne throne throne throne throne throne throne throne throne	40.0	4.0	4.0	4.5
-6	word	the thir ti three thieves thought throne pi ter pie per picked peck out pro per caw fee pot through thurs	49.0	4.0	4.0	4.5
-7	simple	pot pot pot pot pot pot pot pot pot	58.0	4.0	4.0	4.5
-8	word	pro per caw fee pot through thurs pi ter pie per picked peck out how much would a chuck if thrilled	67.0	4.0	4.0	4.5
-9	random	pro per thrilled much three thought a caw pot thurs the thir if thieves would chuck throne fee ti how through	76.0	4.0	4.0	4.5
-10	random	a ti pi if thought per chuck three thieves picked would out much thrilled the throne peck pie thir how ter	85.0	4.0	4.0	4.5
-11	simple	three three three three three three three three three	94.0	4.0	4.0	4.5
-12	simple	how how how how how how how how how	103.0	4.0	4.0	4.5
-13	simple	per per per per per per per per per	112.0	4.0	4.0	4.5
-14	random	if the thir chuck throne would out thought much how ter a per thrilled picked three pi ti peck thieves pie	121.0	4.0	4.0	4.5
-15	word	pro per caw fee pot through thurs how much would a chuck if thrilled the thir ti three thieves thought throne	130.0	4.0	4.0	4.5
-16	random	fee thrilled pro pot thieves how three throne ti the a would chuck if thurs caw thir through per much thought	139.0	4.0	4.0	4.5
-17	simple	ti ti ti ti ti ti ti ti ti	148.0	4.0	4.0	4.5
-18	random	fee pot thrilled would thieves ti much if a per thir chuck the through thought pro caw throne how three thurs	157.0	4.0	4.0	4.5
-19	random	much ti three thurs throne per would how chuck thir thieves pot fee thrilled a thought if through the pro caw	166.0	4.0	4.0	4.5
-20	simple	would would would would would would would would would	175.0	4.0	4.0	4.5
-21	word	how much would a chuck if thrilled the thir ti three thieves thought throne pi ter pie per picked peck out	184.0	4.0	4.0	4.5
-22	simple	through through through through through through through through through	193.0	4.0	4.0	4.5
-23	simple	out out out out out out out out out	202.0	4.0	4.0	4.5
-24	word	pi ter pie per picked peck out how much would a chuck if thrilled the thir ti three thieves thought throne	211.0	4.0	4.0	4.5
-25	random	pi thought the three thrilled thir thieves per picked how would a much out ti if peck pie chuck throne ter	220.0	4.0	4.0	4.5
-26	random	fee thurs much pot per pie through peck would thrilled pro how a per out caw picked if chuck pi ter	229.0	4.0	4.0	4.5
-27	word	the thir ti three thieves thought throne how much would a chuck if thrilled pro per caw fee pot through thurs	238.0	4.0	4.0	4.5
-28	word	how much would a chuck if thrilled pi ter pie per picked peck out the thir ti three thieves thought throne	247.0	4.0	4.0	4.5
-29	random	peck thir out thought picked three ti ter caw through per pi thieves per pro the pie fee thurs throne pot	256.0	4.0	4.0	4.5
-30	simple	pi pi pi pi pi pi pi pi pi	265.0	4.0	4.0	4.5
-31	word	the thir ti three thieves thought throne pro per caw fee pot through thurs how much would a chuck if thrilled	274.0	4.0	4.0	4.5
-32	random	per pie chuck fee pro if thrilled would much pot how picked caw a out thurs per through peck ter pi	283.0	4.0	4.0	4.5
-33	simple	fee fee fee fee fee fee fee fee fee	292.0	4.0	4.0	4.5
-34	word	how much would a chuck if thrilled pi ter pie per picked peck out pro per caw fee pot through thurs	301.0	4.0	4.0	4.5
-35	random	ti pie thieves peck thir the pot thurs ter throne through caw per fee per pro three thought pi picked out	310.0	4.0	4.0	4.5
-36	random	how much ter if the pi thir three chuck thrilled per throne would pie ti thought peck thieves picked a out	319.0	4.0	4.0	4.5
-37	random	pot throne chuck fee pro thurs a per thir the if how through thought much thieves thrilled caw would ti three	328.0	4.0	4.0	4.5
+1	simple	how how how how how how how how how	4.0	4.0	4.0	4.5
+2	simple	jur jur jur jur jur jur jur jur jur	13.0	4.0	4.0	4.5
+3	simple	neh neh neh neh neh neh neh neh neh	22.0	4.0	4.0	4.5
+4	simple	juh juh juh juh juh juh juh juh juh	31.0	4.0	4.0	4.5
+5	simple	mih mih mih mih mih mih mih mih mih	40.0	4.0	4.0	4.5
+6	simple	picked picked picked picked picked picked picked picked picked	49.0	4.0	4.0	4.5
+7	simple	the the the the the the the the the	58.0	4.0	4.0	4.5
+8	simple	pot pot pot pot pot pot pot pot pot	67.0	4.0	4.0	4.5
+9	simple	a a a a a a a a a	76.0	4.0	4.0	4.5
+10	simple	through through through through through through through through through	85.0	4.0	4.0	4.5
+11	simple	ser ser ser ser ser ser ser ser ser	94.0	4.0	4.0	4.5
+12	simple	ter ter ter ter ter ter ter ter ter	103.0	4.0	4.0	4.5
+13	simple	naw naw naw naw naw naw naw naw naw	112.0	4.0	4.0	4.5
+14	simple	per per per per per per per per per	121.0	4.0	4.0	4.5
+15	simple	jin jin jin jin jin jin jin jin jin	130.0	4.0	4.0	4.5
+16	simple	out out out out out out out out out	139.0	4.0	4.0	4.5
+17	simple	ter ter ter ter ter ter ter ter ter	148.0	4.0	4.0	4.5
+18	simple	chuck chuck chuck chuck chuck chuck chuck chuck chuck	157.0	4.0	4.0	4.5
+19	simple	mih mih mih mih mih mih mih mih mih	166.0	4.0	4.0	4.5
+20	simple	ti ti ti ti ti ti ti ti ti	175.0	4.0	4.0	4.5
+21	simple	through through through through through through through through through	184.0	4.0	4.0	4.5
+22	simple	imah imah imah imah imah imah imah imah imah	193.0	4.0	4.0	4.5
+23	simple	how how how how how how how how how	202.0	4.0	4.0	4.5
+24	simple	ther ther ther ther ther ther ther ther ther	211.0	4.0	4.0	4.5
+25	simple	if if if if if if if if if	220.0	4.0	4.0	4.5
+26	simple	peck peck peck peck peck peck peck peck peck	229.0	4.0	4.0	4.5
+27	simple	would would would would would would would would would	238.0	4.0	4.0	4.5
+28	simple	fee fee fee fee fee fee fee fee fee	247.0	4.0	4.0	4.5
+29	simple	thought thought thought thought thought thought thought thought thought	256.0	4.0	4.0	4.5
+30	simple	out out out out out out out out out	265.0	4.0	4.0	4.5
+31	simple	pro pro pro pro pro pro pro pro pro	274.0	4.0	4.0	4.5
+32	simple	picked picked picked picked picked picked picked picked picked	283.0	4.0	4.0	4.5
+33	simple	ver ver ver ver ver ver ver ver ver	292.0	4.0	4.0	4.5
+34	simple	caw caw caw caw caw caw caw caw caw	301.0	4.0	4.0	4.5
+35	simple	thir thir thir thir thir thir thir thir thir	310.0	4.0	4.0	4.5
+36	simple	throne throne throne throne throne throne throne throne throne	319.0	4.0	4.0	4.5
+37	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	328.0	4.0	4.0	4.5
+38	simple	three three three three three three three three three	337.0	4.0	4.0	4.5
+39	simple	chuck chuck chuck chuck chuck chuck chuck chuck chuck	346.0	4.0	4.0	4.5
+40	simple	a a a a a a a a a	355.0	4.0	4.0	4.5

@@ -1,38 +1,41 @@
 trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
-1	simple	fee fee fee fee fee fee fee fee fee	4.0	4.0	4.0	4.5
-2	simple	out out out out out out out out out	13.0	4.0	4.0	4.5
-3	word	less ser leh ther neh ver day how much would a chuck if thrilled pro per caw fee pot through thurs	22.0	4.0	4.0	4.5
-4	word	pi ter pie per picked peck out pro per caw fee pot through thurs less ser leh ther neh ver day	31.0	4.0	4.0	4.5
-5	simple	thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled	40.0	4.0	4.0	4.5
-6	simple	leh leh leh leh leh leh leh leh leh	49.0	4.0	4.0	4.5
-7	random	ther pro would pot fee chuck day through if neh per leh ver caw much less how ser a thrilled thurs	58.0	4.0	4.0	4.5
-8	word	pro per caw fee pot through thurs less ser leh ther neh ver day pi ter pie per picked peck out	67.0	4.0	4.0	4.5
-9	word	less ser leh ther neh ver day pi ter pie per picked peck out how much would a chuck if thrilled	76.0	4.0	4.0	4.5
-10	word	less ser leh ther neh ver day pro per caw fee pot through thurs how much would a chuck if thrilled	85.0	4.0	4.0	4.5
-11	word	pro per caw fee pot through thurs how much would a chuck if thrilled less ser leh ther neh ver day	94.0	4.0	4.0	4.5
+1	simple	ther ther ther ther ther ther ther ther ther	4.0	4.0	4.0	4.5
+2	simple	thurs thurs thurs thurs thurs thurs thurs thurs thurs	13.0	4.0	4.0	4.5
+3	simple	thought thought thought thought thought thought thought thought thought	22.0	4.0	4.0	4.5
+4	simple	neh neh neh neh neh neh neh neh neh	31.0	4.0	4.0	4.5
+5	simple	fee fee fee fee fee fee fee fee fee	40.0	4.0	4.0	4.5
+6	simple	juh juh juh juh juh juh juh juh juh	49.0	4.0	4.0	4.5
+7	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	58.0	4.0	4.0	4.5
+8	simple	naw naw naw naw naw naw naw naw naw	67.0	4.0	4.0	4.5
+9	simple	the the the the the the the the the	76.0	4.0	4.0	4.5
+10	simple	ver ver ver ver ver ver ver ver ver	85.0	4.0	4.0	4.5
+11	simple	leh leh leh leh leh leh leh leh leh	94.0	4.0	4.0	4.5
 12	simple	chuck chuck chuck chuck chuck chuck chuck chuck chuck	103.0	4.0	4.0	4.5
-13	simple	if if if if if if if if if	112.0	4.0	4.0	4.5
-14	simple	per per per per per per per per per	121.0	4.0	4.0	4.5
-15	random	ter ther per how pie a much picked would thrilled pi out day neh chuck ver leh ser if less peck	130.0	4.0	4.0	4.5
-16	word	pi ter pie per picked peck out how much would a chuck if thrilled pro per caw fee pot through thurs	139.0	4.0	4.0	4.5
-17	word	how much would a chuck if thrilled less ser leh ther neh ver day pro per caw fee pot through thurs	148.0	4.0	4.0	4.5
-18	random	per day would fee thurs thrilled less much a neh how leh ther through chuck pro caw ver ser if pot	157.0	4.0	4.0	4.5
-19	random	ter day picked less chuck thrilled per a ver would peck neh ther much how pi ser out if leh pie	166.0	4.0	4.0	4.5
-20	simple	ter ter ter ter ter ter ter ter ter	175.0	4.0	4.0	4.5
-21	word	pi ter pie per picked peck out less ser leh ther neh ver day pro per caw fee pot through thurs	184.0	4.0	4.0	4.5
-22	word	how much would a chuck if thrilled less ser leh ther neh ver day pi ter pie per picked peck out	193.0	4.0	4.0	4.5
-23	simple	ser ser ser ser ser ser ser ser ser	202.0	4.0	4.0	4.5
-24	simple	neh neh neh neh neh neh neh neh neh	211.0	4.0	4.0	4.5
-25	random	leh ther pot ter ver per ser caw fee through less pro pi out neh peck day per thurs picked pie	220.0	4.0	4.0	4.5
-26	random	pot a chuck pie much through picked how if caw thurs pro thrilled out per pi fee per would peck ter	229.0	4.0	4.0	4.5
-27	random	caw how less through a thrilled per pot chuck ver neh if would thurs ther leh ser day pro much fee	238.0	4.0	4.0	4.5
-28	word	how much would a chuck if thrilled pi ter pie per picked peck out pro per caw fee pot through thurs	247.0	4.0	4.0	4.5
-29	simple	thurs thurs thurs thurs thurs thurs thurs thurs thurs	256.0	4.0	4.0	4.5
-30	simple	peck peck peck peck peck peck peck peck peck	265.0	4.0	4.0	4.5
-31	random	fee how chuck neh leh a much less pro day ser ver thrilled through if would ther per caw pot thurs	274.0	4.0	4.0	4.5
-32	word	how much would a chuck if thrilled pro per caw fee pot through thurs pi ter pie per picked peck out	283.0	4.0	4.0	4.5
-33	random	per pro out a per fee thurs thrilled pi caw chuck if pie picked how peck through would pot much ter	292.0	4.0	4.0	4.5
-34	simple	would would would would would would would would would	301.0	4.0	4.0	4.5
-35	random	pi caw neh peck less out per ser pie ter ver through pot pro fee picked day ther per leh thurs	310.0	4.0	4.0	4.5
-36	simple	a a a a a a a a a	319.0	4.0	4.0	4.5
-37	simple	pi pi pi pi pi pi pi pi pi	328.0	4.0	4.0	4.5
+13	simple	would would would would would would would would would	112.0	4.0	4.0	4.5
+14	simple	peck peck peck peck peck peck peck peck peck	121.0	4.0	4.0	4.5
+15	simple	jin jin jin jin jin jin jin jin jin	130.0	4.0	4.0	4.5
+16	simple	the the the the the the the the the	139.0	4.0	4.0	4.5
+17	simple	through through through through through through through through through	148.0	4.0	4.0	4.5
+18	simple	fee fee fee fee fee fee fee fee fee	157.0	4.0	4.0	4.5
+19	simple	throne throne throne throne throne throne throne throne throne	166.0	4.0	4.0	4.5
+20	simple	per per per per per per per per per	175.0	4.0	4.0	4.5
+21	simple	would would would would would would would would would	184.0	4.0	4.0	4.5
+22	simple	ver ver ver ver ver ver ver ver ver	193.0	4.0	4.0	4.5
+23	simple	how how how how how how how how how	202.0	4.0	4.0	4.5
+24	simple	per per per per per per per per per	211.0	4.0	4.0	4.5
+25	simple	juh juh juh juh juh juh juh juh juh	220.0	4.0	4.0	4.5
+26	simple	ti ti ti ti ti ti ti ti ti	229.0	4.0	4.0	4.5
+27	simple	thir thir thir thir thir thir thir thir thir	238.0	4.0	4.0	4.5
+28	simple	peck peck peck peck peck peck peck peck peck	247.0	4.0	4.0	4.5
+29	simple	pot pot pot pot pot pot pot pot pot	256.0	4.0	4.0	4.5
+30	simple	out out out out out out out out out	265.0	4.0	4.0	4.5
+31	simple	much much much much much much much much much	274.0	4.0	4.0	4.5
+32	simple	picked picked picked picked picked picked picked picked picked	283.0	4.0	4.0	4.5
+33	simple	ser ser ser ser ser ser ser ser ser	292.0	4.0	4.0	4.5
+34	simple	day day day day day day day day day	301.0	4.0	4.0	4.5
+35	simple	neh neh neh neh neh neh neh neh neh	310.0	4.0	4.0	4.5
+36	simple	thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled	319.0	4.0	4.0	4.5
+37	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	328.0	4.0	4.0	4.5
+38	simple	caw caw caw caw caw caw caw caw caw	337.0	4.0	4.0	4.5
+39	simple	pro pro pro pro pro pro pro pro pro	346.0	4.0	4.0	4.5
+40	simple	pot pot pot pot pot pot pot pot pot	355.0	4.0	4.0	4.5

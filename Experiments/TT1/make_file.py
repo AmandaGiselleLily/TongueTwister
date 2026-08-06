@@ -42,9 +42,9 @@ exp_info = {
         'Enter iti duration (sec):': 9,
         'Enter time initiate first trial (sec):': 4,
         'Enter the number of subjects:': 30,
-        'Enter the number of runs for each subject:': 12,
-        'Enter the number of blocks within a run:': 4,
-        'Enter the number of words in the bag:': 4,
+        'Enter the number of runs for each subject:': 8,
+        'Enter the number of blocks within a run:': 0,
+        'Enter the number of words in the bag:': 6,
         'Enter the number of words in the sentence:': 3
         }
     
@@ -93,15 +93,21 @@ for sub_id in range(1,sub_n+1):
     
     # Build stimuli for each subject based on its unique bag of words
     words = get_bag_of_words(all_words, num_words)  # pick a random list of words for each subject
-    word_list = generate_sentence(words,sentence_len,'word')
-    rand_list = generate_sentence(words,sentence_len,'random')
+    #word_list = generate_sentence(words,sentence_len,'word')
+    #rand_list = generate_sentence(words,sentence_len,'random')
     smpl_list = generate_sentence(words,sentence_len,'simple')
-    stimuli = word_list + rand_list + smpl_list
-    conditions = ['word']*len(word_list) + ['random']*len(rand_list) + ['simple']*len(smpl_list)
+    #stimuli = word_list + rand_list + smpl_list
+    #conditions = ['word']*len(word_list) + ['random']*len(rand_list) + ['simple']*len(smpl_list)
+
+    
+    conditions = ['simple']*len(smpl_list) * 2
+    stimuli = smpl_list * 2
+
     con_stim_list = list(zip(conditions,stimuli))
+
     random.shuffle(con_stim_list)
 
-    for run_id in  range(1,run_n+1):
+    for run_id in range(1,run_n+1):
 
         # Name the run_file
         sub_id_name = f"{sub_id:02}"
@@ -112,13 +118,18 @@ for sub_id in range(1,sub_n+1):
         trial_num = 0       # initiate trial number  
         output = []         # initiate output_file
 
-        # create the current run list
+        stim_list = con_stim_list[0]
+        cond_list = con_stim_list[1]
+
+        #create the current run list
         if run_id % 2 == 0:
             cur_con_stim_list = con_stim_list[::2]
         else: 
             cur_con_stim_list = con_stim_list[1::2]
+
         cond_list,stim_list = zip(*cur_con_stim_list)
 
+        print(len(stim_list))
 
         for trial in range(1,len(stim_list)):
             trial_num += 1
@@ -142,7 +153,3 @@ for sub_id in range(1,sub_n+1):
         output_file= pd.DataFrame(output)
         output_fullfile = os.path.join(output_dir, output_file_name)
         output_file.to_csv(output_fullfile, sep='\t', index=False)
-
-
-
-
