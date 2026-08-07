@@ -44,7 +44,7 @@ exp_info = {
         'Enter the number of subjects:': 30,
         'Enter the number of runs for each subject:': 8,
         'Enter the number of blocks within a run:': 0,
-        'Enter the number of words in the bag:': 6,
+        'Enter the number of words in the bag:': 4,
         'Enter the number of words in the sentence:': 3
         }
     
