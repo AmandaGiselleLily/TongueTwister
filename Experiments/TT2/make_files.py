@@ -26,16 +26,16 @@ blocks = [
         'task':             'speech_sequence_whole',
         'condition' :       'simple',
         'sequence_len' :    7,
-        'task_dur':         205,
-        'trial_dur':        4,
-        'iti_dur':          1,
+        'task_dur':         230.5,
+        'trial_dur':        5,
+        'iti_dur':          0.5,
         'stim_file':        'TTsyll.csv'
         
     },
 
 ]
 num_runs = 8
-subj_list = ['subject-00']
+subj_list = ['train']
 
 
 def main(blocks, num_runs, subj_id):
@@ -56,7 +56,7 @@ def main(blocks, num_runs, subj_id):
             f"{subj_id}_{block['task']}_{r:02d}.tsv"
             for block in blocks
             ]
-        T = tf.make_run_file(tasks, tfiles, offset=5, task_dur=task_dur, run_time=215, exp_dir=const.exp_dir)
+        T = tf.make_run_file(tasks, tfiles, offset=5, task_dur=task_dur, run_time=240, exp_dir=const.exp_dir)
         T.to_csv(const.run_dir / f'{subj_id}_run_{r:02d}.tsv', sep='\t', index=False)
 
         # Generate a task_file for each task in each run that specifies the trial information

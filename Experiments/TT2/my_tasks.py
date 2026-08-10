@@ -72,21 +72,27 @@ class SpeechSequenceWhole(Task):
         #clear buffer
         event.clearEvents()
 
-        # display stimulus
+        # create stimulus
         sequence = trial['stim']
         stim = visual.TextStim(self.window, text=sequence, pos=(0, 0),  alignHoriz='center',
                                 color=(-1, -1, -1), units='deg', wrapWidth=25, height=1.25)
-        stim.draw()
-        
+
         trial_start = self.ttl_clock.get_time()
-        self.flip()
         
         # Start recording
         if trial['record_trial'] == 1:
             self.start_trial_recording()
             
-        # show sequence
-        self.ttl_clock.wait_until(trial_start + trial['trial_dur'])
+        # preperation
+        stim.draw()
+        self.flip()
+        self.ttl_clock.wait_until(trial_start+trial['go_time'])
+        
+        # execution
+        stim.color = 'green'
+        stim.draw()
+        self.flip()
+        self.ttl_clock.wait_until(trial_start+trial['trial_dur'])
         
         # ISI
         self.flip()
@@ -143,6 +149,7 @@ class SpeechSequenceWholeFile(TaskFile):
                         sequence_len = 6,
                         task_dur=30,
                         trial_dur=3.25,
+                        go_time = 1,
                         iti_dur=0.5,
                         file_name=None,
                         stim_file = None
@@ -187,6 +194,7 @@ class SpeechSequenceWholeFile(TaskFile):
             trial['condition'] = condition
             trial['sequence_len'] = sequence_len
             trial['trial_dur'] = trial_dur
+            trial['go_time'] = go_time
             trial['iti_dur'] = iti_dur
             trial['record_dur'] = record_duration
             trial['record_trial'] = True
