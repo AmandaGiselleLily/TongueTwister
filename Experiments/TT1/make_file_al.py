@@ -90,7 +90,7 @@ for sub_id in range(1,sub_n+1):
         # Name the run_file
         sub_id_name = f"{sub_id:02}"
         run_id_name = f"{run_id:02}"
-        output_file_name = f'{file_type}_sub-{sub_id_name}_run-{run_id_name}.tsv'
+        output_file_name = f'sub-{sub_id_name}_run-{run_id_name}.tsv'
  
         
         for block_id in range(1, block_n + 1):

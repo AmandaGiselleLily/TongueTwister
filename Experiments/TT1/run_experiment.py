@@ -7,7 +7,7 @@ import my_experiment as exp
 
 def main(subj_id):
     """_summary_
-    make sure you to adjust constanst.py file before running the experiment
+    make sure to adjust constanst.py file before running the experiment
     (e.g., experiment_name, eye_tracker, screen, etc.)
 
     Args:

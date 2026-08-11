@@ -29,7 +29,7 @@ stim_dir   = package_dir / "stimuli"
 # task_modules = [my_tasks]
 
 # Use {} so the GUI auto-fills the run number (e.g. run_01.tsv, run_02.tsv, ...)
-default_run_filename = 'behav_sub-{}_run-{}.tsv'
+default_run_filename = 'sub-{}_run-{}.tsv'
 
 # Is the Eye tracker being used?
 eye_tracker = False

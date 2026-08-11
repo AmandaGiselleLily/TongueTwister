@@ -1,5 +1,6 @@
 import numpy as np
 import sounddevice as sd
+from scipy.io.wavfile import write as scipy_write
 
 class Audio:
     """
@@ -78,3 +79,6 @@ class Audio:
         audio = np.concatenate(self.audio_buffer, axis=0)
         # return only the desired samples
         return audio[self.recording_start:end_sample]
+    
+    def save_wav(self, file_name, audio_data):
+        scipy_write(file_name, self.sample_rate, audio_data)

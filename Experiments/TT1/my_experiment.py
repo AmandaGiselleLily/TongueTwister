@@ -85,13 +85,13 @@ class Experiment:
         self.run_info = pd.read_csv(self.const.run_dir / self.run_filename, sep='\t')
      
         # 2. make subject folder in data/<subj_id>
-        self.subj_dir = self.const.data_dir / f"{int(self.subj_id):02d}"
+        self.subj_dir = self.const.data_dir / f"sub-{int(self.subj_id):02d}"
         ut.dircheck(self.subj_dir) # making sure the directory is created!
 
         # 3. make subject data file with the name <data_type>_sub<subj_id>
-        self.run_data_file = self.subj_dir / (f"{self.exp_type}_sub-{int(self.subj_id):02d}.tsv")
+        self.run_data_file = self.subj_dir / (f"sub-{int(self.subj_id):02d}.tsv")
         
-        # 4. mic configurations
+        # 4. define microphone configurations
         self.audio = Audio(sample_rate=44100)
 
     def run(self):
@@ -134,15 +134,12 @@ class Experiment:
         run a trial of the experiment
         """
         # get trial information 
-        trial_num   = row['trial_num']
+        trial       = row['trial_num']    
         stimulus    = row['stimulus']
-        start_time  = row['start_time'] 
         resp_time   = row['resp_time'] 
-        record_time = row['record_time']
         iti_dur     = row['iti_dur']
 
         # Wait until start time
-        
         start_time_real = self.ttl_clock.get_time() # real time of stim onset
 
         # Show stimulus on screen
@@ -159,9 +156,6 @@ class Experiment:
 
         # Start recording
         if self.record_data:
-            # audio_file = self.subj_dir / f"{self.exp_type}_sub-{int(self.subj_id):02d}_run-{int(self.run_number):02d}_stim-{trial_num:02d}_{stimulus}.wav"
-            # record_thread = threading.Thread(target=ut.record_audio, args=(record_time, audio_file))
-            # record_thread.start()
             self.audio.start_trial_recording()
 
         self.ttl_clock.wait_until(start_time_real + go_time + resp_time)
@@ -174,8 +168,12 @@ class Experiment:
 
         # End recording
         if self.record_data:
-           #record_thread.join()
-           self.audio.stop_trial_recording()
+           trial_audio = self.audio.stop_trial_recording()
+           run = self.run_number
+           subj_name = f"sub-{int(self.subj_id):02d}"
+           file_name = (f"{subj_name}_run-{run:02d}_trial-{trial:02d}.wav")
+           audio_file = self.const.data_dir / subj_name / file_name
+           self.audio.save_wav(file_name=audio_file, audio_data=trial_audio)
 
         # Append trial data to the current trial row
         row['run']                       = self.run_number
