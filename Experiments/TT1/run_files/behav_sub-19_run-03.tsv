@@ -1,27 +1,34 @@
-trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
-1	simple	much much much much much much much much much	4.0	4.0	4.0	4.5
-2	simple	naw naw naw naw naw naw naw naw naw	13.0	4.0	4.0	4.5
-3	simple	jin jin jin jin jin jin jin jin jin	22.0	4.0	4.0	4.5
-4	simple	fee fee fee fee fee fee fee fee fee	31.0	4.0	4.0	4.5
-5	simple	jin jin jin jin jin jin jin jin jin	40.0	4.0	4.0	4.5
-6	simple	pie pie pie pie pie pie pie pie pie	49.0	4.0	4.0	4.5
-7	simple	pie pie pie pie pie pie pie pie pie	58.0	4.0	4.0	4.5
-8	simple	pi pi pi pi pi pi pi pi pi	67.0	4.0	4.0	4.5
-9	simple	caw caw caw caw caw caw caw caw caw	76.0	4.0	4.0	4.5
-10	simple	caw caw caw caw caw caw caw caw caw	85.0	4.0	4.0	4.5
-11	simple	per per per per per per per per per	94.0	4.0	4.0	4.5
-12	simple	imah imah imah imah imah imah imah imah imah	103.0	4.0	4.0	4.5
-13	simple	thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled	112.0	4.0	4.0	4.5
-14	simple	ter ter ter ter ter ter ter ter ter	121.0	4.0	4.0	4.5
-15	simple	juh juh juh juh juh juh juh juh juh	130.0	4.0	4.0	4.5
-16	simple	peck peck peck peck peck peck peck peck peck	139.0	4.0	4.0	4.5
-17	simple	out out out out out out out out out	148.0	4.0	4.0	4.5
-18	simple	airy airy airy airy airy airy airy airy airy	157.0	4.0	4.0	4.5
-19	simple	imah imah imah imah imah imah imah imah imah	166.0	4.0	4.0	4.5
-20	simple	a a a a a a a a a	175.0	4.0	4.0	4.5
-21	simple	a a a a a a a a a	184.0	4.0	4.0	4.5
-22	simple	jur jur jur jur jur jur jur jur jur	193.0	4.0	4.0	4.5
-23	simple	picked picked picked picked picked picked picked picked picked	202.0	4.0	4.0	4.5
-24	simple	juh juh juh juh juh juh juh juh juh	211.0	4.0	4.0	4.5
-25	simple	how how how how how how how how how	220.0	4.0	4.0	4.5
-26	simple	through through through through through through through through through	229.0	4.0	4.0	4.5
+trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time	iti_dur
+1	simple	thurs thurs thurs thurs thurs thurs thurs thurs thurs	5.0	1.0	4.0	5.0	1.0
+2	simple	naw naw naw naw naw naw naw naw naw	11.0	1.0	4.0	5.0	1.0
+3	simple	mih mih mih mih mih mih mih mih mih	17.0	1.0	4.0	5.0	1.0
+4	simple	peck peck peck peck peck peck peck peck peck	23.0	1.0	4.0	5.0	1.0
+5	simple	pie pie pie pie pie pie pie pie pie	29.0	1.0	4.0	5.0	1.0
+6	simple	fee fee fee fee fee fee fee fee fee	35.0	1.0	4.0	5.0	1.0
+7	simple	thir thir thir thir thir thir thir thir thir	41.0	1.0	4.0	5.0	1.0
+8	simple	leh leh leh leh leh leh leh leh leh	47.0	1.0	4.0	5.0	1.0
+9	simple	per per per per per per per per per	53.0	1.0	4.0	5.0	1.0
+10	simple	jin jin jin jin jin jin jin jin jin	59.0	1.0	4.0	5.0	1.0
+11	simple	pro pro pro pro pro pro pro pro pro	65.0	1.0	4.0	5.0	1.0
+12	simple	ter ter ter ter ter ter ter ter ter	71.0	1.0	4.0	5.0	1.0
+13	simple	pi pi pi pi pi pi pi pi pi	77.0	1.0	4.0	5.0	1.0
+14	simple	less less less less less less less less less	83.0	1.0	4.0	5.0	1.0
+15	simple	through through through through through through through through through	89.0	1.0	4.0	5.0	1.0
+16	simple	ver ver ver ver ver ver ver ver ver	95.0	1.0	4.0	5.0	1.0
+17	simple	the the the the the the the the the	101.0	1.0	4.0	5.0	1.0
+18	simple	out out out out out out out out out	107.0	1.0	4.0	5.0	1.0
+19	simple	neh neh neh neh neh neh neh neh neh	113.0	1.0	4.0	5.0	1.0
+20	simple	airy airy airy airy airy airy airy airy airy	119.0	1.0	4.0	5.0	1.0
+21	simple	imah imah imah imah imah imah imah imah imah	125.0	1.0	4.0	5.0	1.0
+22	simple	three three three three three three three three three	131.0	1.0	4.0	5.0	1.0
+23	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	137.0	1.0	4.0	5.0	1.0
+24	simple	throne throne throne throne throne throne throne throne throne	143.0	1.0	4.0	5.0	1.0
+25	simple	juh juh juh juh juh juh juh juh juh	149.0	1.0	4.0	5.0	1.0
+26	simple	day day day day day day day day day	155.0	1.0	4.0	5.0	1.0
+27	simple	picked picked picked picked picked picked picked picked picked	161.0	1.0	4.0	5.0	1.0
+28	simple	ser ser ser ser ser ser ser ser ser	167.0	1.0	4.0	5.0	1.0
+29	simple	pot pot pot pot pot pot pot pot pot	173.0	1.0	4.0	5.0	1.0
+30	simple	ti ti ti ti ti ti ti ti ti	179.0	1.0	4.0	5.0	1.0
+31	simple	ther ther ther ther ther ther ther ther ther	185.0	1.0	4.0	5.0	1.0
+32	simple	caw caw caw caw caw caw caw caw caw	191.0	1.0	4.0	5.0	1.0
+33	simple	jur jur jur jur jur jur jur jur jur	197.0	1.0	4.0	5.0	1.0

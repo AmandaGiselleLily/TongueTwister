@@ -1,28 +1,35 @@
-trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
-1	simple	pot pot pot pot pot pot pot pot pot	4.0	4.0	4.0	4.5
-2	simple	three three three three three three three three three	13.0	4.0	4.0	4.5
-3	simple	if if if if if if if if if	22.0	4.0	4.0	4.5
-4	simple	through through through through through through through through through	31.0	4.0	4.0	4.5
-5	simple	thurs thurs thurs thurs thurs thurs thurs thurs thurs	40.0	4.0	4.0	4.5
-6	simple	less less less less less less less less less	49.0	4.0	4.0	4.5
-7	simple	neh neh neh neh neh neh neh neh neh	58.0	4.0	4.0	4.5
-8	simple	pot pot pot pot pot pot pot pot pot	67.0	4.0	4.0	4.5
-9	simple	day day day day day day day day day	76.0	4.0	4.0	4.5
-10	simple	thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled	85.0	4.0	4.0	4.5
-11	simple	thurs thurs thurs thurs thurs thurs thurs thurs thurs	94.0	4.0	4.0	4.5
-12	simple	throne throne throne throne throne throne throne throne throne	103.0	4.0	4.0	4.5
-13	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	112.0	4.0	4.0	4.5
-14	simple	if if if if if if if if if	121.0	4.0	4.0	4.5
-15	simple	thought thought thought thought thought thought thought thought thought	130.0	4.0	4.0	4.5
-16	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	139.0	4.0	4.0	4.5
-17	simple	much much much much much much much much much	148.0	4.0	4.0	4.5
-18	simple	fee fee fee fee fee fee fee fee fee	157.0	4.0	4.0	4.5
-19	simple	caw caw caw caw caw caw caw caw caw	166.0	4.0	4.0	4.5
-20	simple	ver ver ver ver ver ver ver ver ver	175.0	4.0	4.0	4.5
-21	simple	ver ver ver ver ver ver ver ver ver	184.0	4.0	4.0	4.5
-22	simple	would would would would would would would would would	193.0	4.0	4.0	4.5
-23	simple	thir thir thir thir thir thir thir thir thir	202.0	4.0	4.0	4.5
-24	simple	leh leh leh leh leh leh leh leh leh	211.0	4.0	4.0	4.5
-25	simple	neh neh neh neh neh neh neh neh neh	220.0	4.0	4.0	4.5
-26	simple	ser ser ser ser ser ser ser ser ser	229.0	4.0	4.0	4.5
-27	simple	ther ther ther ther ther ther ther ther ther	238.0	4.0	4.0	4.5
+trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time	iti_dur
+1	simple	neh neh neh neh neh neh neh neh neh	5.0	1.0	4.0	5.0	1.0
+2	simple	pi pi pi pi pi pi pi pi pi	11.0	1.0	4.0	5.0	1.0
+3	simple	would would would would would would would would would	17.0	1.0	4.0	5.0	1.0
+4	simple	naw naw naw naw naw naw naw naw naw	23.0	1.0	4.0	5.0	1.0
+5	simple	ver ver ver ver ver ver ver ver ver	29.0	1.0	4.0	5.0	1.0
+6	simple	picked picked picked picked picked picked picked picked picked	35.0	1.0	4.0	5.0	1.0
+7	simple	jur jur jur jur jur jur jur jur jur	41.0	1.0	4.0	5.0	1.0
+8	simple	peck peck peck peck peck peck peck peck peck	47.0	1.0	4.0	5.0	1.0
+9	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	53.0	1.0	4.0	5.0	1.0
+10	simple	throne throne throne throne throne throne throne throne throne	59.0	1.0	4.0	5.0	1.0
+11	simple	how how how how how how how how how	65.0	1.0	4.0	5.0	1.0
+12	simple	per per per per per per per per per	71.0	1.0	4.0	5.0	1.0
+13	simple	airy airy airy airy airy airy airy airy airy	77.0	1.0	4.0	5.0	1.0
+14	simple	jin jin jin jin jin jin jin jin jin	83.0	1.0	4.0	5.0	1.0
+15	simple	less less less less less less less less less	89.0	1.0	4.0	5.0	1.0
+16	simple	the the the the the the the the the	95.0	1.0	4.0	5.0	1.0
+17	simple	thir thir thir thir thir thir thir thir thir	101.0	1.0	4.0	5.0	1.0
+18	simple	much much much much much much much much much	107.0	1.0	4.0	5.0	1.0
+19	simple	thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled	113.0	1.0	4.0	5.0	1.0
+20	simple	out out out out out out out out out	119.0	1.0	4.0	5.0	1.0
+21	simple	ser ser ser ser ser ser ser ser ser	125.0	1.0	4.0	5.0	1.0
+22	simple	ter ter ter ter ter ter ter ter ter	131.0	1.0	4.0	5.0	1.0
+23	simple	if if if if if if if if if	137.0	1.0	4.0	5.0	1.0
+24	simple	three three three three three three three three three	143.0	1.0	4.0	5.0	1.0
+25	simple	thought thought thought thought thought thought thought thought thought	149.0	1.0	4.0	5.0	1.0
+26	simple	mih mih mih mih mih mih mih mih mih	155.0	1.0	4.0	5.0	1.0
+27	simple	imah imah imah imah imah imah imah imah imah	161.0	1.0	4.0	5.0	1.0
+28	simple	a a a a a a a a a	167.0	1.0	4.0	5.0	1.0
+29	simple	day day day day day day day day day	173.0	1.0	4.0	5.0	1.0
+30	simple	pie pie pie pie pie pie pie pie pie	179.0	1.0	4.0	5.0	1.0
+31	simple	chuck chuck chuck chuck chuck chuck chuck chuck chuck	185.0	1.0	4.0	5.0	1.0
+32	simple	juh juh juh juh juh juh juh juh juh	191.0	1.0	4.0	5.0	1.0
+33	simple	ti ti ti ti ti ti ti ti ti	197.0	1.0	4.0	5.0	1.0
+34	simple	leh leh leh leh leh leh leh leh leh	203.0	1.0	4.0	5.0	1.0

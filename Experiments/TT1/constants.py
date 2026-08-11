@@ -40,6 +40,6 @@ debug = False # set to True for debugging
 # Screen settings for subject display
 screen = {}
 screen['size'] = [1440, 900]#[1920, 1080]        # screen resolution
-screen['fullscr'] = True           # full screen?
+screen['fullscr'] = False           # full screen?
 screen['number'] = 1                # 0 = main display, 1 = secondary display
 screen['font size ratio'] = 0.0001

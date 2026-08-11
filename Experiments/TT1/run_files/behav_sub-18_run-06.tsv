@@ -1,27 +1,34 @@
-trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
-1	simple	leh leh leh leh leh leh leh leh leh	4.0	4.0	4.0	4.5
-2	simple	thurs thurs thurs thurs thurs thurs thurs thurs thurs	13.0	4.0	4.0	4.5
-3	simple	caw caw caw caw caw caw caw caw caw	22.0	4.0	4.0	4.5
-4	simple	pot pot pot pot pot pot pot pot pot	31.0	4.0	4.0	4.5
-5	simple	ter ter ter ter ter ter ter ter ter	40.0	4.0	4.0	4.5
-6	simple	peck peck peck peck peck peck peck peck peck	49.0	4.0	4.0	4.5
-7	simple	out out out out out out out out out	58.0	4.0	4.0	4.5
-8	simple	if if if if if if if if if	67.0	4.0	4.0	4.5
-9	simple	neh neh neh neh neh neh neh neh neh	76.0	4.0	4.0	4.5
-10	simple	how how how how how how how how how	85.0	4.0	4.0	4.5
-11	simple	thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled	94.0	4.0	4.0	4.5
-12	simple	fee fee fee fee fee fee fee fee fee	103.0	4.0	4.0	4.5
-13	simple	pro pro pro pro pro pro pro pro pro	112.0	4.0	4.0	4.5
-14	simple	chuck chuck chuck chuck chuck chuck chuck chuck chuck	121.0	4.0	4.0	4.5
-15	simple	if if if if if if if if if	130.0	4.0	4.0	4.5
-16	simple	a a a a a a a a a	139.0	4.0	4.0	4.5
-17	simple	ver ver ver ver ver ver ver ver ver	148.0	4.0	4.0	4.5
-18	simple	caw caw caw caw caw caw caw caw caw	157.0	4.0	4.0	4.5
-19	simple	much much much much much much much much much	166.0	4.0	4.0	4.5
-20	simple	ser ser ser ser ser ser ser ser ser	175.0	4.0	4.0	4.5
-21	simple	pi pi pi pi pi pi pi pi pi	184.0	4.0	4.0	4.5
-22	simple	through through through through through through through through through	193.0	4.0	4.0	4.5
-23	simple	would would would would would would would would would	202.0	4.0	4.0	4.5
-24	simple	pie pie pie pie pie pie pie pie pie	211.0	4.0	4.0	4.5
-25	simple	would would would would would would would would would	220.0	4.0	4.0	4.5
-26	simple	a a a a a a a a a	229.0	4.0	4.0	4.5
+trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time	iti_dur
+1	simple	ser ser ser ser ser ser ser ser ser	5.0	1.0	4.0	5.0	1.0
+2	simple	how how how how how how how how how	11.0	1.0	4.0	5.0	1.0
+3	simple	pot pot pot pot pot pot pot pot pot	17.0	1.0	4.0	5.0	1.0
+4	simple	thought thought thought thought thought thought thought thought thought	23.0	1.0	4.0	5.0	1.0
+5	simple	out out out out out out out out out	29.0	1.0	4.0	5.0	1.0
+6	simple	through through through through through through through through through	35.0	1.0	4.0	5.0	1.0
+7	simple	caw caw caw caw caw caw caw caw caw	41.0	1.0	4.0	5.0	1.0
+8	simple	ter ter ter ter ter ter ter ter ter	47.0	1.0	4.0	5.0	1.0
+9	simple	thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled	53.0	1.0	4.0	5.0	1.0
+10	simple	thurs thurs thurs thurs thurs thurs thurs thurs thurs	59.0	1.0	4.0	5.0	1.0
+11	simple	pi pi pi pi pi pi pi pi pi	65.0	1.0	4.0	5.0	1.0
+12	simple	if if if if if if if if if	71.0	1.0	4.0	5.0	1.0
+13	simple	less less less less less less less less less	77.0	1.0	4.0	5.0	1.0
+14	simple	fee fee fee fee fee fee fee fee fee	83.0	1.0	4.0	5.0	1.0
+15	simple	a a a a a a a a a	89.0	1.0	4.0	5.0	1.0
+16	simple	three three three three three three three three three	95.0	1.0	4.0	5.0	1.0
+17	simple	leh leh leh leh leh leh leh leh leh	101.0	1.0	4.0	5.0	1.0
+18	simple	pie pie pie pie pie pie pie pie pie	107.0	1.0	4.0	5.0	1.0
+19	simple	ver ver ver ver ver ver ver ver ver	113.0	1.0	4.0	5.0	1.0
+20	simple	peck peck peck peck peck peck peck peck peck	119.0	1.0	4.0	5.0	1.0
+21	simple	neh neh neh neh neh neh neh neh neh	125.0	1.0	4.0	5.0	1.0
+22	simple	day day day day day day day day day	131.0	1.0	4.0	5.0	1.0
+23	simple	throne throne throne throne throne throne throne throne throne	137.0	1.0	4.0	5.0	1.0
+24	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	143.0	1.0	4.0	5.0	1.0
+25	simple	would would would would would would would would would	149.0	1.0	4.0	5.0	1.0
+26	simple	chuck chuck chuck chuck chuck chuck chuck chuck chuck	155.0	1.0	4.0	5.0	1.0
+27	simple	picked picked picked picked picked picked picked picked picked	161.0	1.0	4.0	5.0	1.0
+28	simple	much much much much much much much much much	167.0	1.0	4.0	5.0	1.0
+29	simple	ti ti ti ti ti ti ti ti ti	173.0	1.0	4.0	5.0	1.0
+30	simple	pro pro pro pro pro pro pro pro pro	179.0	1.0	4.0	5.0	1.0
+31	simple	thir thir thir thir thir thir thir thir thir	185.0	1.0	4.0	5.0	1.0
+32	simple	per per per per per per per per per	191.0	1.0	4.0	5.0	1.0
+33	simple	the the the the the the the the the	197.0	1.0	4.0	5.0	1.0

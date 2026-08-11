@@ -3,7 +3,7 @@
 # Edit Nov 2024: Sivan Jossinger
 
 import constants as const
-import experiment as exp
+import my_experiment as exp
 
 def main(subj_id):
     """_summary_
@@ -22,4 +22,4 @@ def main(subj_id):
     return
 
 if __name__ == "__main__":
-    main(2)
+    main(1)

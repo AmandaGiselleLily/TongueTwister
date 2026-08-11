@@ -34,17 +34,18 @@ def generate_sentence(words,sentence_len,con):
 # dialog box for user input
 # -------------------------
 exp_info = {
+        'Enter condition:': ['simple'],
         'Enter the file name where the stimuli are stored:': "sentences.tsv",
         'Enter which type of run files you wish to create (mri / behav):': "behav",
-        'Enter preperation duration (sec):': 4,
+        'Enter preperation duration (sec):': 1,
         'Enter production duration (sec):': 4,
         'Enter rest epoch duration (sec):': 0,
-        'Enter iti duration (sec):': 9,
-        'Enter time initiate first trial (sec):': 4,
+        'Enter iti duration (sec):': 1,
+        'Enter time initiate first trial (sec):': 5,
         'Enter the number of subjects:': 30,
         'Enter the number of runs for each subject:': 8,
         'Enter the number of blocks within a run:': 0,
-        'Enter the number of words in the bag:': 4,
+        'Enter the number of words in the bag:': 5,
         'Enter the number of words in the sentence:': 3
         }
     
@@ -63,6 +64,7 @@ if dlg.OK:  # If the user presses OK, proceed
         block_n = int(exp_info['Enter the number of blocks within a run:'])
         num_words = int(exp_info['Enter the number of words in the bag:']) 
         sentence_len = int(exp_info['Enter the number of words in the sentence:']) 
+        con = exp_info['Enter condition:']
     except ValueError as e:
         print(f"Error: {e}. Please ensure all inputs are valid numbers where required.")
         core.quit()  # Exit if there is an error
@@ -93,19 +95,10 @@ for sub_id in range(1,sub_n+1):
     
     # Build stimuli for each subject based on its unique bag of words
     words = get_bag_of_words(all_words, num_words)  # pick a random list of words for each subject
-    #word_list = generate_sentence(words,sentence_len,'word')
-    #rand_list = generate_sentence(words,sentence_len,'random')
-    smpl_list = generate_sentence(words,sentence_len,'simple')
-    #stimuli = word_list + rand_list + smpl_list
-    #conditions = ['word']*len(word_list) + ['random']*len(rand_list) + ['simple']*len(smpl_list)
+    stimuli = generate_sentence(words,sentence_len,con)
+    random.shuffle(stimuli)
 
-    
-    conditions = ['simple']*len(smpl_list) * 2
-    stimuli = smpl_list * 2
 
-    con_stim_list = list(zip(conditions,stimuli))
-
-    random.shuffle(con_stim_list)
 
     for run_id in range(1,run_n+1):
 
@@ -118,26 +111,13 @@ for sub_id in range(1,sub_n+1):
         trial_num = 0       # initiate trial number  
         output = []         # initiate output_file
 
-        stim_list = con_stim_list[0]
-        cond_list = con_stim_list[1]
 
-        #create the current run list
-        if run_id % 2 == 0:
-            cur_con_stim_list = con_stim_list[::2]
-        else: 
-            cur_con_stim_list = con_stim_list[1::2]
-
-        cond_list,stim_list = zip(*cur_con_stim_list)
-
-        print(len(stim_list))
-
-        for trial in range(1,len(stim_list)):
+        for trial in range(1,len(stimuli)):
             trial_num += 1
-            con = cond_list[trial - 1]
-            stim = stim_list[trial - 1]
+            stim = stimuli[trial]
             start_t = cur_t
 
-            cur_t += iti_dur
+            cur_t += prep_dur + prod_dur + iti_dur
 
 
             output.append({
@@ -147,7 +127,8 @@ for sub_id in range(1,sub_n+1):
                     'start_time': start_t,
                     'go_signal': prep_dur,
                     'resp_time': prod_dur,
-                    'record_time': prod_dur+0.5
+                    'record_time': prod_dur+iti_dur,
+                    'iti_dur' : iti_dur,
                     })              
          
         output_file= pd.DataFrame(output)

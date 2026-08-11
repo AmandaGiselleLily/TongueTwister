@@ -1,27 +1,34 @@
-trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time
-1	simple	caw caw caw caw caw caw caw caw caw	4.0	4.0	4.0	4.5
-2	simple	picked picked picked picked picked picked picked picked picked	13.0	4.0	4.0	4.5
-3	simple	out out out out out out out out out	22.0	4.0	4.0	4.5
-4	simple	mih mih mih mih mih mih mih mih mih	31.0	4.0	4.0	4.5
-5	simple	day day day day day day day day day	40.0	4.0	4.0	4.5
-6	simple	ser ser ser ser ser ser ser ser ser	49.0	4.0	4.0	4.5
-7	simple	naw naw naw naw naw naw naw naw naw	58.0	4.0	4.0	4.5
-8	simple	naw naw naw naw naw naw naw naw naw	67.0	4.0	4.0	4.5
-9	simple	leh leh leh leh leh leh leh leh leh	76.0	4.0	4.0	4.5
-10	simple	ter ter ter ter ter ter ter ter ter	85.0	4.0	4.0	4.5
-11	simple	pie pie pie pie pie pie pie pie pie	94.0	4.0	4.0	4.5
-12	simple	through through through through through through through through through	103.0	4.0	4.0	4.5
-13	simple	less less less less less less less less less	112.0	4.0	4.0	4.5
-14	simple	neh neh neh neh neh neh neh neh neh	121.0	4.0	4.0	4.5
-15	simple	pie pie pie pie pie pie pie pie pie	130.0	4.0	4.0	4.5
-16	simple	ther ther ther ther ther ther ther ther ther	139.0	4.0	4.0	4.5
-17	simple	per per per per per per per per per	148.0	4.0	4.0	4.5
-18	simple	jur jur jur jur jur jur jur jur jur	157.0	4.0	4.0	4.5
-19	simple	juh juh juh juh juh juh juh juh juh	166.0	4.0	4.0	4.5
-20	simple	ther ther ther ther ther ther ther ther ther	175.0	4.0	4.0	4.5
-21	simple	through through through through through through through through through	184.0	4.0	4.0	4.5
-22	simple	mih mih mih mih mih mih mih mih mih	193.0	4.0	4.0	4.5
-23	simple	neh neh neh neh neh neh neh neh neh	202.0	4.0	4.0	4.5
-24	simple	picked picked picked picked picked picked picked picked picked	211.0	4.0	4.0	4.5
-25	simple	pi pi pi pi pi pi pi pi pi	220.0	4.0	4.0	4.5
-26	simple	jur jur jur jur jur jur jur jur jur	229.0	4.0	4.0	4.5
+trial_num	condition	stimulus	start_time	go_signal	resp_time	record_time	iti_dur
+1	simple	ter ter ter ter ter ter ter ter ter	5.0	1.0	4.0	5.0	1.0
+2	simple	thought thought thought thought thought thought thought thought thought	11.0	1.0	4.0	5.0	1.0
+3	simple	ti ti ti ti ti ti ti ti ti	17.0	1.0	4.0	5.0	1.0
+4	simple	thurs thurs thurs thurs thurs thurs thurs thurs thurs	23.0	1.0	4.0	5.0	1.0
+5	simple	pi pi pi pi pi pi pi pi pi	29.0	1.0	4.0	5.0	1.0
+6	simple	neh neh neh neh neh neh neh neh neh	35.0	1.0	4.0	5.0	1.0
+7	simple	three three three three three three three three three	41.0	1.0	4.0	5.0	1.0
+8	simple	thir thir thir thir thir thir thir thir thir	47.0	1.0	4.0	5.0	1.0
+9	simple	thieves thieves thieves thieves thieves thieves thieves thieves thieves	53.0	1.0	4.0	5.0	1.0
+10	simple	chuck chuck chuck chuck chuck chuck chuck chuck chuck	59.0	1.0	4.0	5.0	1.0
+11	simple	how how how how how how how how how	65.0	1.0	4.0	5.0	1.0
+12	simple	fee fee fee fee fee fee fee fee fee	71.0	1.0	4.0	5.0	1.0
+13	simple	a a a a a a a a a	77.0	1.0	4.0	5.0	1.0
+14	simple	ther ther ther ther ther ther ther ther ther	83.0	1.0	4.0	5.0	1.0
+15	simple	would would would would would would would would would	89.0	1.0	4.0	5.0	1.0
+16	simple	leh leh leh leh leh leh leh leh leh	95.0	1.0	4.0	5.0	1.0
+17	simple	out out out out out out out out out	101.0	1.0	4.0	5.0	1.0
+18	simple	the the the the the the the the the	107.0	1.0	4.0	5.0	1.0
+19	simple	much much much much much much much much much	113.0	1.0	4.0	5.0	1.0
+20	simple	pie pie pie pie pie pie pie pie pie	119.0	1.0	4.0	5.0	1.0
+21	simple	picked picked picked picked picked picked picked picked picked	125.0	1.0	4.0	5.0	1.0
+22	simple	thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled thrilled	131.0	1.0	4.0	5.0	1.0
+23	simple	pro pro pro pro pro pro pro pro pro	137.0	1.0	4.0	5.0	1.0
+24	simple	pot pot pot pot pot pot pot pot pot	143.0	1.0	4.0	5.0	1.0
+25	simple	caw caw caw caw caw caw caw caw caw	149.0	1.0	4.0	5.0	1.0
+26	simple	if if if if if if if if if	155.0	1.0	4.0	5.0	1.0
+27	simple	ver ver ver ver ver ver ver ver ver	161.0	1.0	4.0	5.0	1.0
+28	simple	per per per per per per per per per	167.0	1.0	4.0	5.0	1.0
+29	simple	peck peck peck peck peck peck peck peck peck	173.0	1.0	4.0	5.0	1.0
+30	simple	day day day day day day day day day	179.0	1.0	4.0	5.0	1.0
+31	simple	ser ser ser ser ser ser ser ser ser	185.0	1.0	4.0	5.0	1.0
+32	simple	less less less less less less less less less	191.0	1.0	4.0	5.0	1.0
+33	simple	through through through through through through through through through	197.0	1.0	4.0	5.0	1.0
