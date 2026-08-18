@@ -4,7 +4,7 @@ import sys
 
 import experiment as exp
 
-from psychopy import gui
+from psychopy import gui, sound
 import sys
 import pandas as pd
 from MultiTaskBattery.ttl_clock import TTLClock
@@ -34,6 +34,7 @@ class Experiment:
         # open screen and display fixation cross
         ### set the resolution of the subject screen here:
         self.screen = Screen(const.screen)
+        self.stim_dir = const.stim_dir
 
     def confirm_run_info(self):
         """
@@ -144,6 +145,11 @@ class Experiment:
 
         # Show stimulus on screen
         self.screen.stimulus_screen(stimulus)
+        
+        # Load and play audio stimulus for the current trial
+        audio_path = self.stim_dir / f'{trial['syll']}.wav'
+        audio_stim = sound.Sound(str(audio_path))
+        audio_stim.play()
 
         # Initiate GO signal
         if 'go_signal' in row.index:
