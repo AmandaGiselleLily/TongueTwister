@@ -1,0 +1,166 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.5000000000
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.5000000000
+        intervals: size = 38
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.2325000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.2325000000
+            xmax = 0.3325000000
+            text = "fee"
+        intervals [3]:
+            xmin = 0.3325000000
+            xmax = 0.5325000000
+            text = "fee"
+        intervals [4]:
+            xmin = 0.5325000000
+            xmax = 0.6725000000
+            text = "fee"
+        intervals [5]:
+            xmin = 0.6725000000
+            xmax = 0.7325000000
+            text = "silent"
+        intervals [6]:
+            xmin = 0.7325000000
+            xmax = 0.8725000000
+            text = "fee"
+        intervals [7]:
+            xmin = 0.8725000000
+            xmax = 0.9125000000
+            text = "silent"
+        intervals [8]:
+            xmin = 0.9125000000
+            xmax = 1.0325000000
+            text = "fee"
+        intervals [9]:
+            xmin = 1.0325000000
+            xmax = 1.1125000000
+            text = "silent"
+        intervals [10]:
+            xmin = 1.1125000000
+            xmax = 1.2125000000
+            text = "fee"
+        intervals [11]:
+            xmin = 1.2125000000
+            xmax = 1.3725000000
+            text = "fee"
+        intervals [12]:
+            xmin = 1.3725000000
+            xmax = 1.4325000000
+            text = "silent"
+        intervals [13]:
+            xmin = 1.4325000000
+            xmax = 1.5325000000
+            text = "fee"
+        intervals [14]:
+            xmin = 1.5325000000
+            xmax = 1.5925000000
+            text = "silent"
+        intervals [15]:
+            xmin = 1.5925000000
+            xmax = 1.7125000000
+            text = "fee"
+        intervals [16]:
+            xmin = 1.7125000000
+            xmax = 1.7725000000
+            text = "silent"
+        intervals [17]:
+            xmin = 1.7725000000
+            xmax = 1.8925000000
+            text = "fee"
+        intervals [18]:
+            xmin = 1.8925000000
+            xmax = 2.0725000000
+            text = "fee"
+        intervals [19]:
+            xmin = 2.0725000000
+            xmax = 2.2525000000
+            text = "fee"
+        intervals [20]:
+            xmin = 2.2525000000
+            xmax = 2.4125000000
+            text = "fee"
+        intervals [21]:
+            xmin = 2.4125000000
+            xmax = 2.6125000000
+            text = "fee"
+        intervals [22]:
+            xmin = 2.6125000000
+            xmax = 2.7725000000
+            text = "fee"
+        intervals [23]:
+            xmin = 2.7725000000
+            xmax = 2.8325000000
+            text = "silent"
+        intervals [24]:
+            xmin = 2.8325000000
+            xmax = 2.9725000000
+            text = "fee"
+        intervals [25]:
+            xmin = 2.9725000000
+            xmax = 3.1325000000
+            text = "fee"
+        intervals [26]:
+            xmin = 3.1325000000
+            xmax = 3.1725000000
+            text = "silent"
+        intervals [27]:
+            xmin = 3.1725000000
+            xmax = 3.3125000000
+            text = "fee"
+        intervals [28]:
+            xmin = 3.3125000000
+            xmax = 3.3725000000
+            text = "silent"
+        intervals [29]:
+            xmin = 3.3725000000
+            xmax = 3.4725000000
+            text = "fee"
+        intervals [30]:
+            xmin = 3.4725000000
+            xmax = 3.5525000000
+            text = "silent"
+        intervals [31]:
+            xmin = 3.5525000000
+            xmax = 3.6525000000
+            text = "fee"
+        intervals [32]:
+            xmin = 3.6525000000
+            xmax = 3.7325000000
+            text = "silent"
+        intervals [33]:
+            xmin = 3.7325000000
+            xmax = 3.8525000000
+            text = "fee"
+        intervals [34]:
+            xmin = 3.8525000000
+            xmax = 3.9325000000
+            text = "silent"
+        intervals [35]:
+            xmin = 3.9325000000
+            xmax = 4.0725000000
+            text = "fee"
+        intervals [36]:
+            xmin = 4.0725000000
+            xmax = 4.1325000000
+            text = "silent"
+        intervals [37]:
+            xmin = 4.1325000000
+            xmax = 4.3125000000
+            text = "fee"
+        intervals [38]:
+            xmin = 4.3125000000
+            xmax = 4.5000000000
+            text = "silent"

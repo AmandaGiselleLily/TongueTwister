@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9973696145
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9973696145
+        intervals: size = 22
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.6525000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.6525000000
+            xmax = 0.9325000000
+            text = "through"
+        intervals [3]:
+            xmin = 0.9325000000
+            xmax = 1.1725000000
+            text = "through"
+        intervals [4]:
+            xmin = 1.1725000000
+            xmax = 1.2725000000
+            text = "through"
+        intervals [5]:
+            xmin = 1.2725000000
+            xmax = 1.4325000000
+            text = "through"
+        intervals [6]:
+            xmin = 1.4325000000
+            xmax = 1.7325000000
+            text = "through"
+        intervals [7]:
+            xmin = 1.7325000000
+            xmax = 1.8725000000
+            text = "through"
+        intervals [8]:
+            xmin = 1.8725000000
+            xmax = 2.0925000000
+            text = "through"
+        intervals [9]:
+            xmin = 2.0925000000
+            xmax = 2.2525000000
+            text = "silent"
+        intervals [10]:
+            xmin = 2.2525000000
+            xmax = 2.4725000000
+            text = "through"
+        intervals [11]:
+            xmin = 2.4725000000
+            xmax = 2.8525000000
+            text = "through"
+        intervals [12]:
+            xmin = 2.8525000000
+            xmax = 3.1725000000
+            text = "through"
+        intervals [13]:
+            xmin = 3.1725000000
+            xmax = 3.5325000000
+            text = "through"
+        intervals [14]:
+            xmin = 3.5325000000
+            xmax = 3.6725000000
+            text = "silent"
+        intervals [15]:
+            xmin = 3.6725000000
+            xmax = 3.8725000000
+            text = "through"
+        intervals [16]:
+            xmin = 3.8725000000
+            xmax = 3.9325000000
+            text = "silent"
+        intervals [17]:
+            xmin = 3.9325000000
+            xmax = 4.1925000000
+            text = "through"
+        intervals [18]:
+            xmin = 4.1925000000
+            xmax = 4.2725000000
+            text = "silent"
+        intervals [19]:
+            xmin = 4.2725000000
+            xmax = 4.4925000000
+            text = "through"
+        intervals [20]:
+            xmin = 4.4925000000
+            xmax = 4.6525000000
+            text = "silent"
+        intervals [21]:
+            xmin = 4.6525000000
+            xmax = 4.8525000000
+            text = "through"
+        intervals [22]:
+            xmin = 4.8525000000
+            xmax = 4.9973696145
+            text = "silent"

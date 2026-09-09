@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9973696145
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9973696145
+        intervals: size = 25
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.6725000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.6725000000
+            xmax = 0.8725000000
+            text = "would"
+        intervals [3]:
+            xmin = 0.8725000000
+            xmax = 0.9125000000
+            text = "silent"
+        intervals [4]:
+            xmin = 0.9125000000
+            xmax = 1.0925000000
+            text = "would"
+        intervals [5]:
+            xmin = 1.0925000000
+            xmax = 1.1325000000
+            text = "silent"
+        intervals [6]:
+            xmin = 1.1325000000
+            xmax = 1.3325000000
+            text = "would"
+        intervals [7]:
+            xmin = 1.3325000000
+            xmax = 1.5525000000
+            text = "would"
+        intervals [8]:
+            xmin = 1.5525000000
+            xmax = 1.7725000000
+            text = "would"
+        intervals [9]:
+            xmin = 1.7725000000
+            xmax = 1.9725000000
+            text = "would"
+        intervals [10]:
+            xmin = 1.9725000000
+            xmax = 2.2125000000
+            text = "would"
+        intervals [11]:
+            xmin = 2.2125000000
+            xmax = 2.4525000000
+            text = "would"
+        intervals [12]:
+            xmin = 2.4525000000
+            xmax = 2.6525000000
+            text = "would"
+        intervals [13]:
+            xmin = 2.6525000000
+            xmax = 2.8925000000
+            text = "would"
+        intervals [14]:
+            xmin = 2.8925000000
+            xmax = 2.9325000000
+            text = "silent"
+        intervals [15]:
+            xmin = 2.9325000000
+            xmax = 3.1325000000
+            text = "would"
+        intervals [16]:
+            xmin = 3.1325000000
+            xmax = 3.3525000000
+            text = "would"
+        intervals [17]:
+            xmin = 3.3525000000
+            xmax = 3.5725000000
+            text = "would"
+        intervals [18]:
+            xmin = 3.5725000000
+            xmax = 3.7725000000
+            text = "would"
+        intervals [19]:
+            xmin = 3.7725000000
+            xmax = 3.8125000000
+            text = "silent"
+        intervals [20]:
+            xmin = 3.8125000000
+            xmax = 3.9925000000
+            text = "would"
+        intervals [21]:
+            xmin = 3.9925000000
+            xmax = 4.0525000000
+            text = "silent"
+        intervals [22]:
+            xmin = 4.0525000000
+            xmax = 4.2525000000
+            text = "would"
+        intervals [23]:
+            xmin = 4.2525000000
+            xmax = 4.4125000000
+            text = "would"
+        intervals [24]:
+            xmin = 4.4125000000
+            xmax = 4.7125000000
+            text = "would"
+        intervals [25]:
+            xmin = 4.7125000000
+            xmax = 4.9973696145
+            text = "silent"

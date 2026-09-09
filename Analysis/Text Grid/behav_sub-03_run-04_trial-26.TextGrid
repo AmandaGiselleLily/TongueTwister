@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9973696145
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9973696145
+        intervals: size = 32
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.3325000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.3325000000
+            xmax = 0.4125000000
+            text = "if"
+        intervals [3]:
+            xmin = 0.4125000000
+            xmax = 0.5925000000
+            text = "if"
+        intervals [4]:
+            xmin = 0.5925000000
+            xmax = 0.7725000000
+            text = "if"
+        intervals [5]:
+            xmin = 0.7725000000
+            xmax = 0.9325000000
+            text = "if"
+        intervals [6]:
+            xmin = 0.9325000000
+            xmax = 1.1325000000
+            text = "if"
+        intervals [7]:
+            xmin = 1.1325000000
+            xmax = 1.2925000000
+            text = "if"
+        intervals [8]:
+            xmin = 1.2925000000
+            xmax = 1.4925000000
+            text = "if"
+        intervals [9]:
+            xmin = 1.4925000000
+            xmax = 1.6525000000
+            text = "if"
+        intervals [10]:
+            xmin = 1.6525000000
+            xmax = 1.8325000000
+            text = "if"
+        intervals [11]:
+            xmin = 1.8325000000
+            xmax = 2.0125000000
+            text = "if"
+        intervals [12]:
+            xmin = 2.0125000000
+            xmax = 2.0925000000
+            text = "if"
+        intervals [13]:
+            xmin = 2.0925000000
+            xmax = 2.2125000000
+            text = "if"
+        intervals [14]:
+            xmin = 2.2125000000
+            xmax = 2.3925000000
+            text = "if"
+        intervals [15]:
+            xmin = 2.3925000000
+            xmax = 2.4725000000
+            text = "if"
+        intervals [16]:
+            xmin = 2.4725000000
+            xmax = 2.5725000000
+            text = "if"
+        intervals [17]:
+            xmin = 2.5725000000
+            xmax = 2.7725000000
+            text = "if"
+        intervals [18]:
+            xmin = 2.7725000000
+            xmax = 2.9325000000
+            text = "if"
+        intervals [19]:
+            xmin = 2.9325000000
+            xmax = 3.0125000000
+            text = "if"
+        intervals [20]:
+            xmin = 3.0125000000
+            xmax = 3.1125000000
+            text = "if"
+        intervals [21]:
+            xmin = 3.1125000000
+            xmax = 3.2925000000
+            text = "if"
+        intervals [22]:
+            xmin = 3.2925000000
+            xmax = 3.4925000000
+            text = "if"
+        intervals [23]:
+            xmin = 3.4925000000
+            xmax = 3.6525000000
+            text = "if"
+        intervals [24]:
+            xmin = 3.6525000000
+            xmax = 3.8525000000
+            text = "if"
+        intervals [25]:
+            xmin = 3.8525000000
+            xmax = 4.0325000000
+            text = "if"
+        intervals [26]:
+            xmin = 4.0325000000
+            xmax = 4.1325000000
+            text = "if"
+        intervals [27]:
+            xmin = 4.1325000000
+            xmax = 4.2125000000
+            text = "if"
+        intervals [28]:
+            xmin = 4.2125000000
+            xmax = 4.3925000000
+            text = "if"
+        intervals [29]:
+            xmin = 4.3925000000
+            xmax = 4.5725000000
+            text = "if"
+        intervals [30]:
+            xmin = 4.5725000000
+            xmax = 4.7925000000
+            text = "if"
+        intervals [31]:
+            xmin = 4.7925000000
+            xmax = 4.9325000000
+            text = "if"
+        intervals [32]:
+            xmin = 4.9325000000
+            xmax = 4.9973696145
+            text = "silent"

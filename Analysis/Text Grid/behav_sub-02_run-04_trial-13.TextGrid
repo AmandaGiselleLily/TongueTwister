@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9973696145
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9973696145
+        intervals: size = 29
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.6325000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.6325000000
+            xmax = 0.8125000000
+            text = "ter"
+        intervals [3]:
+            xmin = 0.8125000000
+            xmax = 1.0125000000
+            text = "ter"
+        intervals [4]:
+            xmin = 1.0125000000
+            xmax = 1.1925000000
+            text = "ter"
+        intervals [5]:
+            xmin = 1.1925000000
+            xmax = 1.2325000000
+            text = "silent"
+        intervals [6]:
+            xmin = 1.2325000000
+            xmax = 1.4125000000
+            text = "ter"
+        intervals [7]:
+            xmin = 1.4125000000
+            xmax = 1.6125000000
+            text = "ter"
+        intervals [8]:
+            xmin = 1.6125000000
+            xmax = 1.8125000000
+            text = "ter"
+        intervals [9]:
+            xmin = 1.8125000000
+            xmax = 1.9925000000
+            text = "ter"
+        intervals [10]:
+            xmin = 1.9925000000
+            xmax = 2.0325000000
+            text = "silent"
+        intervals [11]:
+            xmin = 2.0325000000
+            xmax = 2.2125000000
+            text = "ter"
+        intervals [12]:
+            xmin = 2.2125000000
+            xmax = 2.4125000000
+            text = "ter"
+        intervals [13]:
+            xmin = 2.4125000000
+            xmax = 2.6125000000
+            text = "ter"
+        intervals [14]:
+            xmin = 2.6125000000
+            xmax = 2.8125000000
+            text = "ter"
+        intervals [15]:
+            xmin = 2.8125000000
+            xmax = 3.0125000000
+            text = "ter"
+        intervals [16]:
+            xmin = 3.0125000000
+            xmax = 3.0525000000
+            text = "silent"
+        intervals [17]:
+            xmin = 3.0525000000
+            xmax = 3.2525000000
+            text = "ter"
+        intervals [18]:
+            xmin = 3.2525000000
+            xmax = 3.4325000000
+            text = "ter"
+        intervals [19]:
+            xmin = 3.4325000000
+            xmax = 3.4725000000
+            text = "silent"
+        intervals [20]:
+            xmin = 3.4725000000
+            xmax = 3.6525000000
+            text = "ter"
+        intervals [21]:
+            xmin = 3.6525000000
+            xmax = 3.7125000000
+            text = "silent"
+        intervals [22]:
+            xmin = 3.7125000000
+            xmax = 3.8525000000
+            text = "ter"
+        intervals [23]:
+            xmin = 3.8525000000
+            xmax = 3.9125000000
+            text = "silent"
+        intervals [24]:
+            xmin = 3.9125000000
+            xmax = 4.0925000000
+            text = "ter"
+        intervals [25]:
+            xmin = 4.0925000000
+            xmax = 4.2725000000
+            text = "ter"
+        intervals [26]:
+            xmin = 4.2725000000
+            xmax = 4.3325000000
+            text = "silent"
+        intervals [27]:
+            xmin = 4.3325000000
+            xmax = 4.4925000000
+            text = "ter"
+        intervals [28]:
+            xmin = 4.4925000000
+            xmax = 4.7125000000
+            text = "ter"
+        intervals [29]:
+            xmin = 4.7125000000
+            xmax = 4.9973696145
+            text = "silent"

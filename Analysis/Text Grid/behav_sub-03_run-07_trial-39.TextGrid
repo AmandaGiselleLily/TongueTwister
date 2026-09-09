@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 5.0231292517
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 5.0231292517
+        intervals: size = 26
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.3325000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.3325000000
+            xmax = 0.5525000000
+            text = "out"
+        intervals [3]:
+            xmin = 0.5525000000
+            xmax = 1.1325000000
+            text = "silent"
+        intervals [4]:
+            xmin = 1.1325000000
+            xmax = 1.4125000000
+            text = "out"
+        intervals [5]:
+            xmin = 1.4125000000
+            xmax = 1.6525000000
+            text = "out"
+        intervals [6]:
+            xmin = 1.6525000000
+            xmax = 1.7125000000
+            text = "silent"
+        intervals [7]:
+            xmin = 1.7125000000
+            xmax = 1.9325000000
+            text = "out"
+        intervals [8]:
+            xmin = 1.9325000000
+            xmax = 2.1925000000
+            text = "out"
+        intervals [9]:
+            xmin = 2.1925000000
+            xmax = 2.2325000000
+            text = "silent"
+        intervals [10]:
+            xmin = 2.2325000000
+            xmax = 2.4525000000
+            text = "out"
+        intervals [11]:
+            xmin = 2.4525000000
+            xmax = 2.5325000000
+            text = "silent"
+        intervals [12]:
+            xmin = 2.5325000000
+            xmax = 2.7325000000
+            text = "out"
+        intervals [13]:
+            xmin = 2.7325000000
+            xmax = 2.9925000000
+            text = "out"
+        intervals [14]:
+            xmin = 2.9925000000
+            xmax = 3.0925000000
+            text = "silent"
+        intervals [15]:
+            xmin = 3.0925000000
+            xmax = 3.2925000000
+            text = "out"
+        intervals [16]:
+            xmin = 3.2925000000
+            xmax = 3.5725000000
+            text = "out"
+        intervals [17]:
+            xmin = 3.5725000000
+            xmax = 3.6325000000
+            text = "silent"
+        intervals [18]:
+            xmin = 3.6325000000
+            xmax = 3.8325000000
+            text = "out"
+        intervals [19]:
+            xmin = 3.8325000000
+            xmax = 3.9325000000
+            text = "silent"
+        intervals [20]:
+            xmin = 3.9325000000
+            xmax = 4.1525000000
+            text = "out"
+        intervals [21]:
+            xmin = 4.1525000000
+            xmax = 4.4325000000
+            text = "out"
+        intervals [22]:
+            xmin = 4.4325000000
+            xmax = 4.5125000000
+            text = "silent"
+        intervals [23]:
+            xmin = 4.5125000000
+            xmax = 4.6925000000
+            text = "out"
+        intervals [24]:
+            xmin = 4.6925000000
+            xmax = 4.9325000000
+            text = "out"
+        intervals [25]:
+            xmin = 4.9325000000
+            xmax = 4.9925000000
+            text = "out"
+        intervals [26]:
+            xmin = 4.9925000000
+            xmax = 5.0231292517
+            text = "silent"

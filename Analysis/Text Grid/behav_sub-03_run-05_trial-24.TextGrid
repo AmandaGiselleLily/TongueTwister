@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9973696145
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9973696145
+        intervals: size = 26
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.6525000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.6525000000
+            xmax = 0.8525000000
+            text = "the"
+        intervals [3]:
+            xmin = 0.8525000000
+            xmax = 0.9325000000
+            text = "silent"
+        intervals [4]:
+            xmin = 0.9325000000
+            xmax = 1.2125000000
+            text = "the"
+        intervals [5]:
+            xmin = 1.2125000000
+            xmax = 1.3925000000
+            text = "the"
+        intervals [6]:
+            xmin = 1.3925000000
+            xmax = 1.4925000000
+            text = "silent"
+        intervals [7]:
+            xmin = 1.4925000000
+            xmax = 1.6925000000
+            text = "the"
+        intervals [8]:
+            xmin = 1.6925000000
+            xmax = 1.7925000000
+            text = "silent"
+        intervals [9]:
+            xmin = 1.7925000000
+            xmax = 2.0725000000
+            text = "the"
+        intervals [10]:
+            xmin = 2.0725000000
+            xmax = 2.2325000000
+            text = "the"
+        intervals [11]:
+            xmin = 2.2325000000
+            xmax = 2.3325000000
+            text = "silent"
+        intervals [12]:
+            xmin = 2.3325000000
+            xmax = 2.6125000000
+            text = "the"
+        intervals [13]:
+            xmin = 2.6125000000
+            xmax = 2.7925000000
+            text = "the"
+        intervals [14]:
+            xmin = 2.7925000000
+            xmax = 2.9125000000
+            text = "silent"
+        intervals [15]:
+            xmin = 2.9125000000
+            xmax = 3.1525000000
+            text = "the"
+        intervals [16]:
+            xmin = 3.1525000000
+            xmax = 3.3325000000
+            text = "the"
+        intervals [17]:
+            xmin = 3.3325000000
+            xmax = 3.4325000000
+            text = "silent"
+        intervals [18]:
+            xmin = 3.4325000000
+            xmax = 3.5925000000
+            text = "the"
+        intervals [19]:
+            xmin = 3.5925000000
+            xmax = 3.7125000000
+            text = "silent"
+        intervals [20]:
+            xmin = 3.7125000000
+            xmax = 3.8725000000
+            text = "the"
+        intervals [21]:
+            xmin = 3.8725000000
+            xmax = 3.9725000000
+            text = "silent"
+        intervals [22]:
+            xmin = 3.9725000000
+            xmax = 4.2525000000
+            text = "the"
+        intervals [23]:
+            xmin = 4.2525000000
+            xmax = 4.3725000000
+            text = "the"
+        intervals [24]:
+            xmin = 4.3725000000
+            xmax = 4.4525000000
+            text = "silent"
+        intervals [25]:
+            xmin = 4.4525000000
+            xmax = 4.6325000000
+            text = "the"
+        intervals [26]:
+            xmin = 4.6325000000
+            xmax = 4.9973696145
+            text = "silent"

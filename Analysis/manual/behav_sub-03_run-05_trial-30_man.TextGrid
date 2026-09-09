@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9973696145 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 4.9973696145 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9325 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.9325 
+            xmax = 1.2325 
+            text = "thurs" 
+        intervals [3]:
+            xmin = 1.2325 
+            xmax = 1.4325 
+            text = "silent" 
+        intervals [4]:
+            xmin = 1.4325 
+            xmax = 1.8034210580066685 
+            text = "thurs" 
+        intervals [5]:
+            xmin = 1.8034210580066685 
+            xmax = 2.0725 
+            text = "silent" 
+        intervals [6]:
+            xmin = 2.0725 
+            xmax = 2.4271806579842745 
+            text = "thurs" 
+        intervals [7]:
+            xmin = 2.4271806579842745 
+            xmax = 2.4925 
+            text = "silent" 
+        intervals [8]:
+            xmin = 2.4925 
+            xmax = 2.8325 
+            text = "thurs" 
+        intervals [9]:
+            xmin = 2.8325 
+            xmax = 2.9725 
+            text = "silent" 
+        intervals [10]:
+            xmin = 2.9725 
+            xmax = 3.285230449172981 
+            text = "thurs" 
+        intervals [11]:
+            xmin = 3.285230449172981 
+            xmax = 3.4525 
+            text = "silent" 
+        intervals [12]:
+            xmin = 3.4525 
+            xmax = 3.747725372083206 
+            text = "thurs" 
+        intervals [13]:
+            xmin = 3.747725372083206 
+            xmax = 3.8925 
+            text = "silent" 
+        intervals [14]:
+            xmin = 3.8925 
+            xmax = 4.2125 
+            text = "thurs" 
+        intervals [15]:
+            xmin = 4.2125 
+            xmax = 4.3525 
+            text = "silent" 
+        intervals [16]:
+            xmin = 4.3525 
+            xmax = 4.6525 
+            text = "thurs" 
+        intervals [17]:
+            xmin = 4.6525 
+            xmax = 4.8125 
+            text = "silent" 
+        intervals [18]:
+            xmin = 4.8125 
+            xmax = 4.9973696145 
+            text = "thurs" 

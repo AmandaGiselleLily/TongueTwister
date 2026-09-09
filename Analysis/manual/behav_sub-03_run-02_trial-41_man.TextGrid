@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9973696145 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 4.9973696145 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8125 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.8125 
+            xmax = 1.0125 
+            text = "thrilled" 
+        intervals [3]:
+            xmin = 1.0125 
+            xmax = 1.0525 
+            text = "silent" 
+        intervals [4]:
+            xmin = 1.0525 
+            xmax = 1.4525 
+            text = "thrilled" 
+        intervals [5]:
+            xmin = 1.4525 
+            xmax = 1.7925 
+            text = "thrilled" 
+        intervals [6]:
+            xmin = 1.7925 
+            xmax = 1.8725 
+            text = "silent" 
+        intervals [7]:
+            xmin = 1.8725 
+            xmax = 2.0725 
+            text = "error" 
+        intervals [8]:
+            xmin = 2.0725 
+            xmax = 2.3125 
+            text = "silent" 
+        intervals [9]:
+            xmin = 2.3125 
+            xmax = 2.7325 
+            text = "thrilled" 
+        intervals [10]:
+            xmin = 2.7325 
+            xmax = 2.7925 
+            text = "silent" 
+        intervals [11]:
+            xmin = 2.7925 
+            xmax = 3.1725 
+            text = "thrilled" 
+        intervals [12]:
+            xmin = 3.1725 
+            xmax = 3.4125 
+            text = "silent" 
+        intervals [13]:
+            xmin = 3.4125 
+            xmax = 3.7525 
+            text = "thrilled" 
+        intervals [14]:
+            xmin = 3.7525 
+            xmax = 3.9525 
+            text = "silent" 
+        intervals [15]:
+            xmin = 3.9525 
+            xmax = 4.2525 
+            text = "thrilled" 
+        intervals [16]:
+            xmin = 4.2525 
+            xmax = 4.4125 
+            text = "silent" 
+        intervals [17]:
+            xmin = 4.4125 
+            xmax = 4.9973696145 
+            text = "thrilled" 

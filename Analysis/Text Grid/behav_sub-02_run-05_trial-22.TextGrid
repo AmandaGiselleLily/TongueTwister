@@ -1,0 +1,150 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9973696145
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9973696145
+        intervals: size = 34
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.6925000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.6925000000
+            xmax = 0.8125000000
+            text = "pie"
+        intervals [3]:
+            xmin = 0.8125000000
+            xmax = 1.0125000000
+            text = "pie"
+        intervals [4]:
+            xmin = 1.0125000000
+            xmax = 1.0725000000
+            text = "silent"
+        intervals [5]:
+            xmin = 1.0725000000
+            xmax = 1.2125000000
+            text = "pie"
+        intervals [6]:
+            xmin = 1.2125000000
+            xmax = 1.2725000000
+            text = "silent"
+        intervals [7]:
+            xmin = 1.2725000000
+            xmax = 1.4125000000
+            text = "pie"
+        intervals [8]:
+            xmin = 1.4125000000
+            xmax = 1.4725000000
+            text = "silent"
+        intervals [9]:
+            xmin = 1.4725000000
+            xmax = 1.6125000000
+            text = "pie"
+        intervals [10]:
+            xmin = 1.6125000000
+            xmax = 1.6725000000
+            text = "silent"
+        intervals [11]:
+            xmin = 1.6725000000
+            xmax = 1.8125000000
+            text = "pie"
+        intervals [12]:
+            xmin = 1.8125000000
+            xmax = 1.8725000000
+            text = "silent"
+        intervals [13]:
+            xmin = 1.8725000000
+            xmax = 2.0525000000
+            text = "pie"
+        intervals [14]:
+            xmin = 2.0525000000
+            xmax = 2.2125000000
+            text = "pie"
+        intervals [15]:
+            xmin = 2.2125000000
+            xmax = 2.2725000000
+            text = "silent"
+        intervals [16]:
+            xmin = 2.2725000000
+            xmax = 2.4325000000
+            text = "pie"
+        intervals [17]:
+            xmin = 2.4325000000
+            xmax = 2.4925000000
+            text = "silent"
+        intervals [18]:
+            xmin = 2.4925000000
+            xmax = 2.6525000000
+            text = "pie"
+        intervals [19]:
+            xmin = 2.6525000000
+            xmax = 2.8525000000
+            text = "pie"
+        intervals [20]:
+            xmin = 2.8525000000
+            xmax = 2.8925000000
+            text = "silent"
+        intervals [21]:
+            xmin = 2.8925000000
+            xmax = 3.0525000000
+            text = "pie"
+        intervals [22]:
+            xmin = 3.0525000000
+            xmax = 3.1125000000
+            text = "silent"
+        intervals [23]:
+            xmin = 3.1125000000
+            xmax = 3.2525000000
+            text = "pie"
+        intervals [24]:
+            xmin = 3.2525000000
+            xmax = 3.3125000000
+            text = "silent"
+        intervals [25]:
+            xmin = 3.3125000000
+            xmax = 3.4725000000
+            text = "pie"
+        intervals [26]:
+            xmin = 3.4725000000
+            xmax = 3.5325000000
+            text = "silent"
+        intervals [27]:
+            xmin = 3.5325000000
+            xmax = 3.6925000000
+            text = "pie"
+        intervals [28]:
+            xmin = 3.6925000000
+            xmax = 3.8925000000
+            text = "pie"
+        intervals [29]:
+            xmin = 3.8925000000
+            xmax = 4.0725000000
+            text = "pie"
+        intervals [30]:
+            xmin = 4.0725000000
+            xmax = 4.1325000000
+            text = "silent"
+        intervals [31]:
+            xmin = 4.1325000000
+            xmax = 4.2925000000
+            text = "pie"
+        intervals [32]:
+            xmin = 4.2925000000
+            xmax = 4.4925000000
+            text = "pie"
+        intervals [33]:
+            xmin = 4.4925000000
+            xmax = 4.6125000000
+            text = "pie"
+        intervals [34]:
+            xmin = 4.6125000000
+            xmax = 4.9973696145
+            text = "silent"

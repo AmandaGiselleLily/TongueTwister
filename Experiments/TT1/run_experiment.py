@@ -14,7 +14,7 @@ def main(subj_id):
         subj_id (str): id of the subject
     """
     my_Exp = exp.Experiment(const,subj_id)
-    
+
     while True:
         my_Exp.confirm_run_info()
         my_Exp.init_run()

@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.5000000000
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.5000000000
+        intervals: size = 26
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.4925000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.4925000000
+            xmax = 0.6125000000
+            text = "ser"
+        intervals [3]:
+            xmin = 0.6125000000
+            xmax = 0.7925000000
+            text = "ser"
+        intervals [4]:
+            xmin = 0.7925000000
+            xmax = 0.9725000000
+            text = "ser"
+        intervals [5]:
+            xmin = 0.9725000000
+            xmax = 1.0525000000
+            text = "ser"
+        intervals [6]:
+            xmin = 1.0525000000
+            xmax = 1.1525000000
+            text = "ser"
+        intervals [7]:
+            xmin = 1.1525000000
+            xmax = 1.4325000000
+            text = "ser"
+        intervals [8]:
+            xmin = 1.4325000000
+            xmax = 1.5925000000
+            text = "ser"
+        intervals [9]:
+            xmin = 1.5925000000
+            xmax = 1.7925000000
+            text = "ser"
+        intervals [10]:
+            xmin = 1.7925000000
+            xmax = 1.9925000000
+            text = "ser"
+        intervals [11]:
+            xmin = 1.9925000000
+            xmax = 2.2125000000
+            text = "ser"
+        intervals [12]:
+            xmin = 2.2125000000
+            xmax = 2.3125000000
+            text = "ser"
+        intervals [13]:
+            xmin = 2.3125000000
+            xmax = 2.4525000000
+            text = "ser"
+        intervals [14]:
+            xmin = 2.4525000000
+            xmax = 2.5525000000
+            text = "ser"
+        intervals [15]:
+            xmin = 2.5525000000
+            xmax = 2.6925000000
+            text = "ser"
+        intervals [16]:
+            xmin = 2.6925000000
+            xmax = 2.8125000000
+            text = "ser"
+        intervals [17]:
+            xmin = 2.8125000000
+            xmax = 2.9125000000
+            text = "ser"
+        intervals [18]:
+            xmin = 2.9125000000
+            xmax = 3.1325000000
+            text = "ser"
+        intervals [19]:
+            xmin = 3.1325000000
+            xmax = 3.2325000000
+            text = "ser"
+        intervals [20]:
+            xmin = 3.2325000000
+            xmax = 3.3125000000
+            text = "ser"
+        intervals [21]:
+            xmin = 3.3125000000
+            xmax = 3.5325000000
+            text = "ser"
+        intervals [22]:
+            xmin = 3.5325000000
+            xmax = 3.7125000000
+            text = "ser"
+        intervals [23]:
+            xmin = 3.7125000000
+            xmax = 3.9125000000
+            text = "ser"
+        intervals [24]:
+            xmin = 3.9125000000
+            xmax = 4.1525000000
+            text = "ser"
+        intervals [25]:
+            xmin = 4.1525000000
+            xmax = 4.3725000000
+            text = "ser"
+        intervals [26]:
+            xmin = 4.3725000000
+            xmax = 4.5000000000
+            text = "ser"

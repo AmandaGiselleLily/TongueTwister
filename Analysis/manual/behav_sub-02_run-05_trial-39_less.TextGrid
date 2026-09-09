@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9973696145 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 4.9973696145 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5925 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.5925 
+            xmax = 0.8125 
+            text = "less" 
+        intervals [3]:
+            xmin = 0.8125 
+            xmax = 1.0325 
+            text = "less" 
+        intervals [4]:
+            xmin = 1.0325 
+            xmax = 1.2925 
+            text = "less" 
+        intervals [5]:
+            xmin = 1.2925 
+            xmax = 1.5325 
+            text = "less" 
+        intervals [6]:
+            xmin = 1.5325 
+            xmax = 1.7760364902027737 
+            text = "less" 
+        intervals [7]:
+            xmin = 1.7760364902027737 
+            xmax = 2.019454870681839 
+            text = "less" 
+        intervals [8]:
+            xmin = 2.019454870681839 
+            xmax = 2.2525 
+            text = "less" 
+        intervals [9]:
+            xmin = 2.2525 
+            xmax = 2.5306334696878774 
+            text = "less" 
+        intervals [10]:
+            xmin = 2.5306334696878774 
+            xmax = 2.7725 
+            text = "less" 
+        intervals [11]:
+            xmin = 2.7725 
+            xmax = 3.0725 
+            text = "less" 
+        intervals [12]:
+            xmin = 3.0725 
+            xmax = 3.3525 
+            text = "less" 
+        intervals [13]:
+            xmin = 3.3525 
+            xmax = 3.586460695015825 
+            text = "less" 
+        intervals [14]:
+            xmin = 3.586460695015825 
+            xmax = 3.829879075494891 
+            text = "less" 
+        intervals [15]:
+            xmin = 3.829879075494891 
+            xmax = 4.115895672557793 
+            text = "less" 
+        intervals [16]:
+            xmin = 4.115895672557793 
+            xmax = 4.371484972060812 
+            text = "less" 
+        intervals [17]:
+            xmin = 4.371484972060812 
+            xmax = 4.6925 
+            text = "less" 
+        intervals [18]:
+            xmin = 4.6925 
+            xmax = 4.9973696145 
+            text = "silent" 

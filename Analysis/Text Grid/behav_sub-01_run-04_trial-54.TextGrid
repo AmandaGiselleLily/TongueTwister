@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.5000000000
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.5000000000
+        intervals: size = 23
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.7725000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.7725000000
+            xmax = 0.9725000000
+            text = "naw"
+        intervals [3]:
+            xmin = 0.9725000000
+            xmax = 1.1325000000
+            text = "naw"
+        intervals [4]:
+            xmin = 1.1325000000
+            xmax = 1.3125000000
+            text = "naw"
+        intervals [5]:
+            xmin = 1.3125000000
+            xmax = 1.4925000000
+            text = "naw"
+        intervals [6]:
+            xmin = 1.4925000000
+            xmax = 1.6525000000
+            text = "naw"
+        intervals [7]:
+            xmin = 1.6525000000
+            xmax = 1.8325000000
+            text = "naw"
+        intervals [8]:
+            xmin = 1.8325000000
+            xmax = 2.0125000000
+            text = "naw"
+        intervals [9]:
+            xmin = 2.0125000000
+            xmax = 2.1725000000
+            text = "naw"
+        intervals [10]:
+            xmin = 2.1725000000
+            xmax = 2.3325000000
+            text = "naw"
+        intervals [11]:
+            xmin = 2.3325000000
+            xmax = 2.4925000000
+            text = "naw"
+        intervals [12]:
+            xmin = 2.4925000000
+            xmax = 2.7125000000
+            text = "naw"
+        intervals [13]:
+            xmin = 2.7125000000
+            xmax = 2.8725000000
+            text = "naw"
+        intervals [14]:
+            xmin = 2.8725000000
+            xmax = 3.0525000000
+            text = "naw"
+        intervals [15]:
+            xmin = 3.0525000000
+            xmax = 3.2125000000
+            text = "naw"
+        intervals [16]:
+            xmin = 3.2125000000
+            xmax = 3.3925000000
+            text = "naw"
+        intervals [17]:
+            xmin = 3.3925000000
+            xmax = 3.5525000000
+            text = "naw"
+        intervals [18]:
+            xmin = 3.5525000000
+            xmax = 3.6925000000
+            text = "naw"
+        intervals [19]:
+            xmin = 3.6925000000
+            xmax = 3.8725000000
+            text = "naw"
+        intervals [20]:
+            xmin = 3.8725000000
+            xmax = 4.0525000000
+            text = "naw"
+        intervals [21]:
+            xmin = 4.0525000000
+            xmax = 4.2325000000
+            text = "naw"
+        intervals [22]:
+            xmin = 4.2325000000
+            xmax = 4.3725000000
+            text = "naw"
+        intervals [23]:
+            xmin = 4.3725000000
+            xmax = 4.5000000000
+            text = "naw"

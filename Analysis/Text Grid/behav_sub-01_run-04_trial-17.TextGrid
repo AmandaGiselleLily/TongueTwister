@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.5000000000
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.5000000000
+        intervals: size = 22
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.3725000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.3725000000
+            xmax = 0.6525000000
+            text = "thurs"
+        intervals [3]:
+            xmin = 0.6525000000
+            xmax = 0.8525000000
+            text = "thurs"
+        intervals [4]:
+            xmin = 0.8525000000
+            xmax = 1.0325000000
+            text = "thurs"
+        intervals [5]:
+            xmin = 1.0325000000
+            xmax = 1.2325000000
+            text = "thurs"
+        intervals [6]:
+            xmin = 1.2325000000
+            xmax = 1.4125000000
+            text = "thurs"
+        intervals [7]:
+            xmin = 1.4125000000
+            xmax = 1.6325000000
+            text = "thurs"
+        intervals [8]:
+            xmin = 1.6325000000
+            xmax = 1.8325000000
+            text = "thurs"
+        intervals [9]:
+            xmin = 1.8325000000
+            xmax = 2.0125000000
+            text = "thurs"
+        intervals [10]:
+            xmin = 2.0125000000
+            xmax = 2.2125000000
+            text = "thurs"
+        intervals [11]:
+            xmin = 2.2125000000
+            xmax = 2.4125000000
+            text = "thurs"
+        intervals [12]:
+            xmin = 2.4125000000
+            xmax = 2.5725000000
+            text = "thurs"
+        intervals [13]:
+            xmin = 2.5725000000
+            xmax = 2.7725000000
+            text = "thurs"
+        intervals [14]:
+            xmin = 2.7725000000
+            xmax = 3.0325000000
+            text = "thurs"
+        intervals [15]:
+            xmin = 3.0325000000
+            xmax = 3.2125000000
+            text = "thurs"
+        intervals [16]:
+            xmin = 3.2125000000
+            xmax = 3.4325000000
+            text = "thurs"
+        intervals [17]:
+            xmin = 3.4325000000
+            xmax = 3.6325000000
+            text = "thurs"
+        intervals [18]:
+            xmin = 3.6325000000
+            xmax = 3.8125000000
+            text = "thurs"
+        intervals [19]:
+            xmin = 3.8125000000
+            xmax = 4.0325000000
+            text = "thurs"
+        intervals [20]:
+            xmin = 4.0325000000
+            xmax = 4.2525000000
+            text = "thurs"
+        intervals [21]:
+            xmin = 4.2525000000
+            xmax = 4.4525000000
+            text = "thurs"
+        intervals [22]:
+            xmin = 4.4525000000
+            xmax = 4.5000000000
+            text = "silent"

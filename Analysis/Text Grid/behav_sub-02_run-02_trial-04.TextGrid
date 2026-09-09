@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9716099773
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9716099773
+        intervals: size = 19
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.4725000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.4725000000
+            xmax = 0.6925000000
+            text = "how"
+        intervals [3]:
+            xmin = 0.6925000000
+            xmax = 0.9325000000
+            text = "how"
+        intervals [4]:
+            xmin = 0.9325000000
+            xmax = 1.1725000000
+            text = "how"
+        intervals [5]:
+            xmin = 1.1725000000
+            xmax = 1.3925000000
+            text = "how"
+        intervals [6]:
+            xmin = 1.3925000000
+            xmax = 1.6525000000
+            text = "how"
+        intervals [7]:
+            xmin = 1.6525000000
+            xmax = 1.9125000000
+            text = "how"
+        intervals [8]:
+            xmin = 1.9125000000
+            xmax = 2.1525000000
+            text = "how"
+        intervals [9]:
+            xmin = 2.1525000000
+            xmax = 2.3925000000
+            text = "how"
+        intervals [10]:
+            xmin = 2.3925000000
+            xmax = 2.6525000000
+            text = "how"
+        intervals [11]:
+            xmin = 2.6525000000
+            xmax = 2.8925000000
+            text = "how"
+        intervals [12]:
+            xmin = 2.8925000000
+            xmax = 3.1325000000
+            text = "how"
+        intervals [13]:
+            xmin = 3.1325000000
+            xmax = 3.4125000000
+            text = "how"
+        intervals [14]:
+            xmin = 3.4125000000
+            xmax = 3.6525000000
+            text = "how"
+        intervals [15]:
+            xmin = 3.6525000000
+            xmax = 3.8925000000
+            text = "how"
+        intervals [16]:
+            xmin = 3.8925000000
+            xmax = 4.1725000000
+            text = "how"
+        intervals [17]:
+            xmin = 4.1725000000
+            xmax = 4.4125000000
+            text = "how"
+        intervals [18]:
+            xmin = 4.4125000000
+            xmax = 4.6525000000
+            text = "how"
+        intervals [19]:
+            xmin = 4.6525000000
+            xmax = 4.9716099773
+            text = "silent"

@@ -31,7 +31,14 @@ def save_data(output_file, output_data):
     Appends trial data to a specified output file in tab-delimited format.
 
     """
-    output_data.to_csv(output_file, mode='a', header=True, index=False, sep='\t')
+    from pathlib import Path
+
+    if output_file.exists():
+        output_data.to_csv(output_file, mode='a', header=False, index=False, sep='\t')
+    else:
+        output_data.to_csv(output_file, mode='a', header=True, index=False, sep='\t')
+
+    #output_data.to_csv(output_file, mode='a', header=True, index=False, sep='\t')
 
 
 # -----------

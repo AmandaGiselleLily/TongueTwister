@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9973696145
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9973696145
+        intervals: size = 15
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.8325000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.8325000000
+            xmax = 1.1725000000
+            text = "throne"
+        intervals [3]:
+            xmin = 1.1725000000
+            xmax = 1.5525000000
+            text = "throne"
+        intervals [4]:
+            xmin = 1.5525000000
+            xmax = 1.9725000000
+            text = "throne"
+        intervals [5]:
+            xmin = 1.9725000000
+            xmax = 2.2925000000
+            text = "throne"
+        intervals [6]:
+            xmin = 2.2925000000
+            xmax = 2.6525000000
+            text = "throne"
+        intervals [7]:
+            xmin = 2.6525000000
+            xmax = 3.0125000000
+            text = "throne"
+        intervals [8]:
+            xmin = 3.0125000000
+            xmax = 3.4525000000
+            text = "throne"
+        intervals [9]:
+            xmin = 3.4525000000
+            xmax = 3.5525000000
+            text = "silent"
+        intervals [10]:
+            xmin = 3.5525000000
+            xmax = 3.9525000000
+            text = "throne"
+        intervals [11]:
+            xmin = 3.9525000000
+            xmax = 4.0725000000
+            text = "silent"
+        intervals [12]:
+            xmin = 4.0725000000
+            xmax = 4.4725000000
+            text = "throne"
+        intervals [13]:
+            xmin = 4.4725000000
+            xmax = 4.5925000000
+            text = "silent"
+        intervals [14]:
+            xmin = 4.5925000000
+            xmax = 4.9325000000
+            text = "throne"
+        intervals [15]:
+            xmin = 4.9325000000
+            xmax = 4.9973696145
+            text = "silent"

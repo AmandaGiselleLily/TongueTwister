@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9973696145
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9973696145
+        intervals: size = 15
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.6325000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.6325000000
+            xmax = 0.9325000000
+            text = "imah"
+        intervals [3]:
+            xmin = 0.9325000000
+            xmax = 1.2325000000
+            text = "imah"
+        intervals [4]:
+            xmin = 1.2325000000
+            xmax = 1.5325000000
+            text = "imah"
+        intervals [5]:
+            xmin = 1.5325000000
+            xmax = 1.8325000000
+            text = "imah"
+        intervals [6]:
+            xmin = 1.8325000000
+            xmax = 2.1725000000
+            text = "imah"
+        intervals [7]:
+            xmin = 2.1725000000
+            xmax = 2.4525000000
+            text = "imah"
+        intervals [8]:
+            xmin = 2.4525000000
+            xmax = 2.7125000000
+            text = "imah"
+        intervals [9]:
+            xmin = 2.7125000000
+            xmax = 3.0525000000
+            text = "imah"
+        intervals [10]:
+            xmin = 3.0525000000
+            xmax = 3.3125000000
+            text = "imah"
+        intervals [11]:
+            xmin = 3.3125000000
+            xmax = 3.6525000000
+            text = "imah"
+        intervals [12]:
+            xmin = 3.6525000000
+            xmax = 3.9325000000
+            text = "imah"
+        intervals [13]:
+            xmin = 3.9325000000
+            xmax = 4.2725000000
+            text = "imah"
+        intervals [14]:
+            xmin = 4.2725000000
+            xmax = 4.4925000000
+            text = "imah"
+        intervals [15]:
+            xmin = 4.4925000000
+            xmax = 4.9973696145
+            text = "silent"
