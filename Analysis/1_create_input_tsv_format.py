@@ -150,7 +150,7 @@ def create_input_tsv_for_subject(
     #
     # behav_sub-01_run-03_trial-18.wav
     wav_pattern = re.compile(
-        r"^behav_(sub-\d+)_run-(\d+)_trial-(\d+)\.wav$", re.IGNORECASE)
+        r"^(sub-\d+)_run-(\d+)_trial-(\d+)\.wav$", re.IGNORECASE)
 
     rows = []
 
