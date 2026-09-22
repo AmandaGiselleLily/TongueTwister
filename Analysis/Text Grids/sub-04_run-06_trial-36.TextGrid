@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9716099773
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9716099773
+        intervals: size = 16
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.4725000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.4725000000
+            xmax = 0.6725000000
+            text = "naw"
+        intervals [3]:
+            xmin = 0.6725000000
+            xmax = 0.9125000000
+            text = "naw"
+        intervals [4]:
+            xmin = 0.9125000000
+            xmax = 1.1525000000
+            text = "naw"
+        intervals [5]:
+            xmin = 1.1525000000
+            xmax = 1.4125000000
+            text = "naw"
+        intervals [6]:
+            xmin = 1.4125000000
+            xmax = 1.6925000000
+            text = "naw"
+        intervals [7]:
+            xmin = 1.6925000000
+            xmax = 1.9725000000
+            text = "naw"
+        intervals [8]:
+            xmin = 1.9725000000
+            xmax = 2.2525000000
+            text = "naw"
+        intervals [9]:
+            xmin = 2.2525000000
+            xmax = 2.5325000000
+            text = "naw"
+        intervals [10]:
+            xmin = 2.5325000000
+            xmax = 2.8325000000
+            text = "naw"
+        intervals [11]:
+            xmin = 2.8325000000
+            xmax = 3.0925000000
+            text = "naw"
+        intervals [12]:
+            xmin = 3.0925000000
+            xmax = 3.3725000000
+            text = "naw"
+        intervals [13]:
+            xmin = 3.3725000000
+            xmax = 3.6525000000
+            text = "naw"
+        intervals [14]:
+            xmin = 3.6525000000
+            xmax = 3.9325000000
+            text = "naw"
+        intervals [15]:
+            xmin = 3.9325000000
+            xmax = 4.2325000000
+            text = "naw"
+        intervals [16]:
+            xmin = 4.2325000000
+            xmax = 4.9716099773
+            text = "silent"

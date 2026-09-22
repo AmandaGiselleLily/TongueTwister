@@ -1,0 +1,94 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9716099773
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9716099773
+        intervals: size = 20
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.3925000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.3925000000
+            xmax = 0.6125000000
+            text = "thought"
+        intervals [3]:
+            xmin = 0.6125000000
+            xmax = 0.8525000000
+            text = "thought"
+        intervals [4]:
+            xmin = 0.8525000000
+            xmax = 1.0925000000
+            text = "thought"
+        intervals [5]:
+            xmin = 1.0925000000
+            xmax = 1.2925000000
+            text = "thought"
+        intervals [6]:
+            xmin = 1.2925000000
+            xmax = 1.5325000000
+            text = "thought"
+        intervals [7]:
+            xmin = 1.5325000000
+            xmax = 1.7725000000
+            text = "thought"
+        intervals [8]:
+            xmin = 1.7725000000
+            xmax = 2.0125000000
+            text = "thought"
+        intervals [9]:
+            xmin = 2.0125000000
+            xmax = 2.2525000000
+            text = "thought"
+        intervals [10]:
+            xmin = 2.2525000000
+            xmax = 2.4925000000
+            text = "thought"
+        intervals [11]:
+            xmin = 2.4925000000
+            xmax = 2.6925000000
+            text = "thought"
+        intervals [12]:
+            xmin = 2.6925000000
+            xmax = 2.9325000000
+            text = "thought"
+        intervals [13]:
+            xmin = 2.9325000000
+            xmax = 3.1725000000
+            text = "thought"
+        intervals [14]:
+            xmin = 3.1725000000
+            xmax = 3.4125000000
+            text = "thought"
+        intervals [15]:
+            xmin = 3.4125000000
+            xmax = 3.6525000000
+            text = "thought"
+        intervals [16]:
+            xmin = 3.6525000000
+            xmax = 3.9125000000
+            text = "thought"
+        intervals [17]:
+            xmin = 3.9125000000
+            xmax = 4.0525000000
+            text = "thought"
+        intervals [18]:
+            xmin = 4.0525000000
+            xmax = 4.1525000000
+            text = "silent"
+        intervals [19]:
+            xmin = 4.1525000000
+            xmax = 4.3125000000
+            text = "thought"
+        intervals [20]:
+            xmin = 4.3125000000
+            xmax = 4.9716099773
+            text = "silent"

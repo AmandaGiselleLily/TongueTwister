@@ -1,0 +1,94 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9716099773
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9716099773
+        intervals: size = 20
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.2925000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.2925000000
+            xmax = 0.6125000000
+            text = "fee"
+        intervals [3]:
+            xmin = 0.6125000000
+            xmax = 0.8725000000
+            text = "fee"
+        intervals [4]:
+            xmin = 0.8725000000
+            xmax = 1.1325000000
+            text = "fee"
+        intervals [5]:
+            xmin = 1.1325000000
+            xmax = 1.3725000000
+            text = "fee"
+        intervals [6]:
+            xmin = 1.3725000000
+            xmax = 1.6125000000
+            text = "fee"
+        intervals [7]:
+            xmin = 1.6125000000
+            xmax = 1.8725000000
+            text = "fee"
+        intervals [8]:
+            xmin = 1.8725000000
+            xmax = 2.1125000000
+            text = "fee"
+        intervals [9]:
+            xmin = 2.1125000000
+            xmax = 2.3525000000
+            text = "fee"
+        intervals [10]:
+            xmin = 2.3525000000
+            xmax = 2.5925000000
+            text = "fee"
+        intervals [11]:
+            xmin = 2.5925000000
+            xmax = 2.8125000000
+            text = "fee"
+        intervals [12]:
+            xmin = 2.8125000000
+            xmax = 3.0725000000
+            text = "fee"
+        intervals [13]:
+            xmin = 3.0725000000
+            xmax = 3.2925000000
+            text = "fee"
+        intervals [14]:
+            xmin = 3.2925000000
+            xmax = 3.5125000000
+            text = "fee"
+        intervals [15]:
+            xmin = 3.5125000000
+            xmax = 3.7325000000
+            text = "fee"
+        intervals [16]:
+            xmin = 3.7325000000
+            xmax = 3.9325000000
+            text = "fee"
+        intervals [17]:
+            xmin = 3.9325000000
+            xmax = 4.1725000000
+            text = "fee"
+        intervals [18]:
+            xmin = 4.1725000000
+            xmax = 4.3725000000
+            text = "fee"
+        intervals [19]:
+            xmin = 4.3725000000
+            xmax = 4.5325000000
+            text = "fee"
+        intervals [20]:
+            xmin = 4.5325000000
+            xmax = 4.9716099773
+            text = "silent"

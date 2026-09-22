@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9716099773
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9716099773
+        intervals: size = 27
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.2925000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.2925000000
+            xmax = 0.5725000000
+            text = "neh"
+        intervals [3]:
+            xmin = 0.5725000000
+            xmax = 0.7125000000
+            text = "neh"
+        intervals [4]:
+            xmin = 0.7125000000
+            xmax = 0.8525000000
+            text = "neh"
+        intervals [5]:
+            xmin = 0.8525000000
+            xmax = 0.9925000000
+            text = "neh"
+        intervals [6]:
+            xmin = 0.9925000000
+            xmax = 1.1325000000
+            text = "neh"
+        intervals [7]:
+            xmin = 1.1325000000
+            xmax = 1.2725000000
+            text = "neh"
+        intervals [8]:
+            xmin = 1.2725000000
+            xmax = 1.4325000000
+            text = "neh"
+        intervals [9]:
+            xmin = 1.4325000000
+            xmax = 1.5725000000
+            text = "neh"
+        intervals [10]:
+            xmin = 1.5725000000
+            xmax = 1.7325000000
+            text = "neh"
+        intervals [11]:
+            xmin = 1.7325000000
+            xmax = 1.8725000000
+            text = "neh"
+        intervals [12]:
+            xmin = 1.8725000000
+            xmax = 2.0325000000
+            text = "neh"
+        intervals [13]:
+            xmin = 2.0325000000
+            xmax = 2.1925000000
+            text = "neh"
+        intervals [14]:
+            xmin = 2.1925000000
+            xmax = 2.3725000000
+            text = "neh"
+        intervals [15]:
+            xmin = 2.3725000000
+            xmax = 2.5125000000
+            text = "neh"
+        intervals [16]:
+            xmin = 2.5125000000
+            xmax = 2.6525000000
+            text = "neh"
+        intervals [17]:
+            xmin = 2.6525000000
+            xmax = 2.8125000000
+            text = "neh"
+        intervals [18]:
+            xmin = 2.8125000000
+            xmax = 2.9725000000
+            text = "neh"
+        intervals [19]:
+            xmin = 2.9725000000
+            xmax = 3.1325000000
+            text = "neh"
+        intervals [20]:
+            xmin = 3.1325000000
+            xmax = 3.2925000000
+            text = "neh"
+        intervals [21]:
+            xmin = 3.2925000000
+            xmax = 3.4525000000
+            text = "neh"
+        intervals [22]:
+            xmin = 3.4525000000
+            xmax = 3.6325000000
+            text = "neh"
+        intervals [23]:
+            xmin = 3.6325000000
+            xmax = 3.8125000000
+            text = "neh"
+        intervals [24]:
+            xmin = 3.8125000000
+            xmax = 3.9725000000
+            text = "neh"
+        intervals [25]:
+            xmin = 3.9725000000
+            xmax = 4.1525000000
+            text = "neh"
+        intervals [26]:
+            xmin = 4.1525000000
+            xmax = 4.4125000000
+            text = "neh"
+        intervals [27]:
+            xmin = 4.4125000000
+            xmax = 4.9716099773
+            text = "silent"

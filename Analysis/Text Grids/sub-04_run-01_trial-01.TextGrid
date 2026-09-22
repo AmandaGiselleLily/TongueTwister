@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9973696145
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9973696145
+        intervals: size = 18
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.7325000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.7325000000
+            xmax = 0.9925000000
+            text = "much"
+        intervals [3]:
+            xmin = 0.9925000000
+            xmax = 1.1325000000
+            text = "much"
+        intervals [4]:
+            xmin = 1.1325000000
+            xmax = 1.3725000000
+            text = "much"
+        intervals [5]:
+            xmin = 1.3725000000
+            xmax = 1.5125000000
+            text = "silent"
+        intervals [6]:
+            xmin = 1.5125000000
+            xmax = 1.7725000000
+            text = "much"
+        intervals [7]:
+            xmin = 1.7725000000
+            xmax = 2.0125000000
+            text = "much"
+        intervals [8]:
+            xmin = 2.0125000000
+            xmax = 2.2725000000
+            text = "much"
+        intervals [9]:
+            xmin = 2.2725000000
+            xmax = 2.5725000000
+            text = "much"
+        intervals [10]:
+            xmin = 2.5725000000
+            xmax = 2.7325000000
+            text = "much"
+        intervals [11]:
+            xmin = 2.7325000000
+            xmax = 2.9325000000
+            text = "much"
+        intervals [12]:
+            xmin = 2.9325000000
+            xmax = 3.1525000000
+            text = "much"
+        intervals [13]:
+            xmin = 3.1525000000
+            xmax = 3.1925000000
+            text = "silent"
+        intervals [14]:
+            xmin = 3.1925000000
+            xmax = 3.5125000000
+            text = "much"
+        intervals [15]:
+            xmin = 3.5125000000
+            xmax = 3.8125000000
+            text = "much"
+        intervals [16]:
+            xmin = 3.8125000000
+            xmax = 4.1525000000
+            text = "much"
+        intervals [17]:
+            xmin = 4.1525000000
+            xmax = 4.4525000000
+            text = "much"
+        intervals [18]:
+            xmin = 4.4525000000
+            xmax = 4.9973696145
+            text = "silent"

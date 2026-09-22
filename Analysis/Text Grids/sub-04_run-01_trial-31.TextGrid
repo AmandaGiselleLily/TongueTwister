@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9716099773
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9716099773
+        intervals: size = 19
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.4525000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.4525000000
+            xmax = 0.7125000000
+            text = "mih"
+        intervals [3]:
+            xmin = 0.7125000000
+            xmax = 1.0525000000
+            text = "mih"
+        intervals [4]:
+            xmin = 1.0525000000
+            xmax = 1.2725000000
+            text = "mih"
+        intervals [5]:
+            xmin = 1.2725000000
+            xmax = 1.5725000000
+            text = "mih"
+        intervals [6]:
+            xmin = 1.5725000000
+            xmax = 1.9325000000
+            text = "mih"
+        intervals [7]:
+            xmin = 1.9325000000
+            xmax = 2.2525000000
+            text = "mih"
+        intervals [8]:
+            xmin = 2.2525000000
+            xmax = 2.4125000000
+            text = "mih"
+        intervals [9]:
+            xmin = 2.4125000000
+            xmax = 2.7325000000
+            text = "mih"
+        intervals [10]:
+            xmin = 2.7325000000
+            xmax = 2.8525000000
+            text = "silent"
+        intervals [11]:
+            xmin = 2.8525000000
+            xmax = 3.0525000000
+            text = "mih"
+        intervals [12]:
+            xmin = 3.0525000000
+            xmax = 3.1525000000
+            text = "silent"
+        intervals [13]:
+            xmin = 3.1525000000
+            xmax = 3.3725000000
+            text = "mih"
+        intervals [14]:
+            xmin = 3.3725000000
+            xmax = 3.6525000000
+            text = "mih"
+        intervals [15]:
+            xmin = 3.6525000000
+            xmax = 3.7325000000
+            text = "silent"
+        intervals [16]:
+            xmin = 3.7325000000
+            xmax = 3.9525000000
+            text = "mih"
+        intervals [17]:
+            xmin = 3.9525000000
+            xmax = 4.2325000000
+            text = "mih"
+        intervals [18]:
+            xmin = 4.2325000000
+            xmax = 4.3725000000
+            text = "mih"
+        intervals [19]:
+            xmin = 4.3725000000
+            xmax = 4.9716099773
+            text = "silent"

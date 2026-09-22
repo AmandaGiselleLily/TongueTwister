@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9716099773
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9716099773
+        intervals: size = 21
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.3725000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.3725000000
+            xmax = 0.5525000000
+            text = "a"
+        intervals [3]:
+            xmin = 0.5525000000
+            xmax = 0.5925000000
+            text = "silent"
+        intervals [4]:
+            xmin = 0.5925000000
+            xmax = 0.8325000000
+            text = "a"
+        intervals [5]:
+            xmin = 0.8325000000
+            xmax = 0.9325000000
+            text = "silent"
+        intervals [6]:
+            xmin = 0.9325000000
+            xmax = 1.1725000000
+            text = "a"
+        intervals [7]:
+            xmin = 1.1725000000
+            xmax = 1.3925000000
+            text = "a"
+        intervals [8]:
+            xmin = 1.3925000000
+            xmax = 1.5725000000
+            text = "a"
+        intervals [9]:
+            xmin = 1.5725000000
+            xmax = 1.8925000000
+            text = "a"
+        intervals [10]:
+            xmin = 1.8925000000
+            xmax = 1.9525000000
+            text = "silent"
+        intervals [11]:
+            xmin = 1.9525000000
+            xmax = 2.1525000000
+            text = "a"
+        intervals [12]:
+            xmin = 2.1525000000
+            xmax = 2.2525000000
+            text = "silent"
+        intervals [13]:
+            xmin = 2.2525000000
+            xmax = 2.4925000000
+            text = "a"
+        intervals [14]:
+            xmin = 2.4925000000
+            xmax = 2.7725000000
+            text = "a"
+        intervals [15]:
+            xmin = 2.7725000000
+            xmax = 2.8925000000
+            text = "silent"
+        intervals [16]:
+            xmin = 2.8925000000
+            xmax = 3.2325000000
+            text = "a"
+        intervals [17]:
+            xmin = 3.2325000000
+            xmax = 3.3125000000
+            text = "silent"
+        intervals [18]:
+            xmin = 3.3125000000
+            xmax = 3.6125000000
+            text = "a"
+        intervals [19]:
+            xmin = 3.6125000000
+            xmax = 3.9525000000
+            text = "a"
+        intervals [20]:
+            xmin = 3.9525000000
+            xmax = 4.3125000000
+            text = "a"
+        intervals [21]:
+            xmin = 4.3125000000
+            xmax = 4.9716099773
+            text = "silent"

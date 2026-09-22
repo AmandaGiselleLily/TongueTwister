@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9716099773
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9716099773
+        intervals: size = 18
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.4925000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.4925000000
+            xmax = 0.7125000000
+            text = "ver"
+        intervals [3]:
+            xmin = 0.7125000000
+            xmax = 0.9925000000
+            text = "ver"
+        intervals [4]:
+            xmin = 0.9925000000
+            xmax = 1.2525000000
+            text = "ver"
+        intervals [5]:
+            xmin = 1.2525000000
+            xmax = 1.5325000000
+            text = "ver"
+        intervals [6]:
+            xmin = 1.5325000000
+            xmax = 1.8125000000
+            text = "ver"
+        intervals [7]:
+            xmin = 1.8125000000
+            xmax = 2.0925000000
+            text = "ver"
+        intervals [8]:
+            xmin = 2.0925000000
+            xmax = 2.1925000000
+            text = "ver"
+        intervals [9]:
+            xmin = 2.1925000000
+            xmax = 2.3925000000
+            text = "ver"
+        intervals [10]:
+            xmin = 2.3925000000
+            xmax = 2.7325000000
+            text = "ver"
+        intervals [11]:
+            xmin = 2.7325000000
+            xmax = 2.9725000000
+            text = "ver"
+        intervals [12]:
+            xmin = 2.9725000000
+            xmax = 3.2725000000
+            text = "ver"
+        intervals [13]:
+            xmin = 3.2725000000
+            xmax = 3.5125000000
+            text = "ver"
+        intervals [14]:
+            xmin = 3.5125000000
+            xmax = 3.6325000000
+            text = "ver"
+        intervals [15]:
+            xmin = 3.6325000000
+            xmax = 3.9725000000
+            text = "ver"
+        intervals [16]:
+            xmin = 3.9725000000
+            xmax = 4.2325000000
+            text = "ver"
+        intervals [17]:
+            xmin = 4.2325000000
+            xmax = 4.9716000000
+            text = "ver"
+        intervals [18]:
+            xmin = 4.9716000000
+            xmax = 4.9716099773
+            text = "silent"

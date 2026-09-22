@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9973696145
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9973696145
+        intervals: size = 19
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.1125000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.1125000000
+            xmax = 0.4125000000
+            text = "leh"
+        intervals [3]:
+            xmin = 0.4125000000
+            xmax = 0.7125000000
+            text = "leh"
+        intervals [4]:
+            xmin = 0.7125000000
+            xmax = 0.9925000000
+            text = "leh"
+        intervals [5]:
+            xmin = 0.9925000000
+            xmax = 1.3525000000
+            text = "leh"
+        intervals [6]:
+            xmin = 1.3525000000
+            xmax = 1.6125000000
+            text = "leh"
+        intervals [7]:
+            xmin = 1.6125000000
+            xmax = 1.8725000000
+            text = "leh"
+        intervals [8]:
+            xmin = 1.8725000000
+            xmax = 2.1725000000
+            text = "leh"
+        intervals [9]:
+            xmin = 2.1725000000
+            xmax = 2.4325000000
+            text = "leh"
+        intervals [10]:
+            xmin = 2.4325000000
+            xmax = 2.6925000000
+            text = "leh"
+        intervals [11]:
+            xmin = 2.6925000000
+            xmax = 3.0125000000
+            text = "leh"
+        intervals [12]:
+            xmin = 3.0125000000
+            xmax = 3.2525000000
+            text = "leh"
+        intervals [13]:
+            xmin = 3.2525000000
+            xmax = 3.5325000000
+            text = "leh"
+        intervals [14]:
+            xmin = 3.5325000000
+            xmax = 3.8125000000
+            text = "leh"
+        intervals [15]:
+            xmin = 3.8125000000
+            xmax = 4.0125000000
+            text = "leh"
+        intervals [16]:
+            xmin = 4.0125000000
+            xmax = 4.1725000000
+            text = "leh"
+        intervals [17]:
+            xmin = 4.1725000000
+            xmax = 4.3325000000
+            text = "leh"
+        intervals [18]:
+            xmin = 4.3325000000
+            xmax = 4.5525000000
+            text = "leh"
+        intervals [19]:
+            xmin = 4.5525000000
+            xmax = 4.9973696145
+            text = "silent"

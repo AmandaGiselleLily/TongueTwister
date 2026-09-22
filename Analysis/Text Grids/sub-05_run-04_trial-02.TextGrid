@@ -1,0 +1,198 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9973696145
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9973696145
+        intervals: size = 46
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.3125000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.3125000000
+            xmax = 0.4325000000
+            text = "peck"
+        intervals [3]:
+            xmin = 0.4325000000
+            xmax = 0.5325000000
+            text = "silent"
+        intervals [4]:
+            xmin = 0.5325000000
+            xmax = 0.6525000000
+            text = "peck"
+        intervals [5]:
+            xmin = 0.6525000000
+            xmax = 0.7125000000
+            text = "silent"
+        intervals [6]:
+            xmin = 0.7125000000
+            xmax = 0.8125000000
+            text = "peck"
+        intervals [7]:
+            xmin = 0.8125000000
+            xmax = 0.8725000000
+            text = "silent"
+        intervals [8]:
+            xmin = 0.8725000000
+            xmax = 0.9725000000
+            text = "peck"
+        intervals [9]:
+            xmin = 0.9725000000
+            xmax = 1.0525000000
+            text = "silent"
+        intervals [10]:
+            xmin = 1.0525000000
+            xmax = 1.1525000000
+            text = "peck"
+        intervals [11]:
+            xmin = 1.1525000000
+            xmax = 1.2325000000
+            text = "silent"
+        intervals [12]:
+            xmin = 1.2325000000
+            xmax = 1.3125000000
+            text = "peck"
+        intervals [13]:
+            xmin = 1.3125000000
+            xmax = 1.3925000000
+            text = "silent"
+        intervals [14]:
+            xmin = 1.3925000000
+            xmax = 1.4925000000
+            text = "peck"
+        intervals [15]:
+            xmin = 1.4925000000
+            xmax = 1.5525000000
+            text = "silent"
+        intervals [16]:
+            xmin = 1.5525000000
+            xmax = 1.6525000000
+            text = "peck"
+        intervals [17]:
+            xmin = 1.6525000000
+            xmax = 1.7325000000
+            text = "silent"
+        intervals [18]:
+            xmin = 1.7325000000
+            xmax = 1.8325000000
+            text = "peck"
+        intervals [19]:
+            xmin = 1.8325000000
+            xmax = 1.8925000000
+            text = "silent"
+        intervals [20]:
+            xmin = 1.8925000000
+            xmax = 1.9925000000
+            text = "peck"
+        intervals [21]:
+            xmin = 1.9925000000
+            xmax = 2.0725000000
+            text = "silent"
+        intervals [22]:
+            xmin = 2.0725000000
+            xmax = 2.2125000000
+            text = "peck"
+        intervals [23]:
+            xmin = 2.2125000000
+            xmax = 2.3525000000
+            text = "peck"
+        intervals [24]:
+            xmin = 2.3525000000
+            xmax = 2.4125000000
+            text = "silent"
+        intervals [25]:
+            xmin = 2.4125000000
+            xmax = 2.5125000000
+            text = "peck"
+        intervals [26]:
+            xmin = 2.5125000000
+            xmax = 2.5725000000
+            text = "silent"
+        intervals [27]:
+            xmin = 2.5725000000
+            xmax = 2.6925000000
+            text = "peck"
+        intervals [28]:
+            xmin = 2.6925000000
+            xmax = 2.7525000000
+            text = "silent"
+        intervals [29]:
+            xmin = 2.7525000000
+            xmax = 2.8525000000
+            text = "peck"
+        intervals [30]:
+            xmin = 2.8525000000
+            xmax = 2.9325000000
+            text = "silent"
+        intervals [31]:
+            xmin = 2.9325000000
+            xmax = 3.0325000000
+            text = "peck"
+        intervals [32]:
+            xmin = 3.0325000000
+            xmax = 3.1125000000
+            text = "silent"
+        intervals [33]:
+            xmin = 3.1125000000
+            xmax = 3.2125000000
+            text = "peck"
+        intervals [34]:
+            xmin = 3.2125000000
+            xmax = 3.2925000000
+            text = "silent"
+        intervals [35]:
+            xmin = 3.2925000000
+            xmax = 3.3725000000
+            text = "peck"
+        intervals [36]:
+            xmin = 3.3725000000
+            xmax = 3.4525000000
+            text = "silent"
+        intervals [37]:
+            xmin = 3.4525000000
+            xmax = 3.5725000000
+            text = "peck"
+        intervals [38]:
+            xmin = 3.5725000000
+            xmax = 3.6325000000
+            text = "silent"
+        intervals [39]:
+            xmin = 3.6325000000
+            xmax = 3.7525000000
+            text = "peck"
+        intervals [40]:
+            xmin = 3.7525000000
+            xmax = 3.8125000000
+            text = "silent"
+        intervals [41]:
+            xmin = 3.8125000000
+            xmax = 3.9725000000
+            text = "peck"
+        intervals [42]:
+            xmin = 3.9725000000
+            xmax = 4.1325000000
+            text = "peck"
+        intervals [43]:
+            xmin = 4.1325000000
+            xmax = 4.1725000000
+            text = "silent"
+        intervals [44]:
+            xmin = 4.1725000000
+            xmax = 4.3325000000
+            text = "peck"
+        intervals [45]:
+            xmin = 4.3325000000
+            xmax = 4.4725000000
+            text = "peck"
+        intervals [46]:
+            xmin = 4.4725000000
+            xmax = 4.9973696145
+            text = "silent"
