@@ -1,0 +1,154 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9716099773 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 4.9716099773 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2125 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.2125 
+            xmax = 0.3525 
+            text = "picked" 
+        intervals [3]:
+            xmin = 0.3525 
+            xmax = 0.4125 
+            text = "silent" 
+        intervals [4]:
+            xmin = 0.4125 
+            xmax = 0.5525 
+            text = "picked" 
+        intervals [5]:
+            xmin = 0.5525 
+            xmax = 0.6525 
+            text = "silent" 
+        intervals [6]:
+            xmin = 0.6525 
+            xmax = 0.7437402562198406 
+            text = "picked" 
+        intervals [7]:
+            xmin = 0.7437402562198406 
+            xmax = 0.8925 
+            text = "	" 
+        intervals [8]:
+            xmin = 0.8925 
+            xmax = 1.0525 
+            text = "picked		" 
+        intervals [9]:
+            xmin = 1.0525 
+            xmax = 1.1725 
+            text = "silent" 
+        intervals [10]:
+            xmin = 1.1725 
+            xmax = 1.3125 
+            text = "picked" 
+        intervals [11]:
+            xmin = 1.3125 
+            xmax = 1.4125 
+            text = "silent" 
+        intervals [12]:
+            xmin = 1.4125 
+            xmax = 1.5525 
+            text = "picked" 
+        intervals [13]:
+            xmin = 1.5525 
+            xmax = 1.6725 
+            text = "silent" 
+        intervals [14]:
+            xmin = 1.6725 
+            xmax = 1.8125 
+            text = "picked" 
+        intervals [15]:
+            xmin = 1.8125 
+            xmax = 1.9125 
+            text = "silent" 
+        intervals [16]:
+            xmin = 1.9125 
+            xmax = 2.0525 
+            text = "picked" 
+        intervals [17]:
+            xmin = 2.0525 
+            xmax = 2.1525 
+            text = "silent" 
+        intervals [18]:
+            xmin = 2.1525 
+            xmax = 2.2572630472104223 
+            text = "picked" 
+        intervals [19]:
+            xmin = 2.2572630472104223 
+            xmax = 2.3925 
+            text = "silent" 
+        intervals [20]:
+            xmin = 2.3925 
+            xmax = 2.469156237949104 
+            text = "picked" 
+        intervals [21]:
+            xmin = 2.469156237949104 
+            xmax = 2.623535562630143 
+            text = "silent" 
+        intervals [22]:
+            xmin = 2.623535562630143 
+            xmax = 2.7658067049832575 
+            text = "picked" 
+        intervals [23]:
+            xmin = 2.7658067049832575 
+            xmax = 2.9050508017543915 
+            text = "silent" 
+        intervals [24]:
+            xmin = 2.9050508017543915 
+            xmax = 3.0325 
+            text = "picked" 
+        intervals [25]:
+            xmin = 3.0325 
+            xmax = 3.1325 
+            text = "silent" 
+        intervals [26]:
+            xmin = 3.1325 
+            xmax = 3.3325 
+            text = "picked" 
+        intervals [27]:
+            xmin = 3.3325 
+            xmax = 3.3925 
+            text = "silent" 
+        intervals [28]:
+            xmin = 3.3925 
+            xmax = 3.5725 
+            text = "picked" 
+        intervals [29]:
+            xmin = 3.5725 
+            xmax = 3.6325 
+            text = "silent" 
+        intervals [30]:
+            xmin = 3.6325 
+            xmax = 3.7925 
+            text = "picked" 
+        intervals [31]:
+            xmin = 3.7925 
+            xmax = 3.8725 
+            text = "silent" 
+        intervals [32]:
+            xmin = 3.8725 
+            xmax = 4.0325 
+            text = "picked" 
+        intervals [33]:
+            xmin = 4.0325 
+            xmax = 4.1125 
+            text = "silent" 
+        intervals [34]:
+            xmin = 4.1125 
+            xmax = 4.2125 
+            text = "picked" 
+        intervals [35]:
+            xmin = 4.2125 
+            xmax = 4.9716099773 
+            text = "silent" 

@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9716099773 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 4.9716099773 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2836293277587038 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.2836293277587038 
+            xmax = 0.5257929743171968 
+            text = "thieves" 
+        intervals [3]:
+            xmin = 0.5257929743171968 
+            xmax = 0.7800648032036146 
+            text = "thieves" 
+        intervals [4]:
+            xmin = 0.7800648032036146 
+            xmax = 1.0343366320900322 
+            text = "thieves" 
+        intervals [5]:
+            xmin = 1.0343366320900322 
+            xmax = 1.3188789167962616 
+            text = "thieves" 
+        intervals [6]:
+            xmin = 1.3188789167962616 
+            xmax = 1.7759627996754173 
+            text = "thieves" 
+        intervals [7]:
+            xmin = 1.7759627996754173 
+            xmax = 2.19974918115278 
+            text = "thieves" 
+        intervals [8]:
+            xmin = 2.19974918115278 
+            xmax = 2.4725 
+            text = "thieves" 
+        intervals [9]:
+            xmin = 2.4725 
+            xmax = 2.5725 
+            text = "silent" 
+        intervals [10]:
+            xmin = 2.5725 
+            xmax = 2.8868885282625043 
+            text = "thieves" 
+        intervals [11]:
+            xmin = 2.8868885282625043 
+            xmax = 3.1865660408786396 
+            text = "thieves" 
+        intervals [12]:
+            xmin = 3.1865660408786396 
+            xmax = 3.7325 
+            text = "thieves" 
+        intervals [13]:
+            xmin = 3.7325 
+            xmax = 3.8525 
+            text = "silent" 
+        intervals [14]:
+            xmin = 3.8525 
+            xmax = 4.209707447588273 
+            text = "thieves" 
+        intervals [15]:
+            xmin = 4.209707447588273 
+            xmax = 4.9716 
+            text = "thieves" 
+        intervals [16]:
+            xmin = 4.9716 
+            xmax = 4.9716099773 
+            text = "silent" 
