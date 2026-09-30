@@ -91,11 +91,11 @@ item []:
         intervals [20]:
             xmin = 3.3525 
             xmax = 3.4725 
-            text = "error" 
+            text = "p" 
         intervals [21]:
             xmin = 3.4725 
             xmax = 3.6125 
-            text = "error" 
+            text = "p" 
         intervals [22]:
             xmin = 3.6125 
             xmax = 3.6725 

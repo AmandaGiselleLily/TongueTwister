@@ -15,7 +15,7 @@ item []:
         intervals [1]:
             xmin = 0 
             xmax = 0.4125 
-            text = "error" 
+            text = "rone" 
         intervals [2]:
             xmin = 0.4125 
             xmax = 0.8325 
@@ -35,11 +35,11 @@ item []:
         intervals [6]:
             xmin = 1.4125 
             xmax = 1.8698012127168333 
-            text = "throne" 
+            text = "throen" 
         intervals [7]:
             xmin = 1.8698012127168333 
             xmax = 2.3525 
-            text = "throne" 
+            text = "throen" 
         intervals [8]:
             xmin = 2.3525 
             xmax = 2.4525 
@@ -47,15 +47,15 @@ item []:
         intervals [9]:
             xmin = 2.4525 
             xmax = 2.8325 
-            text = "throne" 
+            text = "throen" 
         intervals [10]:
             xmin = 2.8325 
             xmax = 3.4725 
-            text = "throne" 
+            text = "throen" 
         intervals [11]:
             xmin = 3.4725 
             xmax = 4.0125 
-            text = "throne" 
+            text = "throen" 
         intervals [12]:
             xmin = 4.0125 
             xmax = 4.5325 

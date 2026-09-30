@@ -143,7 +143,7 @@ item []:
         intervals [33]:
             xmin = 4.609277464409786 
             xmax = 4.6725 
-            text = "error" 
+            text = "t" 
         intervals [34]:
             xmin = 4.6725 
             xmax = 4.9716099773 

@@ -43,7 +43,7 @@ item []:
         intervals [8]:
             xmin = 1.0325 
             xmax = 1.1925 
-            text = "chuck" 
+            text = "chu" 
         intervals [9]:
             xmin = 1.1925 
             xmax = 1.2525 
@@ -51,7 +51,7 @@ item []:
         intervals [10]:
             xmin = 1.2525 
             xmax = 1.4325 
-            text = "chuck" 
+            text = "chu" 
         intervals [11]:
             xmin = 1.4325 
             xmax = 1.5125 
@@ -79,7 +79,7 @@ item []:
         intervals [17]:
             xmin = 2.5725 
             xmax = 2.9414019867463006 
-            text = "error" 
+            text = "ch" 
         intervals [18]:
             xmin = 2.9414019867463006 
             xmax = 3.2325 
@@ -111,7 +111,7 @@ item []:
         intervals [25]:
             xmin = 4.2525 
             xmax = 4.3325 
-            text = "chuck" 
+            text = "ch" 
         intervals [26]:
             xmin = 4.3325 
             xmax = 4.9973696145 

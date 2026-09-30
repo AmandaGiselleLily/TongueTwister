@@ -39,7 +39,7 @@ item []:
         intervals [7]:
             xmin = 1.8725 
             xmax = 2.0725 
-            text = "error" 
+            text = "rir" 
         intervals [8]:
             xmin = 2.0725 
             xmax = 2.3125 

@@ -1,0 +1,170 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9716099773 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 4.9716099773 
+        intervals: size = 39 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3125 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.3125 
+            xmax = 0.4725 
+            text = "chuck" 
+        intervals [3]:
+            xmin = 0.4725 
+            xmax = 0.5525 
+            text = "silent" 
+        intervals [4]:
+            xmin = 0.5525 
+            xmax = 0.7125 
+            text = "chuck" 
+        intervals [5]:
+            xmin = 0.7125 
+            xmax = 0.7725 
+            text = "silent" 
+        intervals [6]:
+            xmin = 0.7725 
+            xmax = 0.9325 
+            text = "chuck" 
+        intervals [7]:
+            xmin = 0.9325 
+            xmax = 0.9925 
+            text = "silent" 
+        intervals [8]:
+            xmin = 0.9925 
+            xmax = 1.1325 
+            text = "chuck" 
+        intervals [9]:
+            xmin = 1.1325 
+            xmax = 1.2125 
+            text = "silent" 
+        intervals [10]:
+            xmin = 1.2125 
+            xmax = 1.3525 
+            text = "chuck" 
+        intervals [11]:
+            xmin = 1.3525 
+            xmax = 1.4525 
+            text = "silent" 
+        intervals [12]:
+            xmin = 1.4525 
+            xmax = 1.5925 
+            text = "chuck" 
+        intervals [13]:
+            xmin = 1.5925 
+            xmax = 1.6525 
+            text = "silent" 
+        intervals [14]:
+            xmin = 1.6525 
+            xmax = 1.8325 
+            text = "chuck" 
+        intervals [15]:
+            xmin = 1.8325 
+            xmax = 1.8925 
+            text = "silent" 
+        intervals [16]:
+            xmin = 1.8925 
+            xmax = 2.0725 
+            text = "chuck" 
+        intervals [17]:
+            xmin = 2.0725 
+            xmax = 2.1325 
+            text = "silent" 
+        intervals [18]:
+            xmin = 2.1325 
+            xmax = 2.2725 
+            text = "chuck" 
+        intervals [19]:
+            xmin = 2.2725 
+            xmax = 2.3325 
+            text = "silent" 
+        intervals [20]:
+            xmin = 2.3325 
+            xmax = 2.4925 
+            text = "chuck" 
+        intervals [21]:
+            xmin = 2.4925 
+            xmax = 2.5525 
+            text = "silent" 
+        intervals [22]:
+            xmin = 2.5525 
+            xmax = 2.6925 
+            text = "chuck" 
+        intervals [23]:
+            xmin = 2.6925 
+            xmax = 2.7925 
+            text = "silent" 
+        intervals [24]:
+            xmin = 2.7925 
+            xmax = 2.9325 
+            text = "chuck" 
+        intervals [25]:
+            xmin = 2.9325 
+            xmax = 3.0325 
+            text = "silent" 
+        intervals [26]:
+            xmin = 3.0325 
+            xmax = 3.1525 
+            text = "chuck" 
+        intervals [27]:
+            xmin = 3.1525 
+            xmax = 3.2325 
+            text = "silent" 
+        intervals [28]:
+            xmin = 3.2325 
+            xmax = 3.4125 
+            text = "chuck" 
+        intervals [29]:
+            xmin = 3.4125 
+            xmax = 3.4925 
+            text = "silent" 
+        intervals [30]:
+            xmin = 3.4925 
+            xmax = 3.6525 
+            text = "chuck" 
+        intervals [31]:
+            xmin = 3.6525 
+            xmax = 3.7525 
+            text = "silent" 
+        intervals [32]:
+            xmin = 3.7525 
+            xmax = 3.9125 
+            text = "chuck" 
+        intervals [33]:
+            xmin = 3.9125 
+            xmax = 3.9725 
+            text = "silent" 
+        intervals [34]:
+            xmin = 3.9725 
+            xmax = 4.1325 
+            text = "chuck" 
+        intervals [35]:
+            xmin = 4.1325 
+            xmax = 4.2125 
+            text = "silent" 
+        intervals [36]:
+            xmin = 4.2125 
+            xmax = 4.3725 
+            text = "chuck" 
+        intervals [37]:
+            xmin = 4.3725 
+            xmax = 4.4925 
+            text = "silent" 
+        intervals [38]:
+            xmin = 4.4925 
+            xmax = 4.9716 
+            text = "silent" 
+        intervals [39]:
+            xmin = 4.9716 
+            xmax = 4.9716099773 
+            text = "silent" 

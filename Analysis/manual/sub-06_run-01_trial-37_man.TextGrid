@@ -19,7 +19,7 @@ item []:
         intervals [2]:
             xmin = 0.038438635618229584 
             xmax = 0.3725 
-            text = "would" 
+            text = "dou" 
         intervals [3]:
             xmin = 0.3725 
             xmax = 0.4325 
@@ -43,19 +43,19 @@ item []:
         intervals [8]:
             xmin = 1.5398532442808865 
             xmax = 1.7725 
-            text = "error" 
+            text = "dou" 
         intervals [9]:
             xmin = 1.7725 
             xmax = 2.0125 
-            text = "error" 
+            text = "dou" 
         intervals [10]:
             xmin = 2.0125 
             xmax = 2.1725 
-            text = "error" 
+            text = "dou" 
         intervals [11]:
             xmin = 2.1725 
             xmax = 2.4525 
-            text = "error" 
+            text = "dou" 
         intervals [12]:
             xmin = 2.4525 
             xmax = 2.7325 
@@ -63,7 +63,7 @@ item []:
         intervals [13]:
             xmin = 2.7325 
             xmax = 2.8925 
-            text = "error" 
+            text = "ould" 
         intervals [14]:
             xmin = 2.8925 
             xmax = 2.9725 
@@ -87,7 +87,7 @@ item []:
         intervals [19]:
             xmin = 4.1925 
             xmax = 4.4125 
-            text = "would" 
+            text = "oud" 
         intervals [20]:
             xmin = 4.4125 
             xmax = 4.9716099773 

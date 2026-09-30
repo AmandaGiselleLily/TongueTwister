@@ -11,7 +11,7 @@ item []:
         name = "syll" 
         xmin = 0 
         xmax = 4.5 
-        intervals: size = 44 
+        intervals: size = 45 
         intervals [1]:
             xmin = 0 
             xmax = 0.5725 
@@ -83,7 +83,7 @@ item []:
         intervals [18]:
             xmin = 1.9725 
             xmax = 2.0525 
-            text = "error" 
+            text = "tht" 
         intervals [19]:
             xmin = 2.0525 
             xmax = 2.1525 
@@ -99,7 +99,7 @@ item []:
         intervals [22]:
             xmin = 2.3125 
             xmax = 2.4325 
-            text = "error" 
+            text = "tht" 
         intervals [23]:
             xmin = 2.4325 
             xmax = 2.4925 
@@ -139,52 +139,56 @@ item []:
         intervals [32]:
             xmin = 3.2125 
             xmax = 3.3325 
-            text = "error" 
+            text = "tht" 
         intervals [33]:
             xmin = 3.3325 
             xmax = 3.4125 
             text = "silent" 
         intervals [34]:
             xmin = 3.4125 
-            xmax = 3.6725 
-            text = "error" 
+            xmax = 3.580220565456533 
+            text = "thut" 
         intervals [35]:
+            xmin = 3.580220565456533 
+            xmax = 3.6725 
+            text = "thut" 
+        intervals [36]:
             xmin = 3.6725 
             xmax = 3.7325 
             text = "silent" 
-        intervals [36]:
+        intervals [37]:
             xmin = 3.7325 
             xmax = 3.8525 
             text = "thought" 
-        intervals [37]:
+        intervals [38]:
             xmin = 3.8525 
             xmax = 3.9325 
             text = "silent" 
-        intervals [38]:
+        intervals [39]:
             xmin = 3.9325 
             xmax = 4.0325 
-            text = "error" 
-        intervals [39]:
+            text = "thought" 
+        intervals [40]:
             xmin = 4.0325 
             xmax = 4.1125 
             text = "silent" 
-        intervals [40]:
+        intervals [41]:
             xmin = 4.1125 
             xmax = 4.2125 
-            text = "error" 
-        intervals [41]:
+            text = "tht" 
+        intervals [42]:
             xmin = 4.2125 
             xmax = 4.2725 
             text = "silent" 
-        intervals [42]:
+        intervals [43]:
             xmin = 4.2725 
             xmax = 4.3725 
-            text = "error" 
-        intervals [43]:
+            text = "tht" 
+        intervals [44]:
             xmin = 4.3725 
             xmax = 4.4725 
             text = "silent" 
-        intervals [44]:
+        intervals [45]:
             xmin = 4.4725 
             xmax = 4.5 
             text = "thought" 

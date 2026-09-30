@@ -15,11 +15,11 @@ item []:
         intervals [1]:
             xmin = 0 
             xmax = 0.1325 
-            text = "error" 
+            text = "er" 
         intervals [2]:
             xmin = 0.1325 
             xmax = 0.3725 
-            text = "error" 
+            text = "perp" 
         intervals [3]:
             xmin = 0.3725 
             xmax = 0.5325 

@@ -15,7 +15,7 @@ item []:
         intervals [1]:
             xmin = 0 
             xmax = 0.3125 
-            text = "error" 
+            text = "aw" 
         intervals [2]:
             xmin = 0.3125 
             xmax = 0.6325 
@@ -99,11 +99,11 @@ item []:
         intervals [22]:
             xmin = 4.3725 
             xmax = 4.5125 
-            text = "error" 
+            text = "c" 
         intervals [23]:
             xmin = 4.5125 
             xmax = 4.6525 
-            text = "error" 
+            text = "c" 
         intervals [24]:
             xmin = 4.6525 
             xmax = 4.9716099773 

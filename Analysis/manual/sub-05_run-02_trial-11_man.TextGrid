@@ -39,7 +39,7 @@ item []:
         intervals [7]:
             xmin = 0.7437402562198406 
             xmax = 0.8925 
-            text = "	" 
+            text = "silent" 
         intervals [8]:
             xmin = 0.8925 
             xmax = 1.0525 

@@ -19,7 +19,7 @@ item []:
         intervals [2]:
             xmin = 0.1125 
             xmax = 0.4325 
-            text = "error" 
+            text = "hought" 
         intervals [3]:
             xmin = 0.4325 
             xmax = 0.7525 

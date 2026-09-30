@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9973696145 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 4.9973696145 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0925 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.0925 
+            xmax = 0.3925 
+            text = "naw" 
+        intervals [3]:
+            xmin = 0.3925 
+            xmax = 0.6525 
+            text = "naw" 
+        intervals [4]:
+            xmin = 0.6525 
+            xmax = 0.9125 
+            text = "naw" 
+        intervals [5]:
+            xmin = 0.9125 
+            xmax = 1.1925 
+            text = "naw" 
+        intervals [6]:
+            xmin = 1.1925 
+            xmax = 1.4725 
+            text = "naw" 
+        intervals [7]:
+            xmin = 1.4725 
+            xmax = 1.7325 
+            text = "naw" 
+        intervals [8]:
+            xmin = 1.7325 
+            xmax = 1.9925 
+            text = "naw" 
+        intervals [9]:
+            xmin = 1.9925 
+            xmax = 2.2725 
+            text = "naw" 
+        intervals [10]:
+            xmin = 2.2725 
+            xmax = 2.5325 
+            text = "naw" 
+        intervals [11]:
+            xmin = 2.5325 
+            xmax = 2.8125 
+            text = "naw" 
+        intervals [12]:
+            xmin = 2.8125 
+            xmax = 3.0925 
+            text = "naw" 
+        intervals [13]:
+            xmin = 3.0925 
+            xmax = 3.3725 
+            text = "naw" 
+        intervals [14]:
+            xmin = 3.3725 
+            xmax = 3.6725 
+            text = "naw" 
+        intervals [15]:
+            xmin = 3.6725 
+            xmax = 3.9525 
+            text = "naw" 
+        intervals [16]:
+            xmin = 3.9525 
+            xmax = 4.2525 
+            text = "naw" 
+        intervals [17]:
+            xmin = 4.2525 
+            xmax = 4.4505959457165085 
+            text = "n" 
+        intervals [18]:
+            xmin = 4.4505959457165085 
+            xmax = 4.9973696145 
+            text = "silent" 

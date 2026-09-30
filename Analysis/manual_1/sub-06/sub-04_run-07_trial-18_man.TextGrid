@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9973696145 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 4.9973696145 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5325 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.5325 
+            xmax = 0.7125 
+            text = "thir" 
+        intervals [3]:
+            xmin = 0.7125 
+            xmax = 0.7525 
+            text = "silent" 
+        intervals [4]:
+            xmin = 0.7525 
+            xmax = 0.9525 
+            text = "thir" 
+        intervals [5]:
+            xmin = 0.9525 
+            xmax = 1.2125 
+            text = "thir" 
+        intervals [6]:
+            xmin = 1.2125 
+            xmax = 1.4525 
+            text = "thir" 
+        intervals [7]:
+            xmin = 1.4525 
+            xmax = 1.7525 
+            text = "thir" 
+        intervals [8]:
+            xmin = 1.7525 
+            xmax = 1.8325 
+            text = "silent" 
+        intervals [9]:
+            xmin = 1.8325 
+            xmax = 2.1046513038495123 
+            text = "thir" 
+        intervals [10]:
+            xmin = 2.1046513038495123 
+            xmax = 2.3325 
+            text = "thir" 
+        intervals [11]:
+            xmin = 2.3325 
+            xmax = 2.6125 
+            text = "thir" 
+        intervals [12]:
+            xmin = 2.6125 
+            xmax = 2.8925 
+            text = "thir" 
+        intervals [13]:
+            xmin = 2.8925 
+            xmax = 3.2122049350292614 
+            text = "thir" 
+        intervals [14]:
+            xmin = 3.2122049350292614 
+            xmax = 3.4925 
+            text = "thir" 
+        intervals [15]:
+            xmin = 3.4925 
+            xmax = 3.6325 
+            text = "silent" 
+        intervals [16]:
+            xmin = 3.6325 
+            xmax = 3.8325 
+            text = "thir" 
+        intervals [17]:
+            xmin = 3.8325 
+            xmax = 3.9125 
+            text = "thir" 
+        intervals [18]:
+            xmin = 3.9125 
+            xmax = 4.1325 
+            text = "thir" 
+        intervals [19]:
+            xmin = 4.1325 
+            xmax = 4.1725 
+            text = "silent" 
+        intervals [20]:
+            xmin = 4.1725 
+            xmax = 4.3725 
+            text = "thir" 
+        intervals [21]:
+            xmin = 4.3725 
+            xmax = 4.9973696145 
+            text = "silent" 

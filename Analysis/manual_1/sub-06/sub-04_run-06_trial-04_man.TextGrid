@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9716099773 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 4.9716099773 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3725 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.3725 
+            xmax = 0.6125 
+            text = "imah" 
+        intervals [3]:
+            xmin = 0.6125 
+            xmax = 0.9325 
+            text = "imah" 
+        intervals [4]:
+            xmin = 0.9325 
+            xmax = 1.2325 
+            text = "imah" 
+        intervals [5]:
+            xmin = 1.2325 
+            xmax = 1.5525 
+            text = "imah" 
+        intervals [6]:
+            xmin = 1.5525 
+            xmax = 1.881909395044758 
+            text = "imah" 
+        intervals [7]:
+            xmin = 1.881909395044758 
+            xmax = 2.1725 
+            text = "imah" 
+        intervals [8]:
+            xmin = 2.1725 
+            xmax = 2.2325 
+            text = "silent" 
+        intervals [9]:
+            xmin = 2.2325 
+            xmax = 2.4925 
+            text = "imah" 
+        intervals [10]:
+            xmin = 2.4925 
+            xmax = 2.5725 
+            text = "silent" 
+        intervals [11]:
+            xmin = 2.5725 
+            xmax = 2.8324017077868433 
+            text = "imah" 
+        intervals [12]:
+            xmin = 2.8324017077868433 
+            xmax = 3.1725 
+            text = "imah" 
+        intervals [13]:
+            xmin = 3.1725 
+            xmax = 3.2325 
+            text = "silent" 
+        intervals [14]:
+            xmin = 3.2325 
+            xmax = 3.5125 
+            text = "imah" 
+        intervals [15]:
+            xmin = 3.5125 
+            xmax = 3.8192185675127024 
+            text = "imah" 
+        intervals [16]:
+            xmin = 3.8192185675127024 
+            xmax = 4.179436991768461 
+            text = "imah" 
+        intervals [17]:
+            xmin = 4.179436991768461 
+            xmax = 4.460952230892709 
+            text = "imah" 
+        intervals [18]:
+            xmin = 4.460952230892709 
+            xmax = 4.9716 
+            text = "silent" 
+        intervals [19]:
+            xmin = 4.9716 
+            xmax = 4.9716099773 
+            text = "silent" 

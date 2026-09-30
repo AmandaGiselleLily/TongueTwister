@@ -19,59 +19,59 @@ item []:
         intervals [2]:
             xmin = 0.3925 
             xmax = 0.5325 
-            text = "error" 
+            text = "airy" 
         intervals [3]:
             xmin = 0.5325 
             xmax = 0.6725 
-            text = "error" 
+            text = "airy" 
         intervals [4]:
             xmin = 0.6725 
             xmax = 0.9725 
-            text = "error" 
+            text = "airy" 
         intervals [5]:
             xmin = 0.9725 
             xmax = 1.2725 
-            text = "error" 
+            text = "airy" 
         intervals [6]:
             xmin = 1.2725 
             xmax = 1.6525 
-            text = "error" 
+            text = "airy" 
         intervals [7]:
             xmin = 1.6525 
             xmax = 2.0125 
-            text = "error" 
+            text = "airy" 
         intervals [8]:
             xmin = 2.0125 
             xmax = 2.3325 
-            text = "error" 
+            text = "airy" 
         intervals [9]:
             xmin = 2.3325 
             xmax = 2.4325 
-            text = "error" 
+            text = "airy" 
         intervals [10]:
             xmin = 2.4325 
             xmax = 2.7325 
-            text = "error" 
+            text = "airy" 
         intervals [11]:
             xmin = 2.7325 
             xmax = 3.2925 
-            text = "error" 
+            text = "airy" 
         intervals [12]:
             xmin = 3.2925 
             xmax = 3.6525 
-            text = "error" 
+            text = "airy" 
         intervals [13]:
             xmin = 3.6525 
             xmax = 4.0325 
-            text = "error" 
+            text = "airy" 
         intervals [14]:
             xmin = 4.0325 
             xmax = 4.2525 
-            text = "error" 
+            text = "airy" 
         intervals [15]:
             xmin = 4.2525 
             xmax = 4.4925 
-            text = "error" 
+            text = "airy" 
         intervals [16]:
             xmin = 4.4925 
             xmax = 4.9973696145 
