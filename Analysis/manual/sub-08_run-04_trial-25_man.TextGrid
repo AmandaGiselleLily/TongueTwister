@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9973696145 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 4.9973696145 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4725 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.4725 
+            xmax = 0.8125 
+            text = "throne" 
+        intervals [3]:
+            xmin = 0.8125 
+            xmax = 1.1218495926652845 
+            text = "throne" 
+        intervals [4]:
+            xmin = 1.1218495926652845 
+            xmax = 1.4125 
+            text = "throne" 
+        intervals [5]:
+            xmin = 1.4125 
+            xmax = 1.6786691380111474 
+            text = "throne" 
+        intervals [6]:
+            xmin = 1.6786691380111474 
+            xmax = 1.9920703028779445 
+            text = "throne" 
+        intervals [7]:
+            xmin = 1.9920703028779445 
+            xmax = 2.2902578189648 
+            text = "throne" 
+        intervals [8]:
+            xmin = 2.2902578189648 
+            xmax = 2.6125 
+            text = "throne" 
+        intervals [9]:
+            xmin = 2.6125 
+            xmax = 2.9125 
+            text = "throne" 
+        intervals [10]:
+            xmin = 2.9125 
+            xmax = 3.19699128624932 
+            text = "throne" 
+        intervals [11]:
+            xmin = 3.19699128624932 
+            xmax = 3.5986316140397783 
+            text = "throne" 
+        intervals [12]:
+            xmin = 3.5986316140397783 
+            xmax = 3.9725 
+            text = "throne" 
+        intervals [13]:
+            xmin = 3.9725 
+            xmax = 4.471895054008426 
+            text = "throne" 
+        intervals [14]:
+            xmin = 4.471895054008426 
+            xmax = 4.8525 
+            text = "throne" 
+        intervals [15]:
+            xmin = 4.8525 
+            xmax = 4.9973696145 
+            text = "silent" 

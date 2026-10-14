@@ -164,7 +164,7 @@ wav_files = sorted(glob.glob(os.path.join(wav_folder, "*.wav")))
 print(f"Found {len(wav_files)} WAV files.")
 
 # Plot n WAV files in each figure
-plots_per_figure = 10
+plots_per_figure = 5
 
 for start_index in range(0, len(wav_files), plots_per_figure):
     # Get the next 5 WAV files

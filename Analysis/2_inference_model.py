@@ -1182,7 +1182,7 @@ if __name__ == "__main__":
     # Folder where output TSV will be saved
     # -----------------------------------------------------------------
     OUTPUT_FOLDER = (
-        "/home/alily/Documents/GitHub/TongueTwister/Analysis")
+        "/home/alily/Documents/GitHub/TongueTwister/Analysis/Text Grids")
     # -----------------------------------------------------------------
     # Trained checkpoint
     # -----------------------------------------------------------------

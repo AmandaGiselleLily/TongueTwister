@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9973696145 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 4.9973696145 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02038142099751215 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.02038142099751215 
+            xmax = 0.2325 
+            text = "per" 
+        intervals [3]:
+            xmin = 0.2325 
+            xmax = 0.28814163952448446 
+            text = "silent" 
+        intervals [4]:
+            xmin = 0.28814163952448446 
+            xmax = 0.5125 
+            text = "per" 
+        intervals [5]:
+            xmin = 0.5125 
+            xmax = 0.5559018580514568 
+            text = "silent" 
+        intervals [6]:
+            xmin = 0.5559018580514568 
+            xmax = 0.7925 
+            text = "per" 
+        intervals [7]:
+            xmin = 0.7925 
+            xmax = 0.8327902658463939 
+            text = "silent" 
+        intervals [8]:
+            xmin = 0.8327902658463939 
+            xmax = 1.0925 
+            text = "per" 
+        intervals [9]:
+            xmin = 1.0925 
+            xmax = 1.1309777819332494 
+            text = "silent" 
+        intervals [10]:
+            xmin = 1.1309777819332494 
+            xmax = 1.3725 
+            text = "per" 
+        intervals [11]:
+            xmin = 1.3725 
+            xmax = 1.4139516492401634 
+            text = "silent" 
+        intervals [12]:
+            xmin = 1.4139516492401634 
+            xmax = 1.6325 
+            text = "per" 
+        intervals [13]:
+            xmin = 1.6325 
+            xmax = 1.6969255165470774 
+            text = "silent" 
+        intervals [14]:
+            xmin = 1.6969255165470774 
+            xmax = 1.9125 
+            text = "per" 
+        intervals [15]:
+            xmin = 1.9125 
+            xmax = 1.9768566540980028 
+            text = "silent" 
+        intervals [16]:
+            xmin = 1.9768566540980028 
+            xmax = 2.1725 
+            text = "per" 
+        intervals [17]:
+            xmin = 2.1725 
+            xmax = 2.223317764333057 
+            text = "silent" 
+        intervals [18]:
+            xmin = 2.223317764333057 
+            xmax = 2.4325 
+            text = "per" 
+        intervals [19]:
+            xmin = 2.4325 
+            xmax = 2.5125 
+            text = "silent" 
+        intervals [20]:
+            xmin = 2.5125 
+            xmax = 2.6725 
+            text = "per" 
+        intervals [21]:
+            xmin = 2.6725 
+            xmax = 2.7525 
+            text = "silent" 
+        intervals [22]:
+            xmin = 2.7525 
+            xmax = 2.9525 
+            text = "per" 
+        intervals [23]:
+            xmin = 2.9525 
+            xmax = 2.9961711223540903 
+            text = "silent" 
+        intervals [24]:
+            xmin = 2.9961711223540903 
+            xmax = 3.1925 
+            text = "per" 
+        intervals [25]:
+            xmin = 3.1925 
+            xmax = 3.227418583809203 
+            text = "silent" 
+        intervals [26]:
+            xmin = 3.227418583809203 
+            xmax = 3.5725 
+            text = "per" 
+        intervals [27]:
+            xmin = 3.5725 
+            xmax = 4.9973696145 
+            text = "silent" 

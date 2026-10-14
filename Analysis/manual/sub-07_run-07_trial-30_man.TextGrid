@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9716099773 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 4.9716099773 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3925 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.3925 
+            xmax = 0.6125 
+            text = "ther" 
+        intervals [3]:
+            xmin = 0.6125 
+            xmax = 0.8325 
+            text = "ther" 
+        intervals [4]:
+            xmin = 0.8325 
+            xmax = 1.0925 
+            text = "ther" 
+        intervals [5]:
+            xmin = 1.0925 
+            xmax = 1.3525 
+            text = "ther" 
+        intervals [6]:
+            xmin = 1.3525 
+            xmax = 1.5925 
+            text = "ther" 
+        intervals [7]:
+            xmin = 1.5925 
+            xmax = 1.8325 
+            text = "ther" 
+        intervals [8]:
+            xmin = 1.8325 
+            xmax = 1.8725 
+            text = "silent" 
+        intervals [9]:
+            xmin = 1.8725 
+            xmax = 2.1125 
+            text = "ther" 
+        intervals [10]:
+            xmin = 2.1125 
+            xmax = 2.3325 
+            text = "ther" 
+        intervals [11]:
+            xmin = 2.3325 
+            xmax = 2.3925 
+            text = "silent" 
+        intervals [12]:
+            xmin = 2.3925 
+            xmax = 2.6125 
+            text = "ther" 
+        intervals [13]:
+            xmin = 2.6125 
+            xmax = 2.8325 
+            text = "ther" 
+        intervals [14]:
+            xmin = 2.8325 
+            xmax = 3.0925 
+            text = "ther" 
+        intervals [15]:
+            xmin = 3.0925 
+            xmax = 3.1525 
+            text = "silent" 
+        intervals [16]:
+            xmin = 3.1525 
+            xmax = 3.3725 
+            text = "ther" 
+        intervals [17]:
+            xmin = 3.3725 
+            xmax = 3.6125 
+            text = "ther" 
+        intervals [18]:
+            xmin = 3.6125 
+            xmax = 3.8725 
+            text = "ther" 
+        intervals [19]:
+            xmin = 3.8725 
+            xmax = 4.276302450391858 
+            text = "ther" 
+        intervals [20]:
+            xmin = 4.276302450391858 
+            xmax = 4.9716 
+            text = "silent" 
+        intervals [21]:
+            xmin = 4.9716 
+            xmax = 4.9716099773 
+            text = "silent" 

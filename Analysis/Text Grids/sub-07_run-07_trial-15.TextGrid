@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9716099773
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9716099773
+        intervals: size = 18
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.1525000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.1525000000
+            xmax = 0.3925000000
+            text = "chuck"
+        intervals [3]:
+            xmin = 0.3925000000
+            xmax = 0.6125000000
+            text = "chuck"
+        intervals [4]:
+            xmin = 0.6125000000
+            xmax = 0.8725000000
+            text = "chuck"
+        intervals [5]:
+            xmin = 0.8725000000
+            xmax = 1.1125000000
+            text = "chuck"
+        intervals [6]:
+            xmin = 1.1125000000
+            xmax = 1.3525000000
+            text = "chuck"
+        intervals [7]:
+            xmin = 1.3525000000
+            xmax = 1.6125000000
+            text = "chuck"
+        intervals [8]:
+            xmin = 1.6125000000
+            xmax = 1.8525000000
+            text = "chuck"
+        intervals [9]:
+            xmin = 1.8525000000
+            xmax = 2.0725000000
+            text = "chuck"
+        intervals [10]:
+            xmin = 2.0725000000
+            xmax = 2.2925000000
+            text = "chuck"
+        intervals [11]:
+            xmin = 2.2925000000
+            xmax = 2.5325000000
+            text = "chuck"
+        intervals [12]:
+            xmin = 2.5325000000
+            xmax = 2.7725000000
+            text = "chuck"
+        intervals [13]:
+            xmin = 2.7725000000
+            xmax = 3.0125000000
+            text = "chuck"
+        intervals [14]:
+            xmin = 3.0125000000
+            xmax = 3.2325000000
+            text = "chuck"
+        intervals [15]:
+            xmin = 3.2325000000
+            xmax = 3.4725000000
+            text = "chuck"
+        intervals [16]:
+            xmin = 3.4725000000
+            xmax = 3.7525000000
+            text = "chuck"
+        intervals [17]:
+            xmin = 3.7525000000
+            xmax = 3.8525000000
+            text = "chuck"
+        intervals [18]:
+            xmin = 3.8525000000
+            xmax = 4.9716099773
+            text = "silent"

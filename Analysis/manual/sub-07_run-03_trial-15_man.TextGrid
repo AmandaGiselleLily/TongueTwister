@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9716099773 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 4.9716099773 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.33508910265238356 
+            text = "thieves" 
+        intervals [2]:
+            xmin = 0.33508910265238356 
+            xmax = 0.6862263901621986 
+            text = "thieves" 
+        intervals [3]:
+            xmin = 0.6862263901621986 
+            xmax = 1.0797423158197497 
+            text = "thieves" 
+        intervals [4]:
+            xmin = 1.0797423158197497 
+            xmax = 1.433906648911546 
+            text = "thieves" 
+        intervals [5]:
+            xmin = 1.433906648911546 
+            xmax = 1.8092603010772101 
+            text = "thieves" 
+        intervals [6]:
+            xmin = 1.8092603010772101 
+            xmax = 2.1331541783491947 
+            text = "thieves" 
+        intervals [7]:
+            xmin = 2.1331541783491947 
+            xmax = 2.5751028333184443 
+            text = "thieves" 
+        intervals [8]:
+            xmin = 2.5751028333184443 
+            xmax = 2.962564667812033 
+            text = "thieves" 
+        intervals [9]:
+            xmin = 2.962564667812033 
+            xmax = 3.3288371832317543 
+            text = "thieves" 
+        intervals [10]:
+            xmin = 3.3288371832317543 
+            xmax = 3.679974470741569 
+            text = "thieves" 
+        intervals [11]:
+            xmin = 3.679974470741569 
+            xmax = 4.006895393595535 
+            text = "thieves" 
+        intervals [12]:
+            xmin = 4.006895393595535 
+            xmax = 4.457925185310728 
+            text = "thieves" 
+        intervals [13]:
+            xmin = 4.457925185310728 
+            xmax = 4.9716 
+            text = "silent" 
+        intervals [14]:
+            xmin = 4.9716 
+            xmax = 4.9716099773 
+            text = "silent" 
