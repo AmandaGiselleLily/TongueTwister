@@ -155,8 +155,8 @@ import glob
 import matplotlib.pyplot as plt
 
 # Paths
-tsv_path = "/home/alily/Documents/GitHub/TongueTwister/Analysis/alldat/sub_06_alldat.tsv"
-wav_folder = "/home/alily/Documents/GitHub/TongueTwister/Experiments/TT1/data/sub-06"
+tsv_path = "/home/alily/Documents/GitHub/TongueTwister/Analysis/alldat/sub_07_alldat.tsv"
+wav_folder = "/home/alily/Documents/GitHub/TongueTwister/Experiments/TT1/data/sub-07"
 output_folder = "/home/alily/Documents/GitHub/TongueTwister/Analysis"
 
 # Automatically find all WAV files in the folder
