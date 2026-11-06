@@ -1,0 +1,17 @@
+import util
+import consonant_to_vector
+import vowel_to_vector
+
+def onset(syllable):
+
+    construct = util.split_syllable(syllable)
+
+    manner_vector = consonant_to_vector.manner_vector(construct[0])
+    place_vector = consonant_to_vector.place_vector(construct[0])
+
+def offset(syllable):
+
+    construct = util.split_syllable(syllable)
+
+    manner_vector = consonant_to_vector.manner_vector(construct[1])
+    place_vector = consonant_to_vector.place_vector(construct[1])
