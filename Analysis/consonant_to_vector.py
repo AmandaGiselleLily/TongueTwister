@@ -10,8 +10,9 @@ def manner_vector(thingy):
     manner_list = [plosives, nasals, fricatives, affricates, approximants]
 
     for i in range(len(manner_list)):
-        if thingy in manner_list[i]:
-            encoding[i] = 1
+        for j in range(len(thingy)):
+            if thingy[j] in manner_list[i]:
+                encoding[i] = 1
 
     return encoding
 
@@ -33,7 +34,19 @@ def place_vector(thingy):
     place_list = [bilabial, labiodental, dental, alveolar, palatal, velar, uvular, pharyngeal, glottal]
 
     for i in range(len(place_list)):
-        if thingy in place_list[i]:
-            encoding[i] = 1
+        for j in range(len(thingy)):
+            if thingy[j] in place_list[i]:
+                encoding[i] = 1
 
     return encoding
+
+def cluster_vector(thingy):
+    encoding = [0,0]
+
+    if len(thingy) > 1:
+        encoding[1] = 1
+    else:
+        encoding[0] = 1
+
+    return encoding
+

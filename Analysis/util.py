@@ -7,9 +7,14 @@ def split_syllable(string):
     
     for char in vowels:
         if string.find(char) != -1:
-            nucleus1 = char
+            nucleus = char
             break
         
-    
+    print(f"Onset and Coda: {string.split(nucleus)}")
+
     return string.split(nucleus)
-        
+
+
+split_syllable("plænt")
+split_syllable("θivz")
+split_syllable("ʤɪŋk")
