@@ -22,16 +22,20 @@ def offset(syllable):
 
     return [manner_vector, place_vector, cluster_vector]
 
-def onset_to_offset(syllable):
+def onset_to_offset(syllable1,syllable2):
 
-    construct = util.split_syllable(syllable)
+    construct1 = util.split_syllable(syllable1)
+    construct2 = util.split_syllable(syllable2)
 
-    onset_manner_vector = consonant_to_vector.manner_vector(construct[0])
-    onset_place_vector = consonant_to_vector.place_vector(construct[0])
-    onset_cluster_vector = consonant_to_vector.cluster_vector(construct[0])
+    onset_manner_vector = consonant_to_vector.manner_vector(construct1[0])
+    onset_place_vector = consonant_to_vector.place_vector(construct1[0])
+    onset_cluster_vector = consonant_to_vector.cluster_vector(construct1[0])
 
-    offset_manner_vector = consonant_to_vector.manner_vector(construct[1])
-    offset_place_vector = consonant_to_vector.place_vector(construct[1])
-    offset_cluster_vector = consonant_to_vector.cluster_vector(construct[1])
+    offset_manner_vector = consonant_to_vector.manner_vector(construct2[1])
+    offset_place_vector = consonant_to_vector.place_vector(construct2[1])
+    offset_cluster_vector = consonant_to_vector.cluster_vector(construct2[1])
 
     return [onset_manner_vector, onset_place_vector, onset_cluster_vector, offset_manner_vector, offset_place_vector, offset_cluster_vector]
+
+print(onset("θrəʊn"))
+print(offset("ɡraʊnd"))
