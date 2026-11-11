@@ -1,11 +1,32 @@
+plosives = "pbtdkg"
+nasals = "mnŋ"
+fricatives = "fvθðh"
+affricates = "ʤʧ"
+approximants = "wjlɹ"
+
+bilabial = "mp"
+labiodental = "bf"
+dental = "td"
+alveolar = "szʤ"
+palatal = "tʃdʒ"
+velar = "kɡ"
+uvular = "qɢ"
+pharyngeal = "ħʕ"
+glottal = "hʔ"
+
+def consonant_vector(syl_part,type="N"):
+    if type == "N":
+        return None
+    elif type == "M":
+        return manner_vector(syl_part)
+    elif type == "P":
+        return place_vector(syl_part)
+    elif type == "C":
+        return cluster_vector(syl_part)
+    else:
+        raise ValueError("Invalid type. Must be 'N', 'M', 'P', or 'C'.")
 def manner_vector(syl_part):
     encoding = [0,0,0,0,0]
-
-    plosives = "pbtdkg"
-    nasals = "mnŋ"
-    fricatives = "fvθðh"
-    affricates = "ʤʧ"
-    approximants = "wjlɹ"
 
     manner_list = [plosives, nasals, fricatives, affricates, approximants]
 
@@ -21,15 +42,6 @@ def place_vector(syl_part):
 
     encoding = [0,0,0,0,0,0,0,0,0]
 
-    bilabial = "mp"
-    labiodental = "bf"
-    dental = "td"
-    alveolar = "szʤ"
-    palatal = "tʃdʒ"
-    velar = "kɡ"
-    uvular = "qɢ"
-    pharyngeal = "ħʕ"
-    glottal = "hʔ"
 
     place_list = [bilabial, labiodental, dental, alveolar, palatal, velar, uvular, pharyngeal, glottal]
 
@@ -50,6 +62,7 @@ def cluster_vector(syl_part):
 
     return encoding
 
-print(place_vector("ʤ"))
-print(manner_vector("ʤ"))
-print(cluster_vector("ʤ"))
+if __name__ == "__main__":
+    print(manner_vector("ʤ"))
+    print(place_vector("ʤ"))
+    print(cluster_vector("ʤ"))
