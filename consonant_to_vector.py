@@ -16,7 +16,7 @@ glottal = "hʔ"
 
 def consonant_vector(syl_part,type="N"):
     if type == "N":
-        return None
+        return []
     elif type == "M":
         return manner_vector(syl_part)
     elif type == "P":

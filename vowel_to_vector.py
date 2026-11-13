@@ -3,7 +3,7 @@ vowels ="əʊaiɪeɛuʊɔæɒᵊ"
 
 def vowel_vector(syl_part,type="N"):
     if type == "N":
-        return None
+        return []
     elif type == "I":
         return vowel_identity(syl_part)
     elif type == "P":

@@ -1,5 +1,6 @@
 def split_syllable(string):
-    vowels = "əʊaiɪeɛuʊɔæɒᵊ"
+    vowels = "əʊaiɪeɛuʊɔæɒᵊʌɜ"
+    nucleus = ""
                 
     for char in vowels:
         if string.find(char) != -1:
