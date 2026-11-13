@@ -6,7 +6,7 @@ import pandas as pd
 # Models are notated onset_nucleus_coda, where each part is either P (place), M (manner), I(Identity), or N (none).
 # e.g. Place for everything is P_P_P, manner for everything is M_M_M, place at start manner at end None in middle is P_N_M
 
-def syllable_vector(syllable,model_name='P_P_P'):
+def syllable_vector(syllable,model_name='I_I_I'):
 
     construct = util.split_syllable(syllable)
     vector_list = []
@@ -29,3 +29,4 @@ def syllable_vector(syllable,model_name='P_P_P'):
 
 if __name__ == "__main__":
     print(syllable_vector("cat"))
+    print(syllable_vector("cat","M_M_I"))

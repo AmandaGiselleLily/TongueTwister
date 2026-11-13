@@ -14,6 +14,17 @@ uvular = "qɢ"
 pharyngeal = "ħʕ"
 glottal = "hʔ"
 
+consonants = plosives + "" + nasals + "" + fricatives + "" + affricates + "" + approximants
+
+def consonant_identity(consonant):
+    encoding = [0] * len(consonants)
+
+    for i in range(len(consonants)):
+        if consonant == consonants[i]:
+            encoding[i] = 1
+
+    return encoding
+
 def consonant_vector(syl_part,type="N"):
     if type == "N":
         return []
@@ -23,8 +34,10 @@ def consonant_vector(syl_part,type="N"):
         return place_vector(syl_part)
     elif type == "C":
         return cluster_vector(syl_part)
+    elif type == "I":
+        return consonant_identity(syl_part)
     else:
-        raise ValueError("Invalid type. Must be 'N', 'M', 'P', or 'C'.")
+        raise ValueError("Invalid type. Must be 'N', 'M', 'P', 'I',or 'C'.")
 def manner_vector(syl_part):
     encoding = [0,0,0,0,0]
 
@@ -66,3 +79,4 @@ if __name__ == "__main__":
     print(manner_vector("ʤ"))
     print(place_vector("ʤ"))
     print(cluster_vector("ʤ"))
+    print(consonant_identity("n"))
