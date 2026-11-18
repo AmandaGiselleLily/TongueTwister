@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.9973696145
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "syll"
+        xmin = 0
+        xmax = 4.9973696145
+        intervals: size = 29
+        intervals [1]:
+            xmin = 0.0000000000
+            xmax = 0.2125000000
+            text = "silent"
+        intervals [2]:
+            xmin = 0.2125000000
+            xmax = 0.3925000000
+            text = "throne"
+        intervals [3]:
+            xmin = 0.3925000000
+            xmax = 0.4325000000
+            text = "silent"
+        intervals [4]:
+            xmin = 0.4325000000
+            xmax = 0.6125000000
+            text = "throne"
+        intervals [5]:
+            xmin = 0.6125000000
+            xmax = 0.8125000000
+            text = "throne"
+        intervals [6]:
+            xmin = 0.8125000000
+            xmax = 1.0525000000
+            text = "throne"
+        intervals [7]:
+            xmin = 1.0525000000
+            xmax = 1.3125000000
+            text = "throne"
+        intervals [8]:
+            xmin = 1.3125000000
+            xmax = 1.3525000000
+            text = "silent"
+        intervals [9]:
+            xmin = 1.3525000000
+            xmax = 1.5725000000
+            text = "throne"
+        intervals [10]:
+            xmin = 1.5725000000
+            xmax = 1.7725000000
+            text = "throne"
+        intervals [11]:
+            xmin = 1.7725000000
+            xmax = 2.0125000000
+            text = "throne"
+        intervals [12]:
+            xmin = 2.0125000000
+            xmax = 2.2525000000
+            text = "throne"
+        intervals [13]:
+            xmin = 2.2525000000
+            xmax = 2.2925000000
+            text = "silent"
+        intervals [14]:
+            xmin = 2.2925000000
+            xmax = 2.4725000000
+            text = "throne"
+        intervals [15]:
+            xmin = 2.4725000000
+            xmax = 2.7325000000
+            text = "throne"
+        intervals [16]:
+            xmin = 2.7325000000
+            xmax = 2.9925000000
+            text = "throne"
+        intervals [17]:
+            xmin = 2.9925000000
+            xmax = 3.1925000000
+            text = "throne"
+        intervals [18]:
+            xmin = 3.1925000000
+            xmax = 3.2525000000
+            text = "silent"
+        intervals [19]:
+            xmin = 3.2525000000
+            xmax = 3.4525000000
+            text = "throne"
+        intervals [20]:
+            xmin = 3.4525000000
+            xmax = 3.5125000000
+            text = "silent"
+        intervals [21]:
+            xmin = 3.5125000000
+            xmax = 3.6925000000
+            text = "throne"
+        intervals [22]:
+            xmin = 3.6925000000
+            xmax = 3.9725000000
+            text = "throne"
+        intervals [23]:
+            xmin = 3.9725000000
+            xmax = 4.1725000000
+            text = "throne"
+        intervals [24]:
+            xmin = 4.1725000000
+            xmax = 4.4125000000
+            text = "throne"
+        intervals [25]:
+            xmin = 4.4125000000
+            xmax = 4.4725000000
+            text = "silent"
+        intervals [26]:
+            xmin = 4.4725000000
+            xmax = 4.6925000000
+            text = "throne"
+        intervals [27]:
+            xmin = 4.6925000000
+            xmax = 4.7325000000
+            text = "silent"
+        intervals [28]:
+            xmin = 4.7325000000
+            xmax = 4.9325000000
+            text = "throne"
+        intervals [29]:
+            xmin = 4.9325000000
+            xmax = 4.9973696145
+            text = "throne"

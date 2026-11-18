@@ -1171,12 +1171,12 @@ if __name__ == "__main__":
     # Please just give these as inputs and output
     # Folder containing WAV files for ONE subject
     # -----------------------------------------------------------------
-    WAV_FOLDER = ("/home/alily/Documents/GitHub/TongueTwister/Experiments/TT1/data/sub-08")
+    WAV_FOLDER = ("/home/alily/Documents/GitHub/TongueTwister/Experiments/TT1/data/sub-11")
 
     # -----------------------------------------------------------------
     # Input TSV for that subject
     # -----------------------------------------------------------------
-    INPUT_TSV_PATH = ("/home/alily/Documents/GitHub/TongueTwister/Experiments/TT1/data/sub-08_input.tsv")
+    INPUT_TSV_PATH = ("/home/alily/Documents/GitHub/TongueTwister/Experiments/TT1/data/sub-11_input.tsv")
 
     # -----------------------------------------------------------------
     # Folder where output TSV will be saved

@@ -805,11 +805,11 @@ def output_tsv_to_textgrids(
 if __name__ == "__main__":
 
     # Subject output TSV
-    INPUT_TSV_PATH = ("/home/alily/Documents/GitHub/TongueTwister/Analysis/alldat/sub_06_alldat.tsv")
+    INPUT_TSV_PATH = ("/home/alily/Documents/GitHub/TongueTwister/Analysis/alldat/sub_11_alldat.tsv")
 
     # Folder containing original WAV files. We need wave file to get the wave file duration in s.
     WAV_FOLDER = (
-        "/home/alily/Documents/GitHub/TongueTwister/Experiments/TT1/data/sub-06")
+        "/home/alily/Documents/GitHub/TongueTwister/Experiments/TT1/data/sub-11")
 
     # Folder to save all generated TextGrid files
     OUTPUT_TEXTGRID_FOLDER = (
