@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9716099773 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 4.9716099773 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5725 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.5725 
+            xmax = 0.8125 
+            text = "jin" 
+        intervals [3]:
+            xmin = 0.8125 
+            xmax = 1.0925 
+            text = "jin" 
+        intervals [4]:
+            xmin = 1.0925 
+            xmax = 1.3325 
+            text = "jin" 
+        intervals [5]:
+            xmin = 1.3325 
+            xmax = 1.606448247084472 
+            text = "jin" 
+        intervals [6]:
+            xmin = 1.606448247084472 
+            xmax = 1.8667741671348523 
+            text = "jin" 
+        intervals [7]:
+            xmin = 1.8667741671348523 
+            xmax = 2.145262360677119 
+            text = "jin" 
+        intervals [8]:
+            xmin = 2.145262360677119 
+            xmax = 2.417696463055424 
+            text = "jin" 
+        intervals [9]:
+            xmin = 2.417696463055424 
+            xmax = 2.6925 
+            text = "jin" 
+        intervals [10]:
+            xmin = 2.6925 
+            xmax = 2.9725 
+            text = "jin" 
+        intervals [11]:
+            xmin = 2.9725 
+            xmax = 3.2525 
+            text = "jin" 
+        intervals [12]:
+            xmin = 3.2525 
+            xmax = 3.5125 
+            text = "jin" 
+        intervals [13]:
+            xmin = 3.5125 
+            xmax = 3.7725 
+            text = "jin" 
+        intervals [14]:
+            xmin = 3.7725 
+            xmax = 4.0525 
+            text = "jin" 
+        intervals [15]:
+            xmin = 4.0525 
+            xmax = 4.3325 
+            text = "jin" 
+        intervals [16]:
+            xmin = 4.3325 
+            xmax = 4.6125 
+            text = "jin" 
+        intervals [17]:
+            xmin = 4.6125 
+            xmax = 4.9716099773 
+            text = "silent" 

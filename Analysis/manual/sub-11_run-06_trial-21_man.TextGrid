@@ -1,0 +1,94 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9973696145 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 4.9973696145 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1925 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.1925 
+            xmax = 0.4646199653718071 
+            text = "if" 
+        intervals [3]:
+            xmin = 0.4646199653718071 
+            xmax = 0.7202092648748261 
+            text = "if" 
+        intervals [4]:
+            xmin = 0.7202092648748261 
+            xmax = 0.9788412941338334 
+            text = "if" 
+        intervals [5]:
+            xmin = 0.9788412941338334 
+            xmax = 1.2192169448569108 
+            text = "if" 
+        intervals [6]:
+            xmin = 1.2192169448569108 
+            xmax = 1.486977163383883 
+            text = "if" 
+        intervals [7]:
+            xmin = 1.486977163383883 
+            xmax = 1.751694652154867 
+            text = "if" 
+        intervals [8]:
+            xmin = 1.751694652154867 
+            xmax = 2.0125 
+            text = "if" 
+        intervals [9]:
+            xmin = 2.0125 
+            xmax = 2.244616872624975 
+            text = "if" 
+        intervals [10]:
+            xmin = 2.244616872624975 
+            xmax = 2.4849925233480525 
+            text = "if" 
+        intervals [11]:
+            xmin = 2.4849925233480525 
+            xmax = 2.771009120410955 
+            text = "if" 
+        intervals [12]:
+            xmin = 2.771009120410955 
+            xmax = 2.993128392598102 
+            text = "if" 
+        intervals [13]:
+            xmin = 2.993128392598102 
+            xmax = 3.242632232589145 
+            text = "if" 
+        intervals [14]:
+            xmin = 3.242632232589145 
+            xmax = 3.4982215320921637 
+            text = "if" 
+        intervals [15]:
+            xmin = 3.4982215320921637 
+            xmax = 3.735554453059253 
+            text = "if" 
+        intervals [16]:
+            xmin = 3.735554453059253 
+            xmax = 3.982015563294307 
+            text = "if" 
+        intervals [17]:
+            xmin = 3.982015563294307 
+            xmax = 4.210220294993431 
+            text = "if" 
+        intervals [18]:
+            xmin = 4.210220294993431 
+            xmax = 4.444510486204532 
+            text = "if" 
+        intervals [19]:
+            xmin = 4.444510486204532 
+            xmax = 4.7325 
+            text = "if" 
+        intervals [20]:
+            xmin = 4.7325 
+            xmax = 4.9973696145 
+            text = "silent" 

@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9716099773 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 4.9716099773 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6525 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.6525 
+            xmax = 0.8725 
+            text = "airy" 
+        intervals [3]:
+            xmin = 0.8725 
+            xmax = 1.0725 
+            text = "airy" 
+        intervals [4]:
+            xmin = 1.0725 
+            xmax = 1.3125 
+            text = "airy" 
+        intervals [5]:
+            xmin = 1.3125 
+            xmax = 1.5325 
+            text = "airy" 
+        intervals [6]:
+            xmin = 1.5325 
+            xmax = 1.7525 
+            text = "airy" 
+        intervals [7]:
+            xmin = 1.7525 
+            xmax = 1.9725 
+            text = "airy" 
+        intervals [8]:
+            xmin = 1.9725 
+            xmax = 2.2125 
+            text = "airy" 
+        intervals [9]:
+            xmin = 2.2125 
+            xmax = 2.4325 
+            text = "airy" 
+        intervals [10]:
+            xmin = 2.4325 
+            xmax = 2.6925 
+            text = "airy" 
+        intervals [11]:
+            xmin = 2.6925 
+            xmax = 2.9325 
+            text = "airy" 
+        intervals [12]:
+            xmin = 2.9325 
+            xmax = 3.1725 
+            text = "airy" 
+        intervals [13]:
+            xmin = 3.1725 
+            xmax = 3.3925 
+            text = "airy" 
+        intervals [14]:
+            xmin = 3.3925 
+            xmax = 3.6325 
+            text = "airy" 
+        intervals [15]:
+            xmin = 3.6325 
+            xmax = 3.8525 
+            text = "airy" 
+        intervals [16]:
+            xmin = 3.8525 
+            xmax = 4.134031308038743 
+            text = "airy" 
+        intervals [17]:
+            xmin = 4.134031308038743 
+            xmax = 4.406465410417049 
+            text = "" 
+        intervals [18]:
+            xmin = 4.406465410417049 
+            xmax = 4.9716099773 
+            text = "silent" 

@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9716099773 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 4.9716099773 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3125 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.3125 
+            xmax = 0.658982979924368 
+            text = "imah" 
+        intervals [3]:
+            xmin = 0.658982979924368 
+            xmax = 0.9314170823026727 
+            text = "imah" 
+        intervals [4]:
+            xmin = 0.9314170823026727 
+            xmax = 1.2159593670089022 
+            text = "imah" 
+        intervals [5]:
+            xmin = 1.2159593670089022 
+            xmax = 1.5095827884610749 
+            text = "imah" 
+        intervals [6]:
+            xmin = 1.5095827884610749 
+            xmax = 1.8153143922411725 
+            text = "imah" 
+        intervals [7]:
+            xmin = 1.8153143922411725 
+            xmax = 2.0925 
+            text = "imah" 
+        intervals [8]:
+            xmin = 2.0925 
+            xmax = 2.363209642579763 
+            text = "imah" 
+        intervals [9]:
+            xmin = 2.363209642579763 
+            xmax = 2.6925 
+            text = "imah" 
+        intervals [10]:
+            xmin = 2.6925 
+            xmax = 3.1125 
+            text = "imah" 
+        intervals [11]:
+            xmin = 3.1125 
+            xmax = 3.3725 
+            text = "ma" 
+        intervals [12]:
+            xmin = 3.3725 
+            xmax = 3.5800819665361905 
+            text = "ma" 
+        intervals [13]:
+            xmin = 3.5800819665361905 
+            xmax = 3.9925 
+            text = "imah" 
+        intervals [14]:
+            xmin = 3.9925 
+            xmax = 4.1925 
+            text = "ma" 
+        intervals [15]:
+            xmin = 4.1925 
+            xmax = 4.4525 
+            text = "ma" 
+        intervals [16]:
+            xmin = 4.4525 
+            xmax = 4.8725 
+            text = "imah" 
+        intervals [17]:
+            xmin = 4.8725 
+            xmax = 4.9716 
+            text = "imah" 
+        intervals [18]:
+            xmin = 4.9716 
+            xmax = 4.9716099773 
+            text = "silent" 
