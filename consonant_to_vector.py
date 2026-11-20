@@ -17,11 +17,14 @@ glottal = "hʔ"
 consonants = plosives + "" + nasals + "" + fricatives + "" + affricates + "" + approximants
 
 def consonant_identity(consonant):
-    encoding = [0] * len(consonants)
+    encoding = [0] * (len(consonants) + 1)
 
     for i in range(len(consonants)):
         if consonant == consonants[i]:
             encoding[i] = 1
+
+    if all(x==0 for x in encoding):
+        encoding[-1] = 0
 
     return encoding
 
@@ -39,7 +42,7 @@ def consonant_vector(syl_part,type="N"):
     else:
         raise ValueError("Invalid type. Must be 'N', 'M', 'P', 'I',or 'C'.")
 def manner_vector(syl_part):
-    encoding = [0,0,0,0,0]
+    encoding = [0,0,0,0,0,0]
 
     manner_list = [plosives, nasals, fricatives, affricates, approximants]
 
@@ -48,12 +51,15 @@ def manner_vector(syl_part):
             if syl_part[j] in manner_list[i]:
                 encoding[i] = 1
 
+    if all(x==0 for x in encoding):
+        encoding[-1] = 0
+
     return encoding
 
 
 def place_vector(syl_part):
 
-    encoding = [0,0,0,0,0,0,0,0,0]
+    encoding = [0,0,0,0,0,0,0,0,0,0]
 
 
     place_list = [bilabial, labiodental, dental, alveolar, palatal, velar, uvular, pharyngeal, glottal]
@@ -62,6 +68,9 @@ def place_vector(syl_part):
         for j in range(len(syl_part)):
             if syl_part[j] in place_list[i]:
                 encoding[i] = 1
+
+    if all(x==0 for x in encoding):
+        encoding[-1] = 0
 
     return encoding
 

@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9716099773 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 4.9716099773 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6325 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.6325 
+            xmax = 0.7925 
+            text = "three" 
+        intervals [3]:
+            xmin = 0.7925 
+            xmax = 0.9677416292864467 
+            text = "three" 
+        intervals [4]:
+            xmin = 0.9677416292864467 
+            xmax = 1.1925 
+            text = "three" 
+        intervals [5]:
+            xmin = 1.1925 
+            xmax = 1.3925 
+            text = "three" 
+        intervals [6]:
+            xmin = 1.3925 
+            xmax = 1.5925 
+            text = "three" 
+        intervals [7]:
+            xmin = 1.5925 
+            xmax = 1.7971521187492854 
+            text = "three" 
+        intervals [8]:
+            xmin = 1.7971521187492854 
+            xmax = 1.9757478080861741 
+            text = "three" 
+        intervals [9]:
+            xmin = 1.9757478080861741 
+            xmax = 2.17250577091495 
+            text = "three" 
+        intervals [10]:
+            xmin = 2.17250577091495 
+            xmax = 2.3541285058338195 
+            text = "three" 
+        intervals [11]:
+            xmin = 2.3541285058338195 
+            xmax = 2.532724195170708 
+            text = "three" 
+        intervals [12]:
+            xmin = 2.532724195170708 
+            xmax = 2.72040102125354 
+            text = "three" 
+        intervals [13]:
+            xmin = 2.72040102125354 
+            xmax = 2.9111048929183534 
+            text = "three" 
+        intervals [14]:
+            xmin = 2.9111048929183534 
+            xmax = 3.122998083657035 
+            text = "three" 
+        intervals [15]:
+            xmin = 3.122998083657035 
+            xmax = 3.3325 
+            text = "three" 
+        intervals [16]:
+            xmin = 3.3325 
+            xmax = 3.507432872568643 
+            text = "three" 
+        intervals [17]:
+            xmin = 3.507432872568643 
+            xmax = 3.7325 
+            text = "three" 
+        intervals [18]:
+            xmin = 3.7325 
+            xmax = 3.9125 
+            text = "three" 
+        intervals [19]:
+            xmin = 3.9125 
+            xmax = 4.0925 
+            text = "three" 
+        intervals [20]:
+            xmin = 4.0925 
+            xmax = 4.2525 
+            text = "three" 
+        intervals [21]:
+            xmin = 4.2525 
+            xmax = 4.427654729490916 
+            text = "three" 
+        intervals [22]:
+            xmin = 4.427654729490916 
+            xmax = 4.66981837604941 
+            text = "three" 
+        intervals [23]:
+            xmin = 4.66981837604941 
+            xmax = 4.9716099773 
+            text = "" 

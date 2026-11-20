@@ -14,17 +14,20 @@ def vowel_vector(syl_part,type="N"):
         raise ValueError("Invalid type. Must be 'N', 'I', 'P', or 'M'.")
 
 def vowel_identity(vowel):
-    encoding = [0] * len(vowels)
+    encoding = [0] * (len(vowels) + 1)
 
     for i in range(len(vowels)):
         if vowel == vowels[i]:
             encoding[i] = 1
 
+    if all(x==0 for x in encoding):
+        encoding[-1] = 1
+
     return encoding
     
 
 def vowel_place(vowel):
-    encoding = [0, 0, 0]  # vowels can be front, central, or back
+    encoding = [0, 0, 0, 0]  # vowels can be front, central, or back, or None
 
     front = "iɪeɛæ"
     central = "ə"
@@ -36,10 +39,13 @@ def vowel_place(vowel):
         if vowel in place_list[i]:
             encoding[i] = 1
 
+    if all(x==0 for x in encoding):
+        encoding[-1] = 1
+
     return encoding
 
 def vowel_manner(vowel):
-    encoding = [0, 0, 0, 0, 0, 0, 0] # vowels can beclose, near-close, close-mid, mid, open-mid, near-open, open
+    encoding = [0, 0, 0, 0, 0, 0, 0, 0] # vowels can beclose, near-close, close-mid, mid, open-mid, near-open, open, or None
 
     close = "iu"
     near_close = "ɪʊ"
@@ -54,6 +60,9 @@ def vowel_manner(vowel):
     for i in range(len(manner_list)):
         if vowel in manner_list[i]:
             encoding[i] = 1
+
+    if all(x==0 for x in encoding):
+        encoding[-1] = 1
 
     return encoding
 
