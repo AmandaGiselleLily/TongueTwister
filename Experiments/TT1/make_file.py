@@ -2,14 +2,14 @@
 
 import pandas as pd
 import os
-import constants as const
+
 
 # -------------------------------
 # Set params: edit before running
 # -------------------------------
 
 # name of the file where the stimuli are stored
-stim_file_name = "syllables.csv"
+stim_file_name = "pairs_stimuli.csv"
 # time from stimulus presentation to GO cue
 prep_dur = 1 
 # time from the GO cue to the fixation cross
@@ -19,27 +19,27 @@ iti_dur = 1
 # time to initiate 1st trial
 init_t = 5
 # number of subjects
-sub_n = 30
+sub_n = 5
 # number of runs
 run_n = 8
 # number of items
-sequence_len = 9
+sequence_len = 4
 # condition
 con = "simple"
 
 # ------------
 # Define paths 
 # ------------
-base_dir = const.exp_dir                                       # Project dir
-stim_dir = base_dir / "stimuli"                                # Stimuli dir
-output_dir = const.run_dir                                     # Run files dir                   
+base_dir = "/home/alily/Documents/GitHub/TongueTwister/Experiments/TT1" # Project dir
+stim_dir = base_dir + "" + "/stimuli"                                # Stimuli dir
+output_dir = "/home/alily/Documents/GitHub/TongueTwister/Experiments/TT1/run_files_pairs" # Run files dir                   
 if not os.path.exists(output_dir):
         os.makedirs(output_dir)  
 
 # --------------
 # load stimuli
 # ---------------
-stim_fullfile = stim_dir / stim_file_name
+stim_fullfile = stim_dir + "" + "/" + stim_file_name
 items = pd.read_csv(stim_fullfile,sep=',')
 
 
